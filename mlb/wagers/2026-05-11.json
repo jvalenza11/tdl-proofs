@@ -1,0 +1,47 @@
+{
+  "system": "seemsRight MLB Prediction Model",
+  "generated_utc": "2026-05-11T13:48:32.239530+00:00",
+  "game_date": "2026-05-11",
+  "num_picks": 3,
+  "picks": [
+    {
+      "date": "2026-05-11",
+      "home_team": "TEX",
+      "away_team": "ARI",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 7.5",
+      "decimal_odds": 1.9466666666666665,
+      "implied_prob": 0.5137,
+      "model_prob": 0.6608,
+      "edge": 0.1471,
+      "ev": -0.1999
+    },
+    {
+      "date": "2026-05-11",
+      "home_team": "HOU",
+      "away_team": "SEA",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 9.0",
+      "decimal_odds": 1.8433333333333335,
+      "implied_prob": 0.5425,
+      "model_prob": 0.6525,
+      "edge": 0.11,
+      "ev": -0.2547
+    },
+    {
+      "date": "2026-05-11",
+      "home_team": "CLE",
+      "away_team": "LAA",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 7.5",
+      "decimal_odds": 1.9333333333333333,
+      "implied_prob": 0.5172,
+      "model_prob": 0.6172,
+      "edge": 0.1,
+      "ev": -0.2895
+    }
+  ]
+}

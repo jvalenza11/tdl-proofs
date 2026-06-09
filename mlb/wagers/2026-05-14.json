@@ -1,0 +1,112 @@
+{
+  "system": "seemsRight MLB Prediction Model",
+  "generated_utc": "2026-05-14T17:34:10.346073+00:00",
+  "game_date": "2026-05-14",
+  "num_picks": 8,
+  "picks": [
+    {
+      "date": "2026-05-14",
+      "home_team": "MIL",
+      "away_team": "SD",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 7.5",
+      "decimal_odds": 1.9666666666666668,
+      "implied_prob": 0.5085,
+      "model_prob": 0.65,
+      "edge": 0.1415,
+      "ev": -0.2132
+    },
+    {
+      "date": "2026-05-14",
+      "home_team": "BOS",
+      "away_team": "PHI",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 7.0",
+      "decimal_odds": 1.9333333333333336,
+      "implied_prob": 0.5172,
+      "model_prob": 0.6534,
+      "edge": 0.1362,
+      "ev": -0.2195
+    },
+    {
+      "date": "2026-05-14",
+      "home_team": "ATL",
+      "away_team": "CHC",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 7.5",
+      "decimal_odds": 1.86,
+      "implied_prob": 0.5376,
+      "model_prob": 0.6623,
+      "edge": 0.1247,
+      "ev": -0.2305
+    },
+    {
+      "date": "2026-05-14",
+      "home_team": "CIN",
+      "away_team": "WSH",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 6.5",
+      "decimal_odds": 1.89,
+      "implied_prob": 0.5291,
+      "model_prob": 0.6324,
+      "edge": 0.1033,
+      "ev": -0.2757
+    },
+    {
+      "date": "2026-05-14",
+      "home_team": "LAD",
+      "away_team": "SF",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 8.0",
+      "decimal_odds": 1.8733333333333333,
+      "implied_prob": 0.5338,
+      "model_prob": 0.6193,
+      "edge": 0.0855,
+      "ev": -0.306
+    },
+    {
+      "date": "2026-05-14",
+      "home_team": "NYM",
+      "away_team": "DET",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 9.5",
+      "decimal_odds": 1.8166666666666664,
+      "implied_prob": 0.5505,
+      "model_prob": 0.6301,
+      "edge": 0.0796,
+      "ev": -0.3049
+    },
+    {
+      "date": "2026-05-14",
+      "home_team": "HOU",
+      "away_team": "SEA",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 9.0",
+      "decimal_odds": 1.9066666666666665,
+      "implied_prob": 0.5245,
+      "model_prob": 0.5969,
+      "edge": 0.0724,
+      "ev": -0.3374
+    },
+    {
+      "date": "2026-05-14",
+      "home_team": "CWS",
+      "away_team": "KC",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 8.0",
+      "decimal_odds": 1.87,
+      "implied_prob": 0.5348,
+      "model_prob": 0.5987,
+      "edge": 0.0639,
+      "ev": -0.3457
+    }
+  ]
+}

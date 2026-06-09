@@ -1,0 +1,92 @@
+{
+  "system": "seemsRight MLB Prediction Model",
+  "generated_utc": "2026-04-13T11:20:09+00:00",
+  "game_date": "2026-04-13",
+  "num_picks": 6,
+  "picks": [
+    {
+      "date": "2026-04-13",
+      "home_team": "BAL",
+      "away_team": "ARI",
+      "market": "spread",
+      "side": "home",
+      "pick_desc": "BAL -1.5",
+      "decimal_odds": 2.55,
+      "implied_prob": 0.3927,
+      "model_prob": 0.6398,
+      "edge": 0.2471,
+      "ev": 0.022,
+      "kelly_bet": 23.0
+    },
+    {
+      "date": "2026-04-13",
+      "home_team": "ATL",
+      "away_team": "MIA",
+      "market": "spread",
+      "side": "home",
+      "pick_desc": "ATL -1.5",
+      "decimal_odds": 2.47,
+      "implied_prob": 0.4054,
+      "model_prob": 0.6405,
+      "edge": 0.2351,
+      "ev": -0.0147,
+      "kelly_bet": 22.0
+    },
+    {
+      "date": "2026-04-13",
+      "home_team": "SEA",
+      "away_team": "HOU",
+      "market": "spread",
+      "side": "home",
+      "pick_desc": "SEA -1.5",
+      "decimal_odds": 2.25,
+      "implied_prob": 0.4451,
+      "model_prob": 0.6453,
+      "edge": 0.2002,
+      "ev": -0.1051,
+      "kelly_bet": 20.0
+    },
+    {
+      "date": "2026-04-13",
+      "home_team": "PHI",
+      "away_team": "CHC",
+      "market": "spread",
+      "side": "home",
+      "pick_desc": "PHI -1.5",
+      "decimal_odds": 2.15,
+      "implied_prob": 0.4644,
+      "model_prob": 0.6613,
+      "edge": 0.1969,
+      "ev": -0.1116,
+      "kelly_bet": 21.0
+    },
+    {
+      "date": "2026-04-13",
+      "home_team": "LAD",
+      "away_team": "NYM",
+      "market": "spread",
+      "side": "home",
+      "pick_desc": "LAD -1.5",
+      "decimal_odds": 2.21,
+      "implied_prob": 0.4525,
+      "model_prob": 0.6451,
+      "edge": 0.1926,
+      "ev": -0.1218,
+      "kelly_bet": 20.0
+    },
+    {
+      "date": "2026-04-13",
+      "home_team": "NYY",
+      "away_team": "LAA",
+      "market": "spread",
+      "side": "home",
+      "pick_desc": "NYY -1.5",
+      "decimal_odds": 2.11,
+      "implied_prob": 0.4732,
+      "model_prob": 0.6524,
+      "edge": 0.1792,
+      "ev": -0.1481,
+      "kelly_bet": 19.0
+    }
+  ]
+}

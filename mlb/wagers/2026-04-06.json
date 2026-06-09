@@ -1,0 +1,112 @@
+{
+  "system": "seemsRight MLB Prediction Model",
+  "generated_utc": "2026-04-06T22:38:29.060966+00:00",
+  "game_date": "2026-04-06",
+  "num_picks": 8,
+  "picks": [
+    {
+      "date": "2026-04-06",
+      "home_team": "CLE",
+      "away_team": "KC",
+      "market": "spread",
+      "side": "home",
+      "pick_desc": "CLE -1.5",
+      "decimal_odds": 2.8266666666666667,
+      "implied_prob": 0.3538,
+      "model_prob": 0.6419,
+      "edge": 0.2881,
+      "ev": 0.1682
+    },
+    {
+      "date": "2026-04-06",
+      "home_team": "MIA",
+      "away_team": "CIN",
+      "market": "spread",
+      "side": "home",
+      "pick_desc": "MIA -1.5",
+      "decimal_odds": 2.543333333333333,
+      "implied_prob": 0.3932,
+      "model_prob": 0.6388,
+      "edge": 0.2456,
+      "ev": 0.0179
+    },
+    {
+      "date": "2026-04-06",
+      "home_team": "PIT",
+      "away_team": "SD",
+      "market": "spread",
+      "side": "home",
+      "pick_desc": "PIT -1.5",
+      "decimal_odds": 2.44,
+      "implied_prob": 0.4098,
+      "model_prob": 0.6392,
+      "edge": 0.2294,
+      "ev": -0.0305
+    },
+    {
+      "date": "2026-04-06",
+      "home_team": "MIN",
+      "away_team": "DET",
+      "market": "spread",
+      "side": "home",
+      "pick_desc": "MIN -1.5",
+      "decimal_odds": 2.145,
+      "implied_prob": 0.4662,
+      "model_prob": 0.6394,
+      "edge": 0.1732,
+      "ev": -0.1623
+    },
+    {
+      "date": "2026-04-06",
+      "home_team": "COL",
+      "away_team": "HOU",
+      "market": "spread",
+      "side": "home",
+      "pick_desc": "COL -1.5",
+      "decimal_odds": 1.8533333333333335,
+      "implied_prob": 0.5396,
+      "model_prob": 0.628,
+      "edge": 0.0884,
+      "ev": -0.2965
+    },
+    {
+      "date": "2026-04-06",
+      "home_team": "LAA",
+      "away_team": "ATL",
+      "market": "spread",
+      "side": "home",
+      "pick_desc": "LAA -1.5",
+      "decimal_odds": 1.8466666666666667,
+      "implied_prob": 0.5415,
+      "model_prob": 0.6031,
+      "edge": 0.0616,
+      "ev": -0.3448
+    },
+    {
+      "date": "2026-04-06",
+      "home_team": "CWS",
+      "away_team": "BAL",
+      "market": "spread",
+      "side": "home",
+      "pick_desc": "CWS -1.5",
+      "decimal_odds": 1.7300000000000002,
+      "implied_prob": 0.578,
+      "model_prob": 0.6267,
+      "edge": 0.0487,
+      "ev": -0.3378
+    },
+    {
+      "date": "2026-04-06",
+      "home_team": "BOS",
+      "away_team": "MIL",
+      "market": "spread",
+      "side": "home",
+      "pick_desc": "BOS -1.5",
+      "decimal_odds": 1.6566666666666665,
+      "implied_prob": 0.6036,
+      "model_prob": 0.6194,
+      "edge": 0.0158,
+      "ev": -0.3702
+    }
+  ]
+}

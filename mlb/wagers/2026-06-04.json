@@ -1,0 +1,50 @@
+{
+  "system": "seemsRight MLB Prediction Model",
+  "generated_utc": "2026-06-04T12:09:38+00:00",
+  "game_date": "2026-06-04",
+  "num_picks": 3,
+  "picks": [
+    {
+      "date": "2026-06-04",
+      "home_team": "BOS",
+      "away_team": "BAL",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 10.5",
+      "decimal_odds": 1.93,
+      "implied_prob": 0.5181,
+      "model_prob": 0.6513,
+      "edge": 0.1331,
+      "ev": -0.2326,
+      "kelly_bet": 22.0
+    },
+    {
+      "date": "2026-06-04",
+      "home_team": "PHI",
+      "away_team": "SD",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 8.0",
+      "decimal_odds": 1.94,
+      "implied_prob": 0.5155,
+      "model_prob": 0.6390,
+      "edge": 0.1235,
+      "ev": -0.2520,
+      "kelly_bet": 21.0
+    },
+    {
+      "date": "2026-06-04",
+      "home_team": "CHC",
+      "away_team": "OAK",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 10.0",
+      "decimal_odds": 1.93,
+      "implied_prob": 0.5181,
+      "model_prob": 0.6307,
+      "edge": 0.1125,
+      "ev": -0.2649,
+      "kelly_bet": 19.0
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "system": "seemsRight MLB Prediction Model",
+  "generated_utc": "2026-03-30T16:02:24.687491+00:00",
+  "game_date": "2026-03-30",
+  "num_picks": 5,
+  "picks": [
+    {
+      "date": "2026-03-30",
+      "home_team": "CIN",
+      "away_team": "PIT",
+      "market": "spread",
+      "side": "home",
+      "pick_desc": "CIN -1.5",
+      "decimal_odds": 2.6333333333333333,
+      "implied_prob": 0.3797,
+      "model_prob": 0.6391,
+      "edge": 0.2594,
+      "ev": 0.0627
+    },
+    {
+      "date": "2026-03-30",
+      "home_team": "MIA",
+      "away_team": "CWS",
+      "market": "spread",
+      "side": "home",
+      "pick_desc": "MIA -1.5",
+      "decimal_odds": 2.5500000000000003,
+      "implied_prob": 0.3922,
+      "model_prob": 0.6393,
+      "edge": 0.2471,
+      "ev": 0.0224
+    },
+    {
+      "date": "2026-03-30",
+      "home_team": "SEA",
+      "away_team": "NYY",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 7.5",
+      "decimal_odds": 1.97,
+      "implied_prob": 0.5076,
+      "model_prob": 0.5971,
+      "edge": 0.0895,
+      "ev": -0.3161
+    },
+    {
+      "date": "2026-03-30",
+      "home_team": "STL",
+      "away_team": "NYM",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 8.7",
+      "decimal_odds": 1.95,
+      "implied_prob": 0.5128,
+      "model_prob": 0.5971,
+      "edge": 0.0843,
+      "ev": -0.3228
+    },
+    {
+      "date": "2026-03-30",
+      "home_team": "STL",
+      "away_team": "NYM",
+      "market": "moneyline",
+      "side": "home",
+      "pick_desc": "STL ML",
+      "decimal_odds": 2.2666666666666666,
+      "implied_prob": 0.4412,
+      "model_prob": 0.4961,
+      "edge": 0.0549,
+      "ev": -0.4343
+    }
+  ]
+}

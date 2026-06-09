@@ -1,0 +1,73 @@
+{
+  "system": "seemsRight MLB Prediction Model",
+  "generated_utc": "2026-04-20T11:00:39.612368+00:00",
+  "game_date": "2026-04-20",
+  "num_picks": 5,
+  "picks": [
+    {
+      "date": "2026-04-20",
+      "home_team": "MIA",
+      "away_team": "STL",
+      "market": "spread",
+      "side": "home",
+      "pick_desc": "MIA -1.5",
+      "decimal_odds": 2.5933333333333333,
+      "implied_prob": 0.3856,
+      "model_prob": 0.6393,
+      "edge": 0.2537,
+      "ev": 0.0435
+    },
+    {
+      "date": "2026-04-20",
+      "home_team": "BOS",
+      "away_team": "DET",
+      "market": "spread",
+      "side": "home",
+      "pick_desc": "BOS -1.5",
+      "decimal_odds": 2.5366666666666666,
+      "implied_prob": 0.3942,
+      "model_prob": 0.6392,
+      "edge": 0.245,
+      "ev": 0.0157
+    },
+    {
+      "date": "2026-04-20",
+      "home_team": "SEA",
+      "away_team": "OAK",
+      "market": "spread",
+      "side": "home",
+      "pick_desc": "SEA -1.5",
+      "decimal_odds": 2.3066666666666666,
+      "implied_prob": 0.4335,
+      "model_prob": 0.6341,
+      "edge": 0.2006,
+      "ev": -0.1038
+    },
+    {
+      "date": "2026-04-20",
+      "home_team": "COL",
+      "away_team": "LAD",
+      "market": "spread",
+      "side": "home",
+      "pick_desc": "COL +1.5",
+      "decimal_odds": 2.313333333333333,
+      "implied_prob": 0.4323,
+      "model_prob": 0.5212,
+      "edge": 0.0889,
+      "ev": -0.362
+    },
+    {
+      "date": "2026-04-20",
+      "home_team": "WSH",
+      "away_team": "ATL",
+      "market": "spread",
+      "side": "home",
+      "pick_desc": "WSH +1.5",
+      "decimal_odds": 1.8233333333333333,
+      "implied_prob": 0.5484,
+      "model_prob": 0.6147,
+      "edge": 0.0663,
+      "ev": -0.3308
+    }
+  ]
+}

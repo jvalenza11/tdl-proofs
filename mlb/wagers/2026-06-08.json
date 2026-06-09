@@ -1,0 +1,64 @@
+{
+  "system": "seemsRight MLB Prediction Model",
+  "generated_utc": "2026-06-08T11:05:07+00:00",
+  "game_date": "2026-06-08",
+  "num_picks": 4,
+  "picks": [
+    {
+      "date": "2026-06-08",
+      "home_team": "CLE",
+      "away_team": "NYY",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 7.5",
+      "decimal_odds": 1.95,
+      "implied_prob": 0.5128,
+      "model_prob": 0.6467,
+      "edge": 0.1339,
+      "ev": -0.2174,
+      "kelly_bet": 22.0
+    },
+    {
+      "date": "2026-06-08",
+      "home_team": "TOR",
+      "away_team": "PHI",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 7.5",
+      "decimal_odds": 1.86,
+      "implied_prob": 0.5376,
+      "model_prob": 0.6543,
+      "edge": 0.1167,
+      "ev": -0.2474,
+      "kelly_bet": 21.0
+    },
+    {
+      "date": "2026-06-08",
+      "home_team": "OAK",
+      "away_team": "MIL",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 11.0",
+      "decimal_odds": 1.93,
+      "implied_prob": 0.5181,
+      "model_prob": 0.6266,
+      "edge": 0.1085,
+      "ev": -0.2733,
+      "kelly_bet": 18.0
+    },
+    {
+      "date": "2026-06-08",
+      "home_team": "LAA",
+      "away_team": "HOU",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 9.0",
+      "decimal_odds": 1.90,
+      "implied_prob": 0.5263,
+      "model_prob": 0.6063,
+      "edge": 0.0800,
+      "ev": -0.3079,
+      "kelly_bet": 13.0
+    }
+  ]
+}

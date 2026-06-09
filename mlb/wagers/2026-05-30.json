@@ -1,0 +1,50 @@
+{
+  "system": "seemsRight MLB Prediction Model",
+  "generated_utc": "2026-05-30T12:51:39+00:00",
+  "game_date": "2026-05-30",
+  "num_picks": 3,
+  "picks": [
+    {
+      "date": "2026-05-30",
+      "home_team": "NYM",
+      "away_team": "MIA",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 7.0",
+      "decimal_odds": 1.95,
+      "implied_prob": 0.5128,
+      "model_prob": 0.6549,
+      "edge": 0.1421,
+      "ev": -0.2230,
+      "kelly_bet": 24.0
+    },
+    {
+      "date": "2026-05-30",
+      "home_team": "WSH",
+      "away_team": "SD",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 7.5",
+      "decimal_odds": 1.93,
+      "implied_prob": 0.5181,
+      "model_prob": 0.6483,
+      "edge": 0.1302,
+      "ev": -0.2418,
+      "kelly_bet": 22.0
+    },
+    {
+      "date": "2026-05-30",
+      "home_team": "HOU",
+      "away_team": "MIL",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 8.5",
+      "decimal_odds": 1.97,
+      "implied_prob": 0.5076,
+      "model_prob": 0.6338,
+      "edge": 0.1262,
+      "ev": -0.2517,
+      "kelly_bet": 21.0
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "system": "seemsRight MLB Prediction Model",
+  "generated_utc": "2026-06-03T11:38:53+00:00",
+  "game_date": "2026-06-03",
+  "num_picks": 4,
+  "picks": [
+    {
+      "date": "2026-06-03",
+      "home_team": "HOU",
+      "away_team": "PIT",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 7.5",
+      "decimal_odds": 1.97,
+      "implied_prob": 0.5076,
+      "model_prob": 0.6671,
+      "edge": 0.1585,
+      "ev": -0.1845,
+      "kelly_bet": 26.0
+    },
+    {
+      "date": "2026-06-03",
+      "home_team": "CIN",
+      "away_team": "KC",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 8.5",
+      "decimal_odds": 1.87,
+      "implied_prob": 0.5348,
+      "model_prob": 0.6678,
+      "edge": 0.1330,
+      "ev": -0.2173,
+      "kelly_bet": 23.0
+    },
+    {
+      "date": "2026-06-03",
+      "home_team": "PHI",
+      "away_team": "SD",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 7.5",
+      "decimal_odds": 1.95,
+      "implied_prob": 0.5128,
+      "model_prob": 0.6253,
+      "edge": 0.1125,
+      "ev": -0.2645,
+      "kelly_bet": 18.0
+    },
+    {
+      "date": "2026-06-03",
+      "home_team": "WSH",
+      "away_team": "MIA",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 8.0",
+      "decimal_odds": 1.92,
+      "implied_prob": 0.5208,
+      "model_prob": 0.6332,
+      "edge": 0.1124,
+      "ev": -0.2641,
+      "kelly_bet": 19.0
+    }
+  ]
+}

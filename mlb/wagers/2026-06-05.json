@@ -1,0 +1,50 @@
+{
+  "system": "seemsRight MLB Prediction Model",
+  "generated_utc": "2026-06-05T16:56:37+00:00",
+  "game_date": "2026-06-05",
+  "num_picks": 3,
+  "picks": [
+    {
+      "date": "2026-06-05",
+      "home_team": "SD",
+      "away_team": "NYM",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 7.5",
+      "decimal_odds": 1.87,
+      "implied_prob": 0.5348,
+      "model_prob": 0.6604,
+      "edge": 0.1256,
+      "ev": -0.2493,
+      "kelly_bet": 22.0
+    },
+    {
+      "date": "2026-06-05",
+      "home_team": "CHC",
+      "away_team": "SF",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 11.0",
+      "decimal_odds": 1.88,
+      "implied_prob": 0.5319,
+      "model_prob": 0.6290,
+      "edge": 0.0971,
+      "ev": -0.2974,
+      "kelly_bet": 17.0
+    },
+    {
+      "date": "2026-06-05",
+      "home_team": "DET",
+      "away_team": "SEA",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 7.5",
+      "decimal_odds": 1.95,
+      "implied_prob": 0.5128,
+      "model_prob": 0.5975,
+      "edge": 0.0847,
+      "ev": -0.3074,
+      "kelly_bet": 14.0
+    }
+  ]
+}

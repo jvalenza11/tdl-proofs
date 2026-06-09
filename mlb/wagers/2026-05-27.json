@@ -1,0 +1,50 @@
+{
+  "system": "seemsRight MLB Prediction Model",
+  "generated_utc": "2026-05-27T12:15:00+00:00",
+  "game_date": "2026-05-27",
+  "num_picks": 3,
+  "picks": [
+    {
+      "date": "2026-05-27",
+      "home_team": "KC",
+      "away_team": "NYY",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 9.0",
+      "decimal_odds": 1.95,
+      "implied_prob": 0.5128,
+      "model_prob": 0.6385,
+      "edge": 0.1257,
+      "ev": -0.2453,
+      "kelly_bet": 21.0
+    },
+    {
+      "date": "2026-05-27",
+      "home_team": "DET",
+      "away_team": "LAA",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 7.5",
+      "decimal_odds": 1.92,
+      "implied_prob": 0.5208,
+      "model_prob": 0.6398,
+      "edge": 0.1190,
+      "ev": -0.2515,
+      "kelly_bet": 20.0
+    },
+    {
+      "date": "2026-05-27",
+      "home_team": "SD",
+      "away_team": "PHI",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 7.0",
+      "decimal_odds": 2.00,
+      "implied_prob": 0.5000,
+      "model_prob": 0.6118,
+      "edge": 0.1118,
+      "ev": -0.2647,
+      "kelly_bet": 18.0
+    }
+  ]
+}

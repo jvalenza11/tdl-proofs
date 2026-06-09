@@ -1,0 +1,21 @@
+{
+  "system": "seemsRight MLB Prediction Model",
+  "generated_utc": "2026-03-26T00:16:30.766969+00:00",
+  "game_date": "2026-03-25",
+  "num_picks": 1,
+  "picks": [
+    {
+      "date": "2026-03-25",
+      "home_team": "SF",
+      "away_team": "NYY",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 7.0",
+      "decimal_odds": 1.9466666666666665,
+      "implied_prob": 0.5137,
+      "model_prob": 0.5971,
+      "edge": 0.0834,
+      "ev": -0.3239
+    }
+  ]
+}

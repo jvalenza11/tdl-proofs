@@ -1,0 +1,78 @@
+{
+  "system": "seemsRight MLB Prediction Model",
+  "generated_utc": "2026-04-11T12:39:55.655906+00:00",
+  "game_date": "2026-04-11",
+  "num_picks": 5,
+  "picks": [
+    {
+      "date": "2026-04-11",
+      "home_team": "PHI",
+      "away_team": "ARI",
+      "market": "spread",
+      "side": "home",
+      "pick_desc": "PHI -1.5",
+      "decimal_odds": 2.48,
+      "implied_prob": 0.4027,
+      "model_prob": 0.6393,
+      "edge": 0.2366,
+      "ev": -0.0097,
+      "kelly_bet": 23.0
+    },
+    {
+      "date": "2026-04-11",
+      "home_team": "SEA",
+      "away_team": "HOU",
+      "market": "spread",
+      "side": "home",
+      "pick_desc": "SEA -1.5",
+      "decimal_odds": 2.45,
+      "implied_prob": 0.4087,
+      "model_prob": 0.6433,
+      "edge": 0.2346,
+      "ev": -0.0173,
+      "kelly_bet": 23.0
+    },
+    {
+      "date": "2026-04-11",
+      "home_team": "CIN",
+      "away_team": "LAA",
+      "market": "spread",
+      "side": "home",
+      "pick_desc": "CIN -1.5",
+      "decimal_odds": 2.46,
+      "implied_prob": 0.406,
+      "model_prob": 0.6391,
+      "edge": 0.2331,
+      "ev": -0.0197,
+      "kelly_bet": 22.0
+    },
+    {
+      "date": "2026-04-11",
+      "home_team": "LAD",
+      "away_team": "TEX",
+      "market": "spread",
+      "side": "home",
+      "pick_desc": "LAD -1.5",
+      "decimal_odds": 2.11,
+      "implied_prob": 0.4739,
+      "model_prob": 0.6617,
+      "edge": 0.1878,
+      "ev": -0.1299,
+      "kelly_bet": 20.0
+    },
+    {
+      "date": "2026-04-11",
+      "home_team": "KC",
+      "away_team": "CWS",
+      "market": "spread",
+      "side": "home",
+      "pick_desc": "KC -1.5",
+      "decimal_odds": 2.08,
+      "implied_prob": 0.4808,
+      "model_prob": 0.6624,
+      "edge": 0.1816,
+      "ev": -0.1414,
+      "kelly_bet": 20.0
+    }
+  ]
+}

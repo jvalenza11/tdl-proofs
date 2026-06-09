@@ -1,0 +1,64 @@
+{
+  "system": "seemsRight MLB Prediction Model",
+  "generated_utc": "2026-05-29T12:18:04+00:00",
+  "game_date": "2026-05-29",
+  "num_picks": 4,
+  "picks": [
+    {
+      "date": "2026-05-29",
+      "home_team": "LAD",
+      "away_team": "PHI",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 8.0",
+      "decimal_odds": 1.93,
+      "implied_prob": 0.5181,
+      "model_prob": 0.6248,
+      "edge": 0.1067,
+      "ev": -0.2738,
+      "kelly_bet": 20.0
+    },
+    {
+      "date": "2026-05-29",
+      "home_team": "TEX",
+      "away_team": "KC",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 7.5",
+      "decimal_odds": 1.88,
+      "implied_prob": 0.5319,
+      "model_prob": 0.6301,
+      "edge": 0.0982,
+      "ev": -0.3047,
+      "kelly_bet": 20.0
+    },
+    {
+      "date": "2026-05-29",
+      "home_team": "HOU",
+      "away_team": "MIL",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 8.5",
+      "decimal_odds": 1.86,
+      "implied_prob": 0.5376,
+      "model_prob": 0.6291,
+      "edge": 0.0915,
+      "ev": -0.3199,
+      "kelly_bet": 20.0
+    },
+    {
+      "date": "2026-05-29",
+      "home_team": "PIT",
+      "away_team": "MIN",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 8.0",
+      "decimal_odds": 1.93,
+      "implied_prob": 0.5181,
+      "model_prob": 0.5945,
+      "edge": 0.0764,
+      "ev": -0.3174,
+      "kelly_bet": 20.0
+    }
+  ]
+}

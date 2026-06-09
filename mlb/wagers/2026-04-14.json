@@ -1,0 +1,78 @@
+{
+  "system": "seemsRight MLB Prediction Model",
+  "generated_utc": "2026-04-14T12:47:16+00:00",
+  "game_date": "2026-04-14",
+  "num_picks": 5,
+  "picks": [
+    {
+      "date": "2026-04-14",
+      "home_team": "BAL",
+      "away_team": "ARI",
+      "market": "spread",
+      "side": "home",
+      "pick_desc": "BAL -1.5",
+      "decimal_odds": 2.44,
+      "implied_prob": 0.4104,
+      "model_prob": 0.6428,
+      "edge": 0.2324,
+      "ev": -0.0233,
+      "kelly_bet": 23.0
+    },
+    {
+      "date": "2026-04-14",
+      "home_team": "PHI",
+      "away_team": "CHC",
+      "market": "spread",
+      "side": "home",
+      "pick_desc": "PHI -1.5",
+      "decimal_odds": 2.41,
+      "implied_prob": 0.4144,
+      "model_prob": 0.6428,
+      "edge": 0.2284,
+      "ev": -0.0343,
+      "kelly_bet": 23.0
+    },
+    {
+      "date": "2026-04-14",
+      "home_team": "ATL",
+      "away_team": "MIA",
+      "market": "spread",
+      "side": "home",
+      "pick_desc": "ATL -1.5",
+      "decimal_odds": 2.37,
+      "implied_prob": 0.4213,
+      "model_prob": 0.6325,
+      "edge": 0.2112,
+      "ev": -0.0775,
+      "kelly_bet": 22.0
+    },
+    {
+      "date": "2026-04-14",
+      "home_team": "PIT",
+      "away_team": "WSH",
+      "market": "spread",
+      "side": "home",
+      "pick_desc": "PIT -1.5",
+      "decimal_odds": 2.15,
+      "implied_prob": 0.4651,
+      "model_prob": 0.6607,
+      "edge": 0.1956,
+      "ev": -0.1144,
+      "kelly_bet": 22.0
+    },
+    {
+      "date": "2026-04-14",
+      "home_team": "NYY",
+      "away_team": "LAA",
+      "market": "spread",
+      "side": "home",
+      "pick_desc": "NYY -1.5",
+      "decimal_odds": 2.14,
+      "implied_prob": 0.468,
+      "model_prob": 0.6524,
+      "edge": 0.1844,
+      "ev": -0.138,
+      "kelly_bet": 21.0
+    }
+  ]
+}

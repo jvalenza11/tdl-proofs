@@ -1,0 +1,47 @@
+{
+  "system": "seemsRight MLB Prediction Model",
+  "generated_utc": "2026-04-02T13:05:40.247947+00:00",
+  "game_date": "2026-04-02",
+  "num_picks": 3,
+  "picks": [
+    {
+      "date": "2026-04-02",
+      "home_team": "KC",
+      "away_team": "MIN",
+      "market": "spread",
+      "side": "home",
+      "pick_desc": "KC -1.5",
+      "decimal_odds": 2.255,
+      "implied_prob": 0.4435,
+      "model_prob": 0.6338,
+      "edge": 0.1903,
+      "ev": -0.1273
+    },
+    {
+      "date": "2026-04-02",
+      "home_team": "SF",
+      "away_team": "NYM",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 7.2",
+      "decimal_odds": 1.9333333333333333,
+      "implied_prob": 0.5172,
+      "model_prob": 0.5971,
+      "edge": 0.0799,
+      "ev": -0.3284
+    },
+    {
+      "date": "2026-04-02",
+      "home_team": "ARI",
+      "away_team": "ATL",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 8.7",
+      "decimal_odds": 1.93,
+      "implied_prob": 0.5181,
+      "model_prob": 0.5971,
+      "edge": 0.079,
+      "ev": -0.3295
+    }
+  ]
+}
