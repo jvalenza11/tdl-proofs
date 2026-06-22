@@ -1,34 +1,47 @@
 {
   "system": "seemsRight MLB Prediction Model",
-  "generated_utc": "2026-06-22T13:02:31.085917+00:00",
+  "generated_utc": "2026-06-22T18:06:12.971869+00:00",
   "game_date": "2026-06-22",
-  "num_picks": 6,
+  "num_picks": 8,
   "picks": [
     {
       "date": "2026-06-22",
-      "home_team": "WSH",
-      "away_team": "PHI",
+      "home_team": "STL",
+      "away_team": "ARI",
       "market": "spread",
-      "side": "away",
-      "pick_desc": "PHI +1.5",
-      "decimal_odds": 2.4633333333333334,
-      "implied_prob": 0.406,
-      "model_prob": 0.6399,
-      "edge": 0.2339,
-      "ev": -0.0178
+      "side": "home",
+      "pick_desc": "STL -1.5",
+      "decimal_odds": 2.4466666666666668,
+      "implied_prob": 0.4087,
+      "model_prob": 0.6816,
+      "edge": 0.2729,
+      "ev": 0.0764
+    },
+    {
+      "date": "2026-06-22",
+      "home_team": "TB",
+      "away_team": "KC",
+      "market": "spread",
+      "side": "home",
+      "pick_desc": "TB -1.5",
+      "decimal_odds": 2.1633333333333336,
+      "implied_prob": 0.4622,
+      "model_prob": 0.6803,
+      "edge": 0.2181,
+      "ev": -0.066
     },
     {
       "date": "2026-06-22",
       "home_team": "MIA",
       "away_team": "TEX",
       "market": "spread",
-      "side": "away",
-      "pick_desc": "TEX +1.5",
-      "decimal_odds": 2.2933333333333334,
-      "implied_prob": 0.436,
-      "model_prob": 0.6553,
-      "edge": 0.2193,
-      "ev": -0.0611
+      "side": "home",
+      "pick_desc": "MIA -1.5",
+      "decimal_odds": 2.2066666666666666,
+      "implied_prob": 0.4532,
+      "model_prob": 0.6547,
+      "edge": 0.2015,
+      "ev": -0.1021
     },
     {
       "date": "2026-06-22",
@@ -37,11 +50,24 @@
       "market": "moneyline",
       "side": "home",
       "pick_desc": "LAA ML",
-      "decimal_odds": 2.3499999999999996,
-      "implied_prob": 0.4255,
-      "model_prob": 0.4978,
-      "edge": 0.0723,
-      "ev": -0.4046
+      "decimal_odds": 2.3533333333333335,
+      "implied_prob": 0.4249,
+      "model_prob": 0.5306,
+      "edge": 0.1057,
+      "ev": -0.3264
+    },
+    {
+      "date": "2026-06-22",
+      "home_team": "COL",
+      "away_team": "BOS",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 11.5",
+      "decimal_odds": 1.9533333333333331,
+      "implied_prob": 0.5119,
+      "model_prob": 0.6054,
+      "edge": 0.0935,
+      "ev": -0.3055
     },
     {
       "date": "2026-06-22",
@@ -50,24 +76,11 @@
       "market": "spread",
       "side": "home",
       "pick_desc": "LAA +1.5",
-      "decimal_odds": 1.8100000000000003,
-      "implied_prob": 0.5525,
-      "model_prob": 0.6216,
-      "edge": 0.0691,
-      "ev": -0.3224
-    },
-    {
-      "date": "2026-06-22",
-      "home_team": "CIN",
-      "away_team": "MIL",
-      "market": "moneyline",
-      "side": "home",
-      "pick_desc": "CIN ML",
-      "decimal_odds": 2.3033333333333332,
-      "implied_prob": 0.4342,
-      "model_prob": 0.4978,
-      "edge": 0.0636,
-      "ev": -0.4192
+      "decimal_odds": 1.8133333333333335,
+      "implied_prob": 0.5515,
+      "model_prob": 0.6228,
+      "edge": 0.0713,
+      "ev": -0.3192
     },
     {
       "date": "2026-06-22",
@@ -76,11 +89,24 @@
       "market": "moneyline",
       "side": "home",
       "pick_desc": "MIN ML",
-      "decimal_odds": 2.276666666666667,
-      "implied_prob": 0.4392,
+      "decimal_odds": 2.2933333333333334,
+      "implied_prob": 0.436,
       "model_prob": 0.4978,
-      "edge": 0.0586,
-      "ev": -0.4274
+      "edge": 0.0618,
+      "ev": -0.4223
+    },
+    {
+      "date": "2026-06-22",
+      "home_team": "TB",
+      "away_team": "KC",
+      "market": "moneyline",
+      "side": "away",
+      "pick_desc": "KC ML",
+      "decimal_odds": 2.58,
+      "implied_prob": 0.3876,
+      "model_prob": 0.4426,
+      "edge": 0.055,
+      "ev": -0.4705
     }
   ]
 }
