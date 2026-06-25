@@ -1,0 +1,27 @@
+{
+  "game_date": "2026-06-25",
+  "generated_utc": "2026-06-25T13:44:36Z",
+  "num_picks": 1,
+  "picks": [
+    {
+      "actual_line": null,
+      "away_team": "SEA",
+      "bankroll_before": null,
+      "decimal_odds": 2.2,
+      "edge": 0.08585454545454546,
+      "game_date": "2026-06-25",
+      "home_team": "PIT",
+      "implied_prob": 0.45454545454545453,
+      "market": "moneyline",
+      "model_prob": 0.5404,
+      "notes": "365",
+      "pick_desc": "PIT ML",
+      "result": null,
+      "side": "home",
+      "sport": "mlb",
+      "stake": 20.0,
+      "taken_at": "2026-06-25T11:32:25.396767"
+    }
+  ],
+  "system": "TDL Curated Picks"
+}
