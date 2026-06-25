@@ -1,7 +1,7 @@
 {
   "game_date": "2026-06-25",
-  "generated_utc": "2026-06-25T13:44:36Z",
-  "num_picks": 1,
+  "generated_utc": "2026-06-25T16:48:24Z",
+  "num_picks": 2,
   "picks": [
     {
       "actual_line": null,
@@ -21,6 +21,25 @@
       "sport": "mlb",
       "stake": 20.0,
       "taken_at": "2026-06-25T11:32:25.396767"
+    },
+    {
+      "actual_line": null,
+      "away_team": "PHI",
+      "bankroll_before": null,
+      "decimal_odds": 2.4,
+      "edge": 0.10283333333333328,
+      "game_date": "2026-06-25",
+      "home_team": "WSH",
+      "implied_prob": 0.4166666666666667,
+      "market": "moneyline",
+      "model_prob": 0.5195,
+      "notes": "365",
+      "pick_desc": "WSH ML",
+      "result": null,
+      "side": "home",
+      "sport": "mlb",
+      "stake": 25.0,
+      "taken_at": "2026-06-25T16:17:28.914559"
     }
   ],
   "system": "TDL Curated Picks"
