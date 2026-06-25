@@ -1,0 +1,47 @@
+{
+  "system": "seemsRight MLB Prediction Model",
+  "generated_utc": "2026-06-25T06:32:47.427821+00:00",
+  "game_date": "2026-06-25",
+  "num_picks": 3,
+  "picks": [
+    {
+      "date": "2026-06-25",
+      "home_team": "WSH",
+      "away_team": "PHI",
+      "market": "moneyline",
+      "side": "home",
+      "pick_desc": "WSH ML",
+      "decimal_odds": 2.5433333333333334,
+      "implied_prob": 0.3932,
+      "model_prob": 0.5195,
+      "edge": 0.1263,
+      "ev": -0.2856
+    },
+    {
+      "date": "2026-06-25",
+      "home_team": "BOS",
+      "away_team": "NYY",
+      "market": "moneyline",
+      "side": "home",
+      "pick_desc": "BOS ML",
+      "decimal_odds": 2.3733333333333335,
+      "implied_prob": 0.4213,
+      "model_prob": 0.5195,
+      "edge": 0.0982,
+      "ev": -0.3457
+    },
+    {
+      "date": "2026-06-25",
+      "home_team": "PIT",
+      "away_team": "SEA",
+      "market": "moneyline",
+      "side": "home",
+      "pick_desc": "PIT ML",
+      "decimal_odds": 2.19,
+      "implied_prob": 0.4566,
+      "model_prob": 0.5404,
+      "edge": 0.0838,
+      "ev": -0.3599
+    }
+  ]
+}
