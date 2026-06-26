@@ -1,0 +1,73 @@
+{
+  "system": "seemsRight MLB Prediction Model",
+  "generated_utc": "2026-06-26T06:32:22.821630+00:00",
+  "game_date": "2026-06-26",
+  "num_picks": 5,
+  "picks": [
+    {
+      "date": "2026-06-26",
+      "home_team": "MIL",
+      "away_team": "CHC",
+      "market": "moneyline",
+      "side": "away",
+      "pick_desc": "CHC ML",
+      "decimal_odds": 3.2133333333333334,
+      "implied_prob": 0.3112,
+      "model_prob": 0.4851,
+      "edge": 0.1739,
+      "ev": -0.13
+    },
+    {
+      "date": "2026-06-26",
+      "home_team": "MIN",
+      "away_team": "COL",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 9.0",
+      "decimal_odds": 1.9833333333333334,
+      "implied_prob": 0.5042,
+      "model_prob": 0.6042,
+      "edge": 0.1,
+      "ev": -0.2975
+    },
+    {
+      "date": "2026-06-26",
+      "home_team": "NYM",
+      "away_team": "PHI",
+      "market": "moneyline",
+      "side": "home",
+      "pick_desc": "NYM ML",
+      "decimal_odds": 2.3266666666666667,
+      "implied_prob": 0.4298,
+      "model_prob": 0.5149,
+      "edge": 0.0851,
+      "ev": -0.3722
+    },
+    {
+      "date": "2026-06-26",
+      "home_team": "PIT",
+      "away_team": "CIN",
+      "market": "moneyline",
+      "side": "away",
+      "pick_desc": "CIN ML",
+      "decimal_odds": 2.81,
+      "implied_prob": 0.3559,
+      "model_prob": 0.4112,
+      "edge": 0.0553,
+      "ev": -0.4887
+    },
+    {
+      "date": "2026-06-26",
+      "home_team": "BAL",
+      "away_team": "WSH",
+      "market": "moneyline",
+      "side": "away",
+      "pick_desc": "WSH ML",
+      "decimal_odds": 2.19,
+      "implied_prob": 0.4566,
+      "model_prob": 0.5089,
+      "edge": 0.0523,
+      "ev": -0.4289
+    }
+  ]
+}
