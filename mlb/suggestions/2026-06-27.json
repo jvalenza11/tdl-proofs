@@ -1,0 +1,73 @@
+{
+  "system": "seemsRight MLB Prediction Model",
+  "generated_utc": "2026-06-27T06:22:38.446166+00:00",
+  "game_date": "2026-06-27",
+  "num_picks": 5,
+  "picks": [
+    {
+      "date": "2026-06-27",
+      "home_team": "CLE",
+      "away_team": "SEA",
+      "market": "moneyline",
+      "side": "home",
+      "pick_desc": "CLE ML",
+      "decimal_odds": 2.25,
+      "implied_prob": 0.4444,
+      "model_prob": 0.54,
+      "edge": 0.0956,
+      "ev": -0.3406
+    },
+    {
+      "date": "2026-06-27",
+      "home_team": "TOR",
+      "away_team": "TEX",
+      "market": "moneyline",
+      "side": "away",
+      "pick_desc": "TEX ML",
+      "decimal_odds": 2.5533333333333332,
+      "implied_prob": 0.3916,
+      "model_prob": 0.4851,
+      "edge": 0.0935,
+      "ev": -0.3697
+    },
+    {
+      "date": "2026-06-27",
+      "home_team": "MIN",
+      "away_team": "COL",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 9.0",
+      "decimal_odds": 1.9533333333333331,
+      "implied_prob": 0.5119,
+      "model_prob": 0.6042,
+      "edge": 0.0923,
+      "ev": -0.3079
+    },
+    {
+      "date": "2026-06-27",
+      "home_team": "TOR",
+      "away_team": "TEX",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 8.0",
+      "decimal_odds": 1.93,
+      "implied_prob": 0.5181,
+      "model_prob": 0.6042,
+      "edge": 0.0861,
+      "ev": -0.3158
+    },
+    {
+      "date": "2026-06-27",
+      "home_team": "PIT",
+      "away_team": "CIN",
+      "market": "moneyline",
+      "side": "home",
+      "pick_desc": "PIT ML",
+      "decimal_odds": 1.9866666666666666,
+      "implied_prob": 0.5034,
+      "model_prob": 0.5888,
+      "edge": 0.0854,
+      "ev": -0.3269
+    }
+  ]
+}
