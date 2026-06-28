@@ -1,0 +1,86 @@
+{
+  "system": "seemsRight MLB Prediction Model",
+  "generated_utc": "2026-06-28T06:38:03.347270+00:00",
+  "game_date": "2026-06-28",
+  "num_picks": 6,
+  "picks": [
+    {
+      "date": "2026-06-28",
+      "home_team": "MIL",
+      "away_team": "CHC",
+      "market": "moneyline",
+      "side": "away",
+      "pick_desc": "CHC ML",
+      "decimal_odds": 2.776666666666667,
+      "implied_prob": 0.3601,
+      "model_prob": 0.4851,
+      "edge": 0.125,
+      "ev": -0.2929
+    },
+    {
+      "date": "2026-06-28",
+      "home_team": "BAL",
+      "away_team": "WSH",
+      "market": "moneyline",
+      "side": "away",
+      "pick_desc": "WSH ML",
+      "decimal_odds": 2.6266666666666665,
+      "implied_prob": 0.3807,
+      "model_prob": 0.5,
+      "edge": 0.1193,
+      "ev": -0.306
+    },
+    {
+      "date": "2026-06-28",
+      "home_team": "LAA",
+      "away_team": "OAK",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 9.5",
+      "decimal_odds": 1.9433333333333334,
+      "implied_prob": 0.5146,
+      "model_prob": 0.6042,
+      "edge": 0.0896,
+      "ev": -0.3113
+    },
+    {
+      "date": "2026-06-28",
+      "home_team": "SF",
+      "away_team": "ATL",
+      "market": "moneyline",
+      "side": "home",
+      "pick_desc": "SF ML",
+      "decimal_odds": 2.3366666666666664,
+      "implied_prob": 0.428,
+      "model_prob": 0.5149,
+      "edge": 0.0869,
+      "ev": -0.3689
+    },
+    {
+      "date": "2026-06-28",
+      "home_team": "DET",
+      "away_team": "HOU",
+      "market": "moneyline",
+      "side": "home",
+      "pick_desc": "DET ML",
+      "decimal_odds": 2.0933333333333333,
+      "implied_prob": 0.4777,
+      "model_prob": 0.553,
+      "edge": 0.0753,
+      "ev": -0.3647
+    },
+    {
+      "date": "2026-06-28",
+      "home_team": "NYM",
+      "away_team": "PHI",
+      "market": "moneyline",
+      "side": "home",
+      "pick_desc": "NYM ML",
+      "decimal_odds": 2.233333333333334,
+      "implied_prob": 0.4478,
+      "model_prob": 0.5149,
+      "edge": 0.0671,
+      "ev": -0.4023
+    }
+  ]
+}
