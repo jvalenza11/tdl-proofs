@@ -1,7 +1,46 @@
 {
   "game_date": "2026-06-29",
-  "generated_utc": "2026-06-29T14:25:27Z",
-  "num_picks": 0,
-  "picks": [],
+  "generated_utc": "2026-06-29T17:52:20Z",
+  "num_picks": 2,
+  "picks": [
+    {
+      "actual_line": null,
+      "away_team": "LAA",
+      "bankroll_before": null,
+      "decimal_odds": 2.706666666666667,
+      "edge": 0.0775,
+      "game_date": "2026-06-29",
+      "home_team": "SEA",
+      "implied_prob": 0.3695,
+      "market": "moneyline",
+      "model_prob": 0.447,
+      "notes": null,
+      "pick_desc": "LAA ML",
+      "result": null,
+      "side": "away",
+      "sport": "mlb",
+      "stake": 20.0,
+      "taken_at": "2026-06-29T17:30:40.986176"
+    },
+    {
+      "actual_line": null,
+      "away_team": "WSH",
+      "bankroll_before": null,
+      "decimal_odds": 2.4633333333333334,
+      "edge": 0.0791,
+      "game_date": "2026-06-29",
+      "home_team": "BOS",
+      "implied_prob": 0.406,
+      "market": "moneyline",
+      "model_prob": 0.4851,
+      "notes": null,
+      "pick_desc": "WSH ML",
+      "result": null,
+      "side": "away",
+      "sport": "mlb",
+      "stake": 20.0,
+      "taken_at": "2026-06-29T17:30:42.943986"
+    }
+  ],
   "system": "TDL Curated Picks"
 }
