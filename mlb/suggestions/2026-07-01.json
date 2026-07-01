@@ -1,6 +1,6 @@
 {
   "system": "seemsRight MLB Prediction Model",
-  "generated_utc": "2026-07-01T12:22:42.236004+00:00",
+  "generated_utc": "2026-07-01T12:39:47.775879+00:00",
   "game_date": "2026-07-01",
   "num_picks": 6,
   "picks": [
@@ -19,16 +19,29 @@
     },
     {
       "date": "2026-07-01",
+      "home_team": "TOR",
+      "away_team": "NYM",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 8.5",
+      "decimal_odds": 2.0033333333333334,
+      "implied_prob": 0.4992,
+      "model_prob": 0.6042,
+      "edge": 0.105,
+      "ev": -0.2904
+    },
+    {
+      "date": "2026-07-01",
       "home_team": "ATL",
       "away_team": "STL",
       "market": "over_under",
       "side": "under",
       "pick_desc": "Under 9.0",
-      "decimal_odds": 1.9233333333333331,
-      "implied_prob": 0.5199,
+      "decimal_odds": 1.93,
+      "implied_prob": 0.5181,
       "model_prob": 0.6214,
-      "edge": 0.1015,
-      "ev": -0.2849
+      "edge": 0.1033,
+      "ev": -0.2826
     },
     {
       "date": "2026-07-01",
@@ -37,11 +50,11 @@
       "market": "over_under",
       "side": "under",
       "pick_desc": "Under 9.5",
-      "decimal_odds": 1.8933333333333333,
-      "implied_prob": 0.5282,
+      "decimal_odds": 1.9166666666666667,
+      "implied_prob": 0.5217,
       "model_prob": 0.6214,
-      "edge": 0.0932,
-      "ev": -0.2953
+      "edge": 0.0997,
+      "ev": -0.2872
     },
     {
       "date": "2026-07-01",
@@ -68,19 +81,6 @@
       "model_prob": 0.6042,
       "edge": 0.0843,
       "ev": -0.318
-    },
-    {
-      "date": "2026-07-01",
-      "home_team": "COL",
-      "away_team": "MIA",
-      "market": "moneyline",
-      "side": "home",
-      "pick_desc": "COL ML",
-      "decimal_odds": 2.3466666666666667,
-      "implied_prob": 0.4261,
-      "model_prob": 0.478,
-      "edge": 0.0519,
-      "ev": -0.4522
     }
   ]
 }
