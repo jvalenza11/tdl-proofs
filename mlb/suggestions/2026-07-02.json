@@ -1,0 +1,112 @@
+{
+  "system": "seemsRight MLB Prediction Model",
+  "generated_utc": "2026-07-02T05:17:19.759337+00:00",
+  "game_date": "2026-07-02",
+  "num_picks": 8,
+  "picks": [
+    {
+      "date": "2026-07-02",
+      "home_team": "MIL",
+      "away_team": "CIN",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 6.5",
+      "decimal_odds": 1.9400000000000002,
+      "implied_prob": 0.5155,
+      "model_prob": 0.6214,
+      "edge": 0.1059,
+      "ev": -0.279
+    },
+    {
+      "date": "2026-07-02",
+      "home_team": "LAD",
+      "away_team": "SD",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 8.5",
+      "decimal_odds": 1.9866666666666666,
+      "implied_prob": 0.5034,
+      "model_prob": 0.6042,
+      "edge": 0.1008,
+      "ev": -0.2963
+    },
+    {
+      "date": "2026-07-02",
+      "home_team": "TEX",
+      "away_team": "DET",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 7.5",
+      "decimal_odds": 1.9666666666666668,
+      "implied_prob": 0.5085,
+      "model_prob": 0.6042,
+      "edge": 0.0957,
+      "ev": -0.3033
+    },
+    {
+      "date": "2026-07-02",
+      "home_team": "ATL",
+      "away_team": "STL",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 9.0",
+      "decimal_odds": 1.8933333333333333,
+      "implied_prob": 0.5282,
+      "model_prob": 0.6214,
+      "edge": 0.0932,
+      "ev": -0.2953
+    },
+    {
+      "date": "2026-07-02",
+      "home_team": "CLE",
+      "away_team": "CWS",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 8.5",
+      "decimal_odds": 1.9400000000000002,
+      "implied_prob": 0.5155,
+      "model_prob": 0.6042,
+      "edge": 0.0887,
+      "ev": -0.3124
+    },
+    {
+      "date": "2026-07-02",
+      "home_team": "ATL",
+      "away_team": "STL",
+      "market": "moneyline",
+      "side": "home",
+      "pick_desc": "ATL ML",
+      "decimal_odds": 1.8766666666666667,
+      "implied_prob": 0.5329,
+      "model_prob": 0.5888,
+      "edge": 0.0559,
+      "ev": -0.3622
+    },
+    {
+      "date": "2026-07-02",
+      "home_team": "CLE",
+      "away_team": "CWS",
+      "market": "moneyline",
+      "side": "home",
+      "pick_desc": "CLE ML",
+      "decimal_odds": 2.0,
+      "implied_prob": 0.5,
+      "model_prob": 0.553,
+      "edge": 0.053,
+      "ev": -0.394
+    },
+    {
+      "date": "2026-07-02",
+      "home_team": "KC",
+      "away_team": "TB",
+      "market": "moneyline",
+      "side": "away",
+      "pick_desc": "TB ML",
+      "decimal_odds": 1.8366666666666667,
+      "implied_prob": 0.5445,
+      "model_prob": 0.5957,
+      "edge": 0.0512,
+      "ev": -0.3614
+    }
+  ]
+}
