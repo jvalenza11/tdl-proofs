@@ -1,0 +1,86 @@
+{
+  "system": "seemsRight MLB Prediction Model",
+  "generated_utc": "2026-07-03T06:21:25.180791+00:00",
+  "game_date": "2026-07-03",
+  "num_picks": 6,
+  "picks": [
+    {
+      "date": "2026-07-03",
+      "home_team": "ATL",
+      "away_team": "NYM",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 9.5",
+      "decimal_odds": 1.8933333333333333,
+      "implied_prob": 0.5282,
+      "model_prob": 0.6214,
+      "edge": 0.0932,
+      "ev": -0.2953
+    },
+    {
+      "date": "2026-07-03",
+      "home_team": "HOU",
+      "away_team": "TB",
+      "market": "moneyline",
+      "side": "away",
+      "pick_desc": "TB ML",
+      "decimal_odds": 1.9166666666666667,
+      "implied_prob": 0.5217,
+      "model_prob": 0.5957,
+      "edge": 0.074,
+      "ev": -0.3365
+    },
+    {
+      "date": "2026-07-03",
+      "home_team": "SEA",
+      "away_team": "TOR",
+      "market": "moneyline",
+      "side": "home",
+      "pick_desc": "SEA ML",
+      "decimal_odds": 2.0833333333333335,
+      "implied_prob": 0.48,
+      "model_prob": 0.553,
+      "edge": 0.073,
+      "ev": -0.3679
+    },
+    {
+      "date": "2026-07-03",
+      "home_team": "COL",
+      "away_team": "SF",
+      "market": "moneyline",
+      "side": "home",
+      "pick_desc": "COL ML",
+      "decimal_odds": 2.2933333333333334,
+      "implied_prob": 0.436,
+      "model_prob": 0.5068,
+      "edge": 0.0708,
+      "ev": -0.4017
+    },
+    {
+      "date": "2026-07-03",
+      "home_team": "ARI",
+      "away_team": "MIL",
+      "market": "moneyline",
+      "side": "home",
+      "pick_desc": "ARI ML",
+      "decimal_odds": 2.3666666666666667,
+      "implied_prob": 0.4225,
+      "model_prob": 0.478,
+      "edge": 0.0555,
+      "ev": -0.4462
+    },
+    {
+      "date": "2026-07-03",
+      "home_team": "LAD",
+      "away_team": "SD",
+      "market": "moneyline",
+      "side": "away",
+      "pick_desc": "SD ML",
+      "decimal_odds": 2.973333333333333,
+      "implied_prob": 0.3363,
+      "model_prob": 0.3913,
+      "edge": 0.055,
+      "ev": -0.5002
+    }
+  ]
+}
