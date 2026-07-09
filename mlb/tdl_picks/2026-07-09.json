@@ -1,0 +1,27 @@
+{
+  "game_date": "2026-07-09",
+  "generated_utc": "2026-07-09T13:56:38Z",
+  "num_picks": 1,
+  "picks": [
+    {
+      "actual_line": null,
+      "away_team": "PHI",
+      "bankroll_before": null,
+      "decimal_odds": 2.35,
+      "edge": 0.07446808510638298,
+      "game_date": "2026-07-09",
+      "home_team": "CIN",
+      "implied_prob": 0.425531914893617,
+      "market": "moneyline",
+      "model_prob": 0.5,
+      "notes": "DK",
+      "pick_desc": "CIN ML",
+      "result": null,
+      "side": "home",
+      "sport": "mlb",
+      "stake": 23.0,
+      "taken_at": "2026-07-09T13:26:10.036927"
+    }
+  ],
+  "system": "TDL Curated Picks"
+}
