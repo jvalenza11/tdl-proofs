@@ -1,7 +1,7 @@
 {
   "game_date": "2026-07-09",
-  "generated_utc": "2026-07-09T15:06:55Z",
-  "num_picks": 4,
+  "generated_utc": "2026-07-09T13:56:38Z",
+  "num_picks": 1,
   "picks": [
     {
       "actual_line": null,
@@ -21,63 +21,6 @@
       "sport": "mlb",
       "stake": 23.0,
       "taken_at": "2026-07-09T13:26:10.036927"
-    },
-    {
-      "actual_line": 9.5,
-      "away_team": "PHI",
-      "bankroll_before": null,
-      "decimal_odds": 1.87,
-      "edge": 0.06944064171122999,
-      "game_date": "2026-07-09",
-      "home_team": "CIN",
-      "implied_prob": 0.53475935828877,
-      "market": "over_under",
-      "model_prob": 0.6042,
-      "notes": "365",
-      "pick_desc": "Under 9.5",
-      "result": null,
-      "side": "under",
-      "sport": "mlb",
-      "stake": 20.0,
-      "taken_at": "2026-07-09T14:46:20.631932"
-    },
-    {
-      "actual_line": 9.0,
-      "away_team": "ARI",
-      "bankroll_before": null,
-      "decimal_odds": 1.82,
-      "edge": 0.07194945054945057,
-      "game_date": "2026-07-09",
-      "home_team": "SD",
-      "implied_prob": 0.5494505494505494,
-      "market": "over_under",
-      "model_prob": 0.6214,
-      "notes": "DK",
-      "pick_desc": "Under 9.0",
-      "result": null,
-      "side": "under",
-      "sport": "mlb",
-      "stake": 30.0,
-      "taken_at": "2026-07-09T14:52:31.667320"
-    },
-    {
-      "actual_line": 9.0,
-      "away_team": "OAK",
-      "bankroll_before": null,
-      "decimal_odds": 1.87,
-      "edge": 0.06944064171122999,
-      "game_date": "2026-07-09",
-      "home_team": "DET",
-      "implied_prob": 0.53475935828877,
-      "market": "over_under",
-      "model_prob": 0.6042,
-      "notes": "365",
-      "pick_desc": "Under 9.0",
-      "result": null,
-      "side": "under",
-      "sport": "mlb",
-      "stake": 20.0,
-      "taken_at": "2026-07-09T14:53:52.543026"
     }
   ],
   "system": "TDL Curated Picks"
