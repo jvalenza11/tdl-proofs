@@ -1,6 +1,6 @@
 {
   "system": "seemsRight MLB Prediction Model",
-  "generated_utc": "2026-07-09T04:21:53.368761+00:00",
+  "generated_utc": "2026-07-09T06:28:05.576808+00:00",
   "game_date": "2026-07-09",
   "num_picks": 6,
   "picks": [
@@ -37,11 +37,11 @@
       "market": "over_under",
       "side": "under",
       "pick_desc": "Under 9.0",
-      "decimal_odds": 1.8866666666666667,
-      "implied_prob": 0.53,
+      "decimal_odds": 1.8833333333333335,
+      "implied_prob": 0.531,
       "model_prob": 0.6214,
-      "edge": 0.0914,
-      "ev": -0.2976
+      "edge": 0.0904,
+      "ev": -0.2987
     },
     {
       "date": "2026-07-09",
@@ -50,11 +50,11 @@
       "market": "moneyline",
       "side": "home",
       "pick_desc": "CIN ML",
-      "decimal_odds": 2.393333333333333,
-      "implied_prob": 0.4178,
+      "decimal_odds": 2.4233333333333333,
+      "implied_prob": 0.4127,
       "model_prob": 0.5,
-      "edge": 0.0822,
-      "ev": -0.3855
+      "edge": 0.0873,
+      "ev": -0.3757
     },
     {
       "date": "2026-07-09",
@@ -76,11 +76,11 @@
       "market": "moneyline",
       "side": "home",
       "pick_desc": "PIT ML",
-      "decimal_odds": 1.9966666666666668,
-      "implied_prob": 0.5008,
+      "decimal_odds": 2.013333333333333,
+      "implied_prob": 0.4967,
       "model_prob": 0.553,
-      "edge": 0.0522,
-      "ev": -0.395
+      "edge": 0.0563,
+      "ev": -0.3899
     }
   ]
 }
