@@ -1,0 +1,99 @@
+{
+  "system": "seemsRight MLB Prediction Model",
+  "generated_utc": "2026-07-10T22:30:47.907441+00:00",
+  "game_date": "2026-07-11",
+  "num_picks": 7,
+  "picks": [
+    {
+      "date": "2026-07-11",
+      "home_team": "WSH",
+      "away_team": "NYY",
+      "market": "moneyline",
+      "side": "home",
+      "pick_desc": "WSH ML",
+      "decimal_odds": 2.615,
+      "implied_prob": 0.3824,
+      "model_prob": 0.5068,
+      "edge": 0.1244,
+      "ev": -0.2923
+    },
+    {
+      "date": "2026-07-11",
+      "home_team": "DET",
+      "away_team": "PHI",
+      "market": "moneyline",
+      "side": "home",
+      "pick_desc": "DET ML",
+      "decimal_odds": 2.185,
+      "implied_prob": 0.4577,
+      "model_prob": 0.553,
+      "edge": 0.0953,
+      "ev": -0.334
+    },
+    {
+      "date": "2026-07-11",
+      "home_team": "LAD",
+      "away_team": "ARI",
+      "market": "moneyline",
+      "side": "away",
+      "pick_desc": "ARI ML",
+      "decimal_odds": 3.3,
+      "implied_prob": 0.303,
+      "model_prob": 0.3913,
+      "edge": 0.0883,
+      "ev": -0.4057
+    },
+    {
+      "date": "2026-07-11",
+      "home_team": "CWS",
+      "away_team": "OAK",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 9.0",
+      "decimal_odds": 1.97,
+      "implied_prob": 0.5076,
+      "model_prob": 0.5926,
+      "edge": 0.085,
+      "ev": -0.325
+    },
+    {
+      "date": "2026-07-11",
+      "home_team": "CIN",
+      "away_team": "CHC",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 10.0",
+      "decimal_odds": 1.915,
+      "implied_prob": 0.5222,
+      "model_prob": 0.6042,
+      "edge": 0.082,
+      "ev": -0.3208
+    },
+    {
+      "date": "2026-07-11",
+      "home_team": "PIT",
+      "away_team": "MIL",
+      "market": "moneyline",
+      "side": "home",
+      "pick_desc": "PIT ML",
+      "decimal_odds": 2.0949999999999998,
+      "implied_prob": 0.4773,
+      "model_prob": 0.54,
+      "edge": 0.0627,
+      "ev": -0.3914
+    },
+    {
+      "date": "2026-07-11",
+      "home_team": "CIN",
+      "away_team": "CHC",
+      "market": "moneyline",
+      "side": "away",
+      "pick_desc": "CHC ML",
+      "decimal_odds": 1.8450000000000002,
+      "implied_prob": 0.542,
+      "model_prob": 0.5957,
+      "edge": 0.0537,
+      "ev": -0.3589
+    }
+  ]
+}
