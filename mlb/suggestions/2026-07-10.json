@@ -1,0 +1,86 @@
+{
+  "system": "seemsRight MLB Prediction Model",
+  "generated_utc": "2026-07-10T06:28:57.772838+00:00",
+  "game_date": "2026-07-10",
+  "num_picks": 6,
+  "picks": [
+    {
+      "date": "2026-07-10",
+      "home_team": "TEX",
+      "away_team": "HOU",
+      "market": "moneyline",
+      "side": "home",
+      "pick_desc": "TEX ML",
+      "decimal_odds": 2.1833333333333336,
+      "implied_prob": 0.458,
+      "model_prob": 0.553,
+      "edge": 0.095,
+      "ev": -0.3346
+    },
+    {
+      "date": "2026-07-10",
+      "home_team": "STL",
+      "away_team": "ATL",
+      "market": "moneyline",
+      "side": "home",
+      "pick_desc": "STL ML",
+      "decimal_odds": 2.3733333333333335,
+      "implied_prob": 0.4213,
+      "model_prob": 0.5149,
+      "edge": 0.0936,
+      "ev": -0.3566
+    },
+    {
+      "date": "2026-07-10",
+      "home_team": "WSH",
+      "away_team": "NYY",
+      "market": "moneyline",
+      "side": "home",
+      "pick_desc": "WSH ML",
+      "decimal_odds": 2.3666666666666667,
+      "implied_prob": 0.4225,
+      "model_prob": 0.5149,
+      "edge": 0.0924,
+      "ev": -0.3589
+    },
+    {
+      "date": "2026-07-10",
+      "home_team": "LAD",
+      "away_team": "ARI",
+      "market": "moneyline",
+      "side": "away",
+      "pick_desc": "ARI ML",
+      "decimal_odds": 3.16,
+      "implied_prob": 0.3165,
+      "model_prob": 0.3913,
+      "edge": 0.0748,
+      "ev": -0.447
+    },
+    {
+      "date": "2026-07-10",
+      "home_team": "CIN",
+      "away_team": "CHC",
+      "market": "moneyline",
+      "side": "away",
+      "pick_desc": "CHC ML",
+      "decimal_odds": 1.9033333333333333,
+      "implied_prob": 0.5254,
+      "model_prob": 0.5957,
+      "edge": 0.0703,
+      "ev": -0.3408
+    },
+    {
+      "date": "2026-07-10",
+      "home_team": "CWS",
+      "away_team": "OAK",
+      "market": "moneyline",
+      "side": "away",
+      "pick_desc": "OAK ML",
+      "decimal_odds": 2.4033333333333338,
+      "implied_prob": 0.4161,
+      "model_prob": 0.4851,
+      "edge": 0.069,
+      "ev": -0.4181
+    }
+  ]
+}
