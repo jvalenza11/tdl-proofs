@@ -1,0 +1,46 @@
+{
+  "game_date": "2026-07-11",
+  "generated_utc": "2026-07-11T13:31:48Z",
+  "num_picks": 2,
+  "picks": [
+    {
+      "actual_line": null,
+      "away_team": "CHC",
+      "bankroll_before": null,
+      "decimal_odds": 1.83,
+      "edge": 0.04925191256830608,
+      "game_date": "2026-07-11",
+      "home_team": "CIN",
+      "implied_prob": 0.5464480874316939,
+      "market": "moneyline",
+      "model_prob": 0.5957,
+      "notes": "DK",
+      "pick_desc": "CHC ML",
+      "result": null,
+      "side": "away",
+      "sport": "mlb",
+      "stake": 20.0,
+      "taken_at": "2026-07-11T13:03:03.711611"
+    },
+    {
+      "actual_line": 8.0,
+      "away_team": "TOR",
+      "bankroll_before": null,
+      "decimal_odds": 1.888,
+      "edge": 0.07453898305084738,
+      "game_date": "2026-07-11",
+      "home_team": "SD",
+      "implied_prob": 0.5296610169491526,
+      "market": "over_under",
+      "model_prob": 0.6042,
+      "notes": "DK",
+      "pick_desc": "Under 8.0",
+      "result": null,
+      "side": "under",
+      "sport": "mlb",
+      "stake": 20.0,
+      "taken_at": "2026-07-11T13:10:10.206694"
+    }
+  ],
+  "system": "TDL Curated Picks"
+}
