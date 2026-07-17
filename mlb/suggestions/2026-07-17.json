@@ -1,8 +1,8 @@
 {
   "system": "seemsRight MLB Prediction Model",
-  "generated_utc": "2026-07-16T22:31:29.932365+00:00",
+  "generated_utc": "2026-07-17T00:18:29.495599+00:00",
   "game_date": "2026-07-17",
-  "num_picks": 24,
+  "num_picks": 27,
   "picks": [
     {
       "date": "2026-07-17",
@@ -42,6 +42,19 @@
       "model_prob": 0.6667,
       "edge": 0.1049,
       "ev": -0.2515
+    },
+    {
+      "date": "2026-07-17",
+      "home_team": "ARI",
+      "away_team": "STL",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 9.0",
+      "decimal_odds": 2.0,
+      "implied_prob": 0.5,
+      "model_prob": 0.6042,
+      "edge": 0.1042,
+      "ev": -0.2916
     },
     {
       "date": "2026-07-17",
@@ -188,6 +201,19 @@
     },
     {
       "date": "2026-07-17",
+      "home_team": "ARI",
+      "away_team": "STL",
+      "market": "moneyline",
+      "side": "home",
+      "pick_desc": "ARI ML",
+      "decimal_odds": 1.96,
+      "implied_prob": 0.5102,
+      "model_prob": 0.553,
+      "edge": 0.0428,
+      "ev": -0.4059
+    },
+    {
+      "date": "2026-07-17",
       "home_team": "KC",
       "away_team": "SD",
       "market": "moneyline",
@@ -224,6 +250,19 @@
       "model_prob": 0.56,
       "edge": 0.0309,
       "ev": -0.4125
+    },
+    {
+      "date": "2026-07-17",
+      "home_team": "HOU",
+      "away_team": "BAL",
+      "market": "moneyline",
+      "side": "home",
+      "pick_desc": "HOU ML",
+      "decimal_odds": 1.96,
+      "implied_prob": 0.5102,
+      "model_prob": 0.54,
+      "edge": 0.0298,
+      "ev": -0.4314
     },
     {
       "date": "2026-07-17",
