@@ -1,7 +1,7 @@
 {
   "game_date": "2026-07-20",
-  "generated_utc": "2026-07-20T13:35:42Z",
-  "num_picks": 3,
+  "generated_utc": "2026-07-20T14:46:18Z",
+  "num_picks": 4,
   "picks": [
     {
       "actual_line": null,
@@ -59,6 +59,25 @@
       "sport": "mlb",
       "stake": 20.0,
       "taken_at": "2026-07-20T11:49:39.642694"
+    },
+    {
+      "actual_line": null,
+      "away_team": "TB",
+      "bankroll_before": null,
+      "decimal_odds": 2.05,
+      "edge": 0.01749512195121944,
+      "game_date": "2026-07-20",
+      "home_team": "TOR",
+      "implied_prob": 0.48780487804878053,
+      "market": "f5_totals",
+      "model_prob": 0.5053,
+      "notes": "DK",
+      "pick_desc": "F5 Under 3.5",
+      "result": null,
+      "side": "under",
+      "sport": "mlb",
+      "stake": 20.0,
+      "taken_at": "2026-07-20T14:12:12.873191"
     }
   ],
   "system": "TDL Curated Picks"
