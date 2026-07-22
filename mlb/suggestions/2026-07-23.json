@@ -1,0 +1,99 @@
+{
+  "system": "seemsRight MLB Prediction Model",
+  "generated_utc": "2026-07-22T22:45:06.949846+00:00",
+  "game_date": "2026-07-23",
+  "num_picks": 7,
+  "picks": [
+    {
+      "date": "2026-07-23",
+      "home_team": "TOR",
+      "away_team": "TB",
+      "market": "spread",
+      "side": "away",
+      "pick_desc": "TB -1.5",
+      "decimal_odds": 2.47,
+      "implied_prob": 0.4049,
+      "model_prob": 0.5076,
+      "edge": 0.1027,
+      "ev": -0.3414
+    },
+    {
+      "date": "2026-07-23",
+      "home_team": "ATL",
+      "away_team": "SD",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 8.0",
+      "decimal_odds": 1.9000000000000001,
+      "implied_prob": 0.5263,
+      "model_prob": 0.6042,
+      "edge": 0.0779,
+      "ev": -0.3257
+    },
+    {
+      "date": "2026-07-23",
+      "home_team": "DET",
+      "away_team": "KC",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 8.5",
+      "decimal_odds": 1.8833333333333335,
+      "implied_prob": 0.531,
+      "model_prob": 0.6042,
+      "edge": 0.0732,
+      "ev": -0.3311
+    },
+    {
+      "date": "2026-07-23",
+      "home_team": "ATL",
+      "away_team": "SD",
+      "market": "moneyline",
+      "side": "away",
+      "pick_desc": "SD ML",
+      "decimal_odds": 2.866666666666667,
+      "implied_prob": 0.3488,
+      "model_prob": 0.3913,
+      "edge": 0.0425,
+      "ev": -0.5294
+    },
+    {
+      "date": "2026-07-23",
+      "home_team": "STL",
+      "away_team": "ARI",
+      "market": "moneyline",
+      "side": "home",
+      "pick_desc": "STL ML",
+      "decimal_odds": 1.7633333333333334,
+      "implied_prob": 0.5671,
+      "model_prob": 0.6087,
+      "edge": 0.0416,
+      "ev": -0.3596
+    },
+    {
+      "date": "2026-07-23",
+      "home_team": "DET",
+      "away_team": "KC",
+      "market": "moneyline",
+      "side": "away",
+      "pick_desc": "KC ML",
+      "decimal_odds": 2.6633333333333336,
+      "implied_prob": 0.3755,
+      "model_prob": 0.3913,
+      "edge": 0.0158,
+      "ev": -0.5824
+    },
+    {
+      "date": "2026-07-23",
+      "home_team": "DET",
+      "away_team": "KC",
+      "market": "spread",
+      "side": "home",
+      "pick_desc": "DET -1.5",
+      "decimal_odds": 2.07,
+      "implied_prob": 0.4831,
+      "model_prob": 0.4924,
+      "edge": 0.0093,
+      "ev": -0.4976
+    }
+  ]
+}
