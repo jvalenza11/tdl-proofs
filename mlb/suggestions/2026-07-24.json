@@ -1,8 +1,8 @@
 {
   "system": "seemsRight MLB Prediction Model",
-  "generated_utc": "2026-07-23T22:51:01.123888+00:00",
+  "generated_utc": "2026-07-24T01:38:32.069925+00:00",
   "game_date": "2026-07-24",
-  "num_picks": 48,
+  "num_picks": 41,
   "picks": [
     {
       "date": "2026-07-24",
@@ -11,11 +11,11 @@
       "market": "spread",
       "side": "home",
       "pick_desc": "CWS -1.5",
-      "decimal_odds": 2.3866666666666667,
-      "implied_prob": 0.419,
+      "decimal_odds": 2.3699999999999997,
+      "implied_prob": 0.4219,
       "model_prob": 0.5973,
-      "edge": 0.1783,
-      "ev": -0.1554
+      "edge": 0.1754,
+      "ev": -0.1625
     },
     {
       "date": "2026-07-24",
@@ -24,24 +24,11 @@
       "market": "spread",
       "side": "home",
       "pick_desc": "SF -1.5",
-      "decimal_odds": 2.22,
-      "implied_prob": 0.4505,
+      "decimal_odds": 2.25,
+      "implied_prob": 0.4444,
       "model_prob": 0.5973,
-      "edge": 0.1468,
-      "ev": -0.2235
-    },
-    {
-      "date": "2026-07-24",
-      "home_team": "BOS",
-      "away_team": "TOR",
-      "market": "spread",
-      "side": "away",
-      "pick_desc": "TOR +1.5",
-      "decimal_odds": 1.49,
-      "implied_prob": 0.6711,
-      "model_prob": 0.8,
-      "edge": 0.1289,
-      "ev": -0.1369
+      "edge": 0.1529,
+      "ev": -0.2116
     },
     {
       "date": "2026-07-24",
@@ -50,11 +37,11 @@
       "market": "spread",
       "side": "away",
       "pick_desc": "KC +1.5",
-      "decimal_odds": 2.0,
-      "implied_prob": 0.5,
+      "decimal_odds": 1.96,
+      "implied_prob": 0.5102,
       "model_prob": 0.625,
-      "edge": 0.125,
-      "ev": -0.25
+      "edge": 0.1148,
+      "ev": -0.2648
     },
     {
       "date": "2026-07-24",
@@ -84,19 +71,6 @@
     },
     {
       "date": "2026-07-24",
-      "home_team": "BOS",
-      "away_team": "TOR",
-      "market": "over_under",
-      "side": "under",
-      "pick_desc": "Under 8.5",
-      "decimal_odds": 1.9249999999999998,
-      "implied_prob": 0.5195,
-      "model_prob": 0.6214,
-      "edge": 0.1019,
-      "ev": -0.2843
-    },
-    {
-      "date": "2026-07-24",
       "home_team": "SF",
       "away_team": "LAA",
       "market": "f5_spread",
@@ -123,19 +97,6 @@
     },
     {
       "date": "2026-07-24",
-      "home_team": "BOS",
-      "away_team": "TOR",
-      "market": "f5_totals",
-      "side": "under",
-      "pick_desc": "F5 Under 4.5",
-      "decimal_odds": 1.96,
-      "implied_prob": 0.5102,
-      "model_prob": 0.6054,
-      "edge": 0.0952,
-      "ev": -0.3032
-    },
-    {
-      "date": "2026-07-24",
       "home_team": "PIT",
       "away_team": "CHC",
       "market": "f5_spread",
@@ -149,16 +110,42 @@
     },
     {
       "date": "2026-07-24",
+      "home_team": "TB",
+      "away_team": "CLE",
+      "market": "f5_spread",
+      "side": "away",
+      "pick_desc": "CLE F5 +0.5",
+      "decimal_odds": 1.76,
+      "implied_prob": 0.5682,
+      "model_prob": 0.6546,
+      "edge": 0.0864,
+      "ev": -0.2797
+    },
+    {
+      "date": "2026-07-24",
+      "home_team": "BAL",
+      "away_team": "ATL",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 9.0",
+      "decimal_odds": 1.9166666666666667,
+      "implied_prob": 0.5217,
+      "model_prob": 0.6042,
+      "edge": 0.0825,
+      "ev": -0.3202
+    },
+    {
+      "date": "2026-07-24",
       "home_team": "MIL",
       "away_team": "COL",
       "market": "spread",
       "side": "home",
       "pick_desc": "MIL -1.5",
-      "decimal_odds": 1.9400000000000002,
-      "implied_prob": 0.5155,
+      "decimal_odds": 1.9133333333333333,
+      "implied_prob": 0.5226,
       "model_prob": 0.6023,
-      "edge": 0.0868,
-      "ev": -0.3161
+      "edge": 0.0797,
+      "ev": -0.325
     },
     {
       "date": "2026-07-24",
@@ -167,37 +154,11 @@
       "market": "f5_moneyline",
       "side": "home",
       "pick_desc": "CWS F5 ML",
-      "decimal_odds": 1.67,
-      "implied_prob": 0.5988,
+      "decimal_odds": 1.66,
+      "implied_prob": 0.6024,
       "model_prob": 0.6801,
-      "edge": 0.0813,
-      "ev": -0.2654
-    },
-    {
-      "date": "2026-07-24",
-      "home_team": "TB",
-      "away_team": "CLE",
-      "market": "f5_spread",
-      "side": "away",
-      "pick_desc": "CLE F5 +0.5",
-      "decimal_odds": 1.74,
-      "implied_prob": 0.5747,
-      "model_prob": 0.6546,
-      "edge": 0.0799,
-      "ev": -0.2863
-    },
-    {
-      "date": "2026-07-24",
-      "home_team": "MIA",
-      "away_team": "SD",
-      "market": "over_under",
-      "side": "under",
-      "pick_desc": "Under 9.0",
-      "decimal_odds": 1.8849999999999998,
-      "implied_prob": 0.5305,
-      "model_prob": 0.6042,
-      "edge": 0.0737,
-      "ev": -0.3306
+      "edge": 0.0777,
+      "ev": -0.2686
     },
     {
       "date": "2026-07-24",
@@ -206,11 +167,24 @@
       "market": "f5_moneyline",
       "side": "away",
       "pick_desc": "CLE F5 ML",
-      "decimal_odds": 2.12,
-      "implied_prob": 0.4717,
+      "decimal_odds": 2.14,
+      "implied_prob": 0.4673,
       "model_prob": 0.5438,
-      "edge": 0.0721,
-      "ev": -0.3754
+      "edge": 0.0765,
+      "ev": -0.369
+    },
+    {
+      "date": "2026-07-24",
+      "home_team": "MIA",
+      "away_team": "SD",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 9.0",
+      "decimal_odds": 1.8933333333333333,
+      "implied_prob": 0.5282,
+      "model_prob": 0.6042,
+      "edge": 0.076,
+      "ev": -0.3279
     },
     {
       "date": "2026-07-24",
@@ -219,11 +193,11 @@
       "market": "over_under",
       "side": "under",
       "pick_desc": "Under 8.5",
-      "decimal_odds": 1.8733333333333333,
-      "implied_prob": 0.5338,
+      "decimal_odds": 1.88,
+      "implied_prob": 0.5319,
       "model_prob": 0.6042,
-      "edge": 0.0704,
-      "ev": -0.3343
+      "edge": 0.0723,
+      "ev": -0.3322
     },
     {
       "date": "2026-07-24",
@@ -245,37 +219,11 @@
       "market": "over_under",
       "side": "under",
       "pick_desc": "Under 7.5",
-      "decimal_odds": 1.8733333333333333,
-      "implied_prob": 0.5338,
+      "decimal_odds": 1.87,
+      "implied_prob": 0.5348,
       "model_prob": 0.5926,
-      "edge": 0.0588,
-      "ev": -0.3561
-    },
-    {
-      "date": "2026-07-24",
-      "home_team": "CWS",
-      "away_team": "HOU",
-      "market": "f5_spread",
-      "side": "home",
-      "pick_desc": "CWS F5 -0.5",
-      "decimal_odds": 1.93,
-      "implied_prob": 0.5181,
-      "model_prob": 0.5769,
-      "edge": 0.0588,
-      "ev": -0.3684
-    },
-    {
-      "date": "2026-07-24",
-      "home_team": "BOS",
-      "away_team": "TOR",
-      "market": "f5_spread",
-      "side": "away",
-      "pick_desc": "TOR F5 +0.5",
-      "decimal_odds": 1.71,
-      "implied_prob": 0.5848,
-      "model_prob": 0.6428,
-      "edge": 0.058,
-      "ev": -0.316
+      "edge": 0.0578,
+      "ev": -0.3571
     },
     {
       "date": "2026-07-24",
@@ -284,11 +232,11 @@
       "market": "spread",
       "side": "home",
       "pick_desc": "STL -1.5",
-      "decimal_odds": 2.2866666666666666,
-      "implied_prob": 0.4373,
+      "decimal_odds": 2.283333333333333,
+      "implied_prob": 0.438,
       "model_prob": 0.4924,
-      "edge": 0.0551,
-      "ev": -0.4367
+      "edge": 0.0544,
+      "ev": -0.4377
     },
     {
       "date": "2026-07-24",
@@ -318,16 +266,29 @@
     },
     {
       "date": "2026-07-24",
-      "home_team": "BOS",
-      "away_team": "TOR",
-      "market": "f5_moneyline",
-      "side": "away",
-      "pick_desc": "TOR F5 ML",
-      "decimal_odds": 2.02,
-      "implied_prob": 0.495,
-      "model_prob": 0.5471,
-      "edge": 0.0521,
-      "ev": -0.3998
+      "home_team": "CWS",
+      "away_team": "HOU",
+      "market": "f5_spread",
+      "side": "home",
+      "pick_desc": "CWS F5 -0.5",
+      "decimal_odds": 1.91,
+      "implied_prob": 0.5236,
+      "model_prob": 0.5769,
+      "edge": 0.0533,
+      "ev": -0.3746
+    },
+    {
+      "date": "2026-07-24",
+      "home_team": "NYM",
+      "away_team": "LAD",
+      "market": "f5_totals",
+      "side": "under",
+      "pick_desc": "F5 Under 4.5",
+      "decimal_odds": 2.12,
+      "implied_prob": 0.4717,
+      "model_prob": 0.5239,
+      "edge": 0.0522,
+      "ev": -0.4176
     },
     {
       "date": "2026-07-24",
@@ -341,19 +302,6 @@
       "model_prob": 0.6104,
       "edge": 0.0486,
       "ev": -0.3517
-    },
-    {
-      "date": "2026-07-24",
-      "home_team": "NYM",
-      "away_team": "LAD",
-      "market": "f5_totals",
-      "side": "under",
-      "pick_desc": "F5 Under 4.5",
-      "decimal_odds": 2.1,
-      "implied_prob": 0.4762,
-      "model_prob": 0.5239,
-      "edge": 0.0477,
-      "ev": -0.4236
     },
     {
       "date": "2026-07-24",
@@ -383,32 +331,6 @@
     },
     {
       "date": "2026-07-24",
-      "home_team": "NYM",
-      "away_team": "LAD",
-      "market": "moneyline",
-      "side": "home",
-      "pick_desc": "NYM ML",
-      "decimal_odds": 2.2800000000000002,
-      "implied_prob": 0.4386,
-      "model_prob": 0.478,
-      "edge": 0.0394,
-      "ev": -0.4716
-    },
-    {
-      "date": "2026-07-24",
-      "home_team": "NYM",
-      "away_team": "LAD",
-      "market": "spread",
-      "side": "home",
-      "pick_desc": "NYM +1.5",
-      "decimal_odds": 1.7699999999999998,
-      "implied_prob": 0.565,
-      "model_prob": 0.6023,
-      "edge": 0.0373,
-      "ev": -0.369
-    },
-    {
-      "date": "2026-07-24",
       "home_team": "TB",
       "away_team": "CLE",
       "market": "f5_totals",
@@ -427,11 +349,37 @@
       "market": "spread",
       "side": "away",
       "pick_desc": "OAK +1.5",
-      "decimal_odds": 1.5833333333333333,
-      "implied_prob": 0.6316,
+      "decimal_odds": 1.5866666666666667,
+      "implied_prob": 0.6303,
       "model_prob": 0.6667,
-      "edge": 0.0351,
-      "ev": -0.3128
+      "edge": 0.0364,
+      "ev": -0.3119
+    },
+    {
+      "date": "2026-07-24",
+      "home_team": "NYM",
+      "away_team": "LAD",
+      "market": "spread",
+      "side": "home",
+      "pick_desc": "NYM +1.5",
+      "decimal_odds": 1.7666666666666666,
+      "implied_prob": 0.566,
+      "model_prob": 0.6023,
+      "edge": 0.0363,
+      "ev": -0.3699
+    },
+    {
+      "date": "2026-07-24",
+      "home_team": "NYM",
+      "away_team": "LAD",
+      "market": "moneyline",
+      "side": "home",
+      "pick_desc": "NYM ML",
+      "decimal_odds": 2.25,
+      "implied_prob": 0.4444,
+      "model_prob": 0.478,
+      "edge": 0.0336,
+      "ev": -0.4801
     },
     {
       "date": "2026-07-24",
@@ -448,42 +396,16 @@
     },
     {
       "date": "2026-07-24",
-      "home_team": "WSH",
-      "away_team": "ARI",
-      "market": "f5_moneyline",
-      "side": "away",
-      "pick_desc": "ARI F5 ML",
-      "decimal_odds": 1.88,
-      "implied_prob": 0.5319,
-      "model_prob": 0.5583,
-      "edge": 0.0264,
-      "ev": -0.4185
-    },
-    {
-      "date": "2026-07-24",
       "home_team": "MIA",
       "away_team": "SD",
       "market": "spread",
       "side": "away",
       "pick_desc": "SD +1.5",
-      "decimal_odds": 1.545,
-      "implied_prob": 0.6472,
+      "decimal_odds": 1.5633333333333332,
+      "implied_prob": 0.6397,
       "model_prob": 0.6667,
-      "edge": 0.0195,
-      "ev": -0.3227
-    },
-    {
-      "date": "2026-07-24",
-      "home_team": "WSH",
-      "away_team": "ARI",
-      "market": "moneyline",
-      "side": "home",
-      "pick_desc": "WSH ML",
-      "decimal_odds": 2.015,
-      "implied_prob": 0.4963,
-      "model_prob": 0.5149,
-      "edge": 0.0186,
-      "ev": -0.4662
+      "edge": 0.027,
+      "ev": -0.3181
     },
     {
       "date": "2026-07-24",
@@ -492,24 +414,11 @@
       "market": "f5_spread",
       "side": "home",
       "pick_desc": "MIN F5 -0.5",
-      "decimal_odds": 1.88,
-      "implied_prob": 0.5319,
+      "decimal_odds": 1.91,
+      "implied_prob": 0.5236,
       "model_prob": 0.5489,
-      "edge": 0.017,
-      "ev": -0.4362
-    },
-    {
-      "date": "2026-07-24",
-      "home_team": "STL",
-      "away_team": "CIN",
-      "market": "f5_totals",
-      "side": "under",
-      "pick_desc": "F5 Under 4.5",
-      "decimal_odds": 1.93,
-      "implied_prob": 0.5181,
-      "model_prob": 0.5314,
-      "edge": 0.0133,
-      "ev": -0.4563
+      "edge": 0.0253,
+      "ev": -0.428
     },
     {
       "date": "2026-07-24",
@@ -526,16 +435,55 @@
     },
     {
       "date": "2026-07-24",
-      "home_team": "WSH",
-      "away_team": "ARI",
-      "market": "f5_spread",
-      "side": "home",
-      "pick_desc": "WSH F5 +0.5",
-      "decimal_odds": 1.66,
-      "implied_prob": 0.6024,
-      "model_prob": 0.6111,
-      "edge": 0.0087,
-      "ev": -0.3832
+      "home_team": "PHI",
+      "away_team": "NYY",
+      "market": "spread",
+      "side": "away",
+      "pick_desc": "NYY +1.5",
+      "decimal_odds": 1.525,
+      "implied_prob": 0.6557,
+      "model_prob": 0.6667,
+      "edge": 0.011,
+      "ev": -0.3275
+    },
+    {
+      "date": "2026-07-24",
+      "home_team": "TB",
+      "away_team": "CLE",
+      "market": "spread",
+      "side": "away",
+      "pick_desc": "CLE +1.5",
+      "decimal_odds": 1.5233333333333334,
+      "implied_prob": 0.6565,
+      "model_prob": 0.6667,
+      "edge": 0.0102,
+      "ev": -0.3279
+    },
+    {
+      "date": "2026-07-24",
+      "home_team": "STL",
+      "away_team": "CIN",
+      "market": "f5_totals",
+      "side": "under",
+      "pick_desc": "F5 Under 4.5",
+      "decimal_odds": 1.93,
+      "implied_prob": 0.5181,
+      "model_prob": 0.5272,
+      "edge": 0.0091,
+      "ev": -0.4644
+    },
+    {
+      "date": "2026-07-24",
+      "home_team": "BAL",
+      "away_team": "ATL",
+      "market": "spread",
+      "side": "away",
+      "pick_desc": "ATL +1.5",
+      "decimal_odds": 1.52,
+      "implied_prob": 0.6579,
+      "model_prob": 0.6667,
+      "edge": 0.0088,
+      "ev": -0.3287
     },
     {
       "date": "2026-07-24",
@@ -552,16 +500,16 @@
     },
     {
       "date": "2026-07-24",
-      "home_team": "TB",
-      "away_team": "CLE",
-      "market": "spread",
-      "side": "away",
-      "pick_desc": "CLE +1.5",
-      "decimal_odds": 1.5133333333333334,
-      "implied_prob": 0.6608,
-      "model_prob": 0.6667,
-      "edge": 0.0059,
-      "ev": -0.3303
+      "home_team": "TEX",
+      "away_team": "SEA",
+      "market": "f5_totals",
+      "side": "under",
+      "pick_desc": "F5 Under 3.5",
+      "decimal_odds": 2.1,
+      "implied_prob": 0.4762,
+      "model_prob": 0.4816,
+      "edge": 0.0054,
+      "ev": -0.5124
     },
     {
       "date": "2026-07-24",
@@ -575,45 +523,6 @@
       "model_prob": 0.4851,
       "edge": 0.002,
       "ev": -0.5128
-    },
-    {
-      "date": "2026-07-24",
-      "home_team": "WSH",
-      "away_team": "ARI",
-      "market": "over_under",
-      "side": "over",
-      "pick_desc": "Over 9.5",
-      "decimal_odds": 1.92,
-      "implied_prob": 0.5208,
-      "model_prob": 0.5227,
-      "edge": 0.0019,
-      "ev": -0.4756
-    },
-    {
-      "date": "2026-07-24",
-      "home_team": "MIN",
-      "away_team": "OAK",
-      "market": "f5_moneyline",
-      "side": "away",
-      "pick_desc": "OAK F5 ML",
-      "decimal_odds": 2.2,
-      "implied_prob": 0.4545,
-      "model_prob": 0.4563,
-      "edge": 0.0018,
-      "ev": -0.5416
-    },
-    {
-      "date": "2026-07-24",
-      "home_team": "TEX",
-      "away_team": "SEA",
-      "market": "f5_totals",
-      "side": "under",
-      "pick_desc": "F5 Under 3.5",
-      "decimal_odds": 2.08,
-      "implied_prob": 0.4808,
-      "model_prob": 0.4816,
-      "edge": 0.0008,
-      "ev": -0.5175
     },
     {
       "date": "2026-07-24",
