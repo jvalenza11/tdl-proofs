@@ -1,7 +1,7 @@
 {
   "game_date": "2026-07-27",
-  "generated_utc": "2026-07-27T13:49:41Z",
-  "num_picks": 3,
+  "generated_utc": "2026-07-27T15:01:50Z",
+  "num_picks": 6,
   "picks": [
     {
       "actual_line": 8.5,
@@ -59,6 +59,63 @@
       "sport": "mlb",
       "stake": 21.0,
       "taken_at": "2026-07-27T13:49:10.483559"
+    },
+    {
+      "actual_line": null,
+      "away_team": "ARI",
+      "bankroll_before": null,
+      "decimal_odds": 2.14,
+      "edge": 0.1657102803738318,
+      "game_date": "2026-07-27",
+      "home_team": "PIT",
+      "implied_prob": 0.4672897196261682,
+      "market": "f5_spread",
+      "model_prob": 0.633,
+      "notes": "DK",
+      "pick_desc": "PIT F5 -0.5",
+      "result": null,
+      "side": "home",
+      "sport": "mlb",
+      "stake": 28.0,
+      "taken_at": "2026-07-27T13:50:11.150264"
+    },
+    {
+      "actual_line": null,
+      "away_team": "BAL",
+      "bankroll_before": null,
+      "decimal_odds": 1.83,
+      "edge": 0.028451912568306037,
+      "game_date": "2026-07-27",
+      "home_team": "DET",
+      "implied_prob": 0.5464480874316939,
+      "market": "f5_totals",
+      "model_prob": 0.5749,
+      "notes": "DK",
+      "pick_desc": "F5 Under 4.5",
+      "result": null,
+      "side": "under",
+      "sport": "mlb",
+      "stake": 16.0,
+      "taken_at": "2026-07-27T13:51:53.709529"
+    },
+    {
+      "actual_line": null,
+      "away_team": "NYY",
+      "bankroll_before": null,
+      "decimal_odds": 1.95,
+      "edge": 0.06307948717948708,
+      "game_date": "2026-07-27",
+      "home_team": "CWS",
+      "implied_prob": 0.5128205128205129,
+      "market": "f5_spread",
+      "model_prob": 0.5759,
+      "notes": "DK",
+      "pick_desc": "NYY F5 -0.5",
+      "result": null,
+      "side": "away",
+      "sport": "mlb",
+      "stake": 16.0,
+      "taken_at": "2026-07-27T13:53:16.318379"
     }
   ],
   "system": "TDL Curated Picks"
