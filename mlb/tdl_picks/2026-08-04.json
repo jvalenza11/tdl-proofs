@@ -1,0 +1,27 @@
+{
+  "game_date": "2026-08-04",
+  "generated_utc": "2026-08-04T13:35:39Z",
+  "num_picks": 1,
+  "picks": [
+    {
+      "actual_line": null,
+      "away_team": "OAK",
+      "bankroll_before": null,
+      "decimal_odds": 2.15,
+      "edge": 0.08958372093023254,
+      "game_date": "2026-08-04",
+      "home_team": "CIN",
+      "implied_prob": 0.46511627906976744,
+      "market": "moneyline",
+      "model_prob": 0.5547,
+      "notes": "365",
+      "pick_desc": "OAK ML",
+      "result": null,
+      "side": "away",
+      "sport": "mlb",
+      "stake": 25.0,
+      "taken_at": "2026-08-04T13:33:57.915990"
+    }
+  ],
+  "system": "TDL Curated Picks"
+}
