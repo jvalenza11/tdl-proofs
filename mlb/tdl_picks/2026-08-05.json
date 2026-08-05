@@ -1,0 +1,27 @@
+{
+  "game_date": "2026-08-05",
+  "generated_utc": "2026-08-05T13:35:12Z",
+  "num_picks": 1,
+  "picks": [
+    {
+      "actual_line": null,
+      "away_team": "PIT",
+      "bankroll_before": null,
+      "decimal_odds": 2.13,
+      "edge": 0.0852164319248826,
+      "game_date": "2026-08-05",
+      "home_team": "MIL",
+      "implied_prob": 0.4694835680751174,
+      "market": "moneyline",
+      "model_prob": 0.5547,
+      "notes": "DK",
+      "pick_desc": "PIT ML",
+      "result": null,
+      "side": "away",
+      "sport": "mlb",
+      "stake": 25.0,
+      "taken_at": "2026-08-05T01:05:55.398273"
+    }
+  ],
+  "system": "TDL Curated Picks"
+}
