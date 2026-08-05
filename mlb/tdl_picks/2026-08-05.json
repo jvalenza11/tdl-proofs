@@ -1,7 +1,7 @@
 {
   "game_date": "2026-08-05",
-  "generated_utc": "2026-08-05T13:35:12Z",
-  "num_picks": 1,
+  "generated_utc": "2026-08-05T16:00:28Z",
+  "num_picks": 4,
   "picks": [
     {
       "actual_line": null,
@@ -21,6 +21,63 @@
       "sport": "mlb",
       "stake": 25.0,
       "taken_at": "2026-08-05T01:05:55.398273"
+    },
+    {
+      "actual_line": 8.0,
+      "away_team": "NYM",
+      "bankroll_before": null,
+      "decimal_odds": 1.87,
+      "edge": 0.07634064171123,
+      "game_date": "2026-08-05",
+      "home_team": "CLE",
+      "implied_prob": 0.53475935828877,
+      "market": "over_under",
+      "model_prob": 0.6111,
+      "notes": "365",
+      "pick_desc": "Under 8.5",
+      "result": null,
+      "side": "under",
+      "sport": "mlb",
+      "stake": 22.0,
+      "taken_at": "2026-08-05T13:38:40.088646"
+    },
+    {
+      "actual_line": 8.5,
+      "away_team": "STL",
+      "bankroll_before": null,
+      "decimal_odds": 2.0,
+      "edge": 0.03610000000000002,
+      "game_date": "2026-08-05",
+      "home_team": "NYY",
+      "implied_prob": 0.5,
+      "market": "over_under",
+      "model_prob": 0.5361,
+      "notes": "365",
+      "pick_desc": "Under 8.5",
+      "result": null,
+      "side": "under",
+      "sport": "mlb",
+      "stake": 17.5,
+      "taken_at": "2026-08-05T13:41:08.014568"
+    },
+    {
+      "actual_line": 9.5,
+      "away_team": "WSH",
+      "bankroll_before": null,
+      "decimal_odds": 1.87,
+      "edge": 0.028240641711229975,
+      "game_date": "2026-08-05",
+      "home_team": "PHI",
+      "implied_prob": 0.53475935828877,
+      "market": "over_under",
+      "model_prob": 0.563,
+      "notes": "365",
+      "pick_desc": "Over 9.5",
+      "result": null,
+      "side": "over",
+      "sport": "mlb",
+      "stake": 17.5,
+      "taken_at": "2026-08-05T13:45:53.840823"
     }
   ],
   "system": "TDL Curated Picks"
