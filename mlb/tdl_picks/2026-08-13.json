@@ -1,0 +1,46 @@
+{
+  "game_date": "2026-08-13",
+  "generated_utc": "2026-08-13T14:20:41Z",
+  "num_picks": 2,
+  "picks": [
+    {
+      "actual_line": null,
+      "away_team": "PIT",
+      "bankroll_before": null,
+      "decimal_odds": 2.1,
+      "edge": 0.07040952380952381,
+      "game_date": "2026-08-13",
+      "home_team": "MIA",
+      "implied_prob": 0.47619047619047616,
+      "market": "moneyline",
+      "model_prob": 0.5466,
+      "notes": "365",
+      "pick_desc": "MIA ML",
+      "result": null,
+      "side": "home",
+      "sport": "mlb",
+      "stake": 25.0,
+      "taken_at": "2026-08-13T01:05:16.436794"
+    },
+    {
+      "actual_line": null,
+      "away_team": "CHC",
+      "bankroll_before": null,
+      "decimal_odds": 2.31,
+      "edge": 0.08469956709956705,
+      "game_date": "2026-08-13",
+      "home_team": "WSH",
+      "implied_prob": 0.4329004329004329,
+      "market": "moneyline",
+      "model_prob": 0.5176,
+      "notes": "DK",
+      "pick_desc": "WSH ML",
+      "result": null,
+      "side": "home",
+      "sport": "mlb",
+      "stake": 25.0,
+      "taken_at": "2026-08-13T12:12:29.122030"
+    }
+  ],
+  "system": "TDL Curated Picks"
+}
