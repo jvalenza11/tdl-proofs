@@ -1,7 +1,7 @@
 {
   "game_date": "2026-08-15",
-  "generated_utc": "2026-08-15T14:18:51Z",
-  "num_picks": 1,
+  "generated_utc": "2026-08-15T17:18:00Z",
+  "num_picks": 3,
   "picks": [
     {
       "actual_line": 8.0,
@@ -21,6 +21,44 @@
       "sport": "mlb",
       "stake": 20.0,
       "taken_at": "2026-08-15T13:57:21.749828"
+    },
+    {
+      "actual_line": null,
+      "away_team": "TEX",
+      "bankroll_before": null,
+      "decimal_odds": 2.12,
+      "edge": 0.05880188679245285,
+      "game_date": "2026-08-15",
+      "home_team": "OAK",
+      "implied_prob": 0.4716981132075471,
+      "market": "f5_totals",
+      "model_prob": 0.5305,
+      "notes": "FD",
+      "pick_desc": "F5 Under 4.5",
+      "result": null,
+      "side": "under",
+      "sport": "mlb",
+      "stake": 17.5,
+      "taken_at": "2026-08-15T16:36:49.342503"
+    },
+    {
+      "actual_line": 7.5,
+      "away_team": "WSH",
+      "bankroll_before": null,
+      "decimal_odds": 1.98,
+      "edge": 0.06684949494949488,
+      "game_date": "2026-08-15",
+      "home_team": "NYM",
+      "implied_prob": 0.5050505050505051,
+      "market": "over_under",
+      "model_prob": 0.5719,
+      "notes": "FD",
+      "pick_desc": "Under 8.0",
+      "result": null,
+      "side": "under",
+      "sport": "mlb",
+      "stake": 20.0,
+      "taken_at": "2026-08-15T16:40:55.320155"
     }
   ],
   "system": "TDL Curated Picks"
