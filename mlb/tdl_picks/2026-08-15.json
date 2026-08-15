@@ -1,7 +1,27 @@
 {
   "game_date": "2026-08-15",
-  "generated_utc": "2026-08-15T13:27:12Z",
-  "num_picks": 0,
-  "picks": [],
+  "generated_utc": "2026-08-15T14:18:51Z",
+  "num_picks": 1,
+  "picks": [
+    {
+      "actual_line": 8.0,
+      "away_team": "KC",
+      "bankroll_before": null,
+      "decimal_odds": 1.96,
+      "edge": 0.06169591836734689,
+      "game_date": "2026-08-15",
+      "home_team": "LAA",
+      "implied_prob": 0.5102040816326531,
+      "market": "over_under",
+      "model_prob": 0.5719,
+      "notes": "FD",
+      "pick_desc": "Under 8.0",
+      "result": null,
+      "side": "under",
+      "sport": "mlb",
+      "stake": 20.0,
+      "taken_at": "2026-08-15T13:57:21.749828"
+    }
+  ],
   "system": "TDL Curated Picks"
 }
