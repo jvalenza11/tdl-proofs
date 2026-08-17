@@ -1,0 +1,46 @@
+{
+  "game_date": "2026-08-17",
+  "generated_utc": "2026-08-17T13:36:39Z",
+  "num_picks": 2,
+  "picks": [
+    {
+      "actual_line": null,
+      "away_team": "BAL",
+      "bankroll_before": null,
+      "decimal_odds": 2.34,
+      "edge": 0.0576495726495726,
+      "game_date": "2026-08-17",
+      "home_team": "TB",
+      "implied_prob": 0.4273504273504274,
+      "market": "f5_moneyline",
+      "model_prob": 0.485,
+      "notes": "FD",
+      "pick_desc": "BAL F5 ML",
+      "result": null,
+      "side": "away",
+      "sport": "mlb",
+      "stake": 35.0,
+      "taken_at": "2026-08-17T12:18:17.264276"
+    },
+    {
+      "actual_line": -1.5,
+      "away_team": "MIA",
+      "bankroll_before": null,
+      "decimal_odds": 1.88,
+      "edge": 0.019685106382978712,
+      "game_date": "2026-08-17",
+      "home_team": "PHI",
+      "implied_prob": 0.5319148936170213,
+      "market": "spread",
+      "model_prob": 0.5516,
+      "notes": "DK",
+      "pick_desc": "PHI -1.5",
+      "result": null,
+      "side": "home",
+      "sport": "mlb",
+      "stake": 30.0,
+      "taken_at": "2026-08-17T12:19:37.111911"
+    }
+  ],
+  "system": "TDL Curated Picks"
+}
