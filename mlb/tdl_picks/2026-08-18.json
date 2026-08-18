@@ -1,0 +1,46 @@
+{
+  "game_date": "2026-08-18",
+  "generated_utc": "2026-08-18T13:39:49Z",
+  "num_picks": 2,
+  "picks": [
+    {
+      "actual_line": 8.5,
+      "away_team": "SD",
+      "bankroll_before": null,
+      "decimal_odds": 1.93,
+      "edge": 0.05326528497409322,
+      "game_date": "2026-08-18",
+      "home_team": "NYM",
+      "implied_prob": 0.5181347150259068,
+      "market": "over_under",
+      "model_prob": 0.5714,
+      "notes": "DK",
+      "pick_desc": "Under 8.5",
+      "result": null,
+      "side": "under",
+      "sport": "mlb",
+      "stake": 30.0,
+      "taken_at": "2026-08-18T12:34:03.599483"
+    },
+    {
+      "actual_line": -1.5,
+      "away_team": "NYY",
+      "bankroll_before": null,
+      "decimal_odds": 2.45,
+      "edge": 0.04823673469387757,
+      "game_date": "2026-08-18",
+      "home_team": "BAL",
+      "implied_prob": 0.4081632653061224,
+      "market": "spread",
+      "model_prob": 0.4564,
+      "notes": "365",
+      "pick_desc": "NYY -1.5",
+      "result": null,
+      "side": "away",
+      "sport": "mlb",
+      "stake": 30.0,
+      "taken_at": "2026-08-18T12:41:18.310417"
+    }
+  ],
+  "system": "TDL Curated Picks"
+}
