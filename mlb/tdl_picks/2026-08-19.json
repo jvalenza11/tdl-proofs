@@ -1,0 +1,46 @@
+{
+  "game_date": "2026-08-19",
+  "generated_utc": "2026-08-19T13:41:22Z",
+  "num_picks": 2,
+  "picks": [
+    {
+      "actual_line": null,
+      "away_team": "WSH",
+      "bankroll_before": null,
+      "decimal_odds": 2.35,
+      "edge": 0.11526808510638292,
+      "game_date": "2026-08-19",
+      "home_team": "TEX",
+      "implied_prob": 0.425531914893617,
+      "market": "f5_spread",
+      "model_prob": 0.5408,
+      "notes": "DK",
+      "pick_desc": "WSH F5 -0.5",
+      "result": null,
+      "side": "away",
+      "sport": "mlb",
+      "stake": 45.0,
+      "taken_at": "2026-08-19T12:44:33.341876"
+    },
+    {
+      "actual_line": null,
+      "away_team": "SEA",
+      "bankroll_before": null,
+      "decimal_odds": 2.35,
+      "edge": 0.11526808510638292,
+      "game_date": "2026-08-19",
+      "home_team": "MIL",
+      "implied_prob": 0.425531914893617,
+      "market": "f5_spread",
+      "model_prob": 0.5408,
+      "notes": "DK",
+      "pick_desc": "SEA F5 -0.5",
+      "result": null,
+      "side": "away",
+      "sport": "mlb",
+      "stake": 35.0,
+      "taken_at": "2026-08-19T12:47:18.823129"
+    }
+  ],
+  "system": "TDL Curated Picks"
+}
