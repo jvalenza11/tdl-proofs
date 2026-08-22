@@ -1,7 +1,27 @@
 {
   "game_date": "2026-08-22",
-  "generated_utc": "2026-08-22T13:28:52Z",
-  "num_picks": 0,
-  "picks": [],
+  "generated_utc": "2026-08-22T16:20:07Z",
+  "num_picks": 1,
+  "picks": [
+    {
+      "actual_line": null,
+      "away_team": "TOR",
+      "bankroll_before": null,
+      "decimal_odds": 2.22,
+      "edge": 0.09034954954954955,
+      "game_date": "2026-08-22",
+      "home_team": "NYY",
+      "implied_prob": 0.4504504504504504,
+      "market": "f5_spread",
+      "model_prob": 0.5408,
+      "notes": "FD",
+      "pick_desc": "TOR F5 -0.5",
+      "result": null,
+      "side": "away",
+      "sport": "mlb",
+      "stake": 45.0,
+      "taken_at": "2026-08-22T15:37:35.982487"
+    }
+  ],
   "system": "TDL Curated Picks"
 }
