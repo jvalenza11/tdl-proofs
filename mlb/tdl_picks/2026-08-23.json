@@ -1,7 +1,7 @@
 {
   "game_date": "2026-08-23",
-  "generated_utc": "2026-08-23T13:30:03Z",
-  "num_picks": 2,
+  "generated_utc": "2026-08-23T14:19:52Z",
+  "num_picks": 3,
   "picks": [
     {
       "actual_line": 11.0,
@@ -40,6 +40,25 @@
       "sport": "mlb",
       "stake": 48.0,
       "taken_at": "2026-08-23T13:21:01.814771"
+    },
+    {
+      "actual_line": 1.5,
+      "away_team": "STL",
+      "bankroll_before": null,
+      "decimal_odds": 1.87,
+      "edge": 0.10114064171123005,
+      "game_date": "2026-08-23",
+      "home_team": "PHI",
+      "implied_prob": 0.53475935828877,
+      "market": "spread",
+      "model_prob": 0.6359,
+      "notes": "DK",
+      "pick_desc": "STL +1.5",
+      "result": null,
+      "side": "away",
+      "sport": "mlb",
+      "stake": 55.0,
+      "taken_at": "2026-08-23T13:51:32.170901"
     }
   ],
   "system": "TDL Curated Picks"
