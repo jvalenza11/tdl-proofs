@@ -1,0 +1,46 @@
+{
+  "game_date": "2026-08-23",
+  "generated_utc": "2026-08-23T13:30:03Z",
+  "num_picks": 2,
+  "picks": [
+    {
+      "actual_line": 11.0,
+      "away_team": "CLE",
+      "bankroll_before": null,
+      "decimal_odds": 2.0,
+      "edge": 0.05169999999999997,
+      "game_date": "2026-08-23",
+      "home_team": "COL",
+      "implied_prob": 0.5,
+      "market": "over_under",
+      "model_prob": 0.5517,
+      "notes": "DK",
+      "pick_desc": "Under 11.0",
+      "result": null,
+      "side": "under",
+      "sport": "mlb",
+      "stake": 43.0,
+      "taken_at": "2026-08-22T23:32:53.568909"
+    },
+    {
+      "actual_line": 7.5,
+      "away_team": "TOR",
+      "bankroll_before": null,
+      "decimal_odds": 1.98,
+      "edge": 0.06634949494949494,
+      "game_date": "2026-08-23",
+      "home_team": "NYY",
+      "implied_prob": 0.5050505050505051,
+      "market": "over_under",
+      "model_prob": 0.5714,
+      "notes": "FD",
+      "pick_desc": "Under 7.5",
+      "result": null,
+      "side": "under",
+      "sport": "mlb",
+      "stake": 48.0,
+      "taken_at": "2026-08-23T13:21:01.814771"
+    }
+  ],
+  "system": "TDL Curated Picks"
+}
