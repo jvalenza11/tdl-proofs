@@ -1,0 +1,48 @@
+{
+  "game_date": "2026-08-24",
+  "generated_utc": "2026-08-25T01:28:52Z",
+  "note": "Supplemental pre-close stamp \u2014 recorded after the morning primary snapshot cutoff (17:30 UTC). See <date>.json for the pre-game primary.",
+  "num_picks": 2,
+  "picks": [
+    {
+      "actual_line": -1.5,
+      "away_team": "CIN",
+      "decimal_odds": 2.06,
+      "edge": 0.09366310679611645,
+      "game_date": "2026-08-24",
+      "game_number": null,
+      "home_team": "SF",
+      "implied_prob": 0.4854368932038835,
+      "market": "spread",
+      "model_prob": 0.5791,
+      "notes": "FD",
+      "pick_desc": "CIN -1.5",
+      "recorded_at": "2026-08-24T23:18:32.657299",
+      "result": null,
+      "side": "away",
+      "sport": "mlb",
+      "stake": 45.0
+    },
+    {
+      "actual_line": null,
+      "away_team": "PHI",
+      "decimal_odds": 2.25,
+      "edge": 0.045855555555555594,
+      "game_date": "2026-08-24",
+      "game_number": null,
+      "home_team": "SEA",
+      "implied_prob": 0.4444444444444444,
+      "market": "f5_spread",
+      "model_prob": 0.4903,
+      "notes": "FD",
+      "pick_desc": "PHI F5 -0.5",
+      "recorded_at": "2026-08-25T01:06:10.525807",
+      "result": null,
+      "side": "away",
+      "sport": "mlb",
+      "stake": 40.0
+    }
+  ],
+  "supp_index": 1,
+  "system": "TDL Curated Picks \u00b7 SUPPLEMENTAL"
+}
