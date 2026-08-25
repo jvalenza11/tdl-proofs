@@ -1,6 +1,6 @@
 {
   "system": "seemsRight MLB Prediction Model",
-  "generated_utc": "2026-08-25T12:24:56.036433+00:00",
+  "generated_utc": "2026-08-25T12:51:35.640265+00:00",
   "game_date": "2026-08-25",
   "num_picks": 53,
   "picks": [
@@ -11,11 +11,11 @@
       "market": "spread",
       "side": "away",
       "pick_desc": "TEX -1.5",
-      "decimal_odds": 2.4166666666666665,
-      "implied_prob": 0.4138,
+      "decimal_odds": 2.4499999999999997,
+      "implied_prob": 0.4082,
       "model_prob": 0.5758,
-      "edge": 0.162,
-      "ev": -0.1947
+      "edge": 0.1676,
+      "ev": -0.1811
     },
     {
       "date": "2026-08-25",
@@ -188,16 +188,16 @@
     },
     {
       "date": "2026-08-25",
-      "home_team": "TOR",
-      "away_team": "KC",
-      "market": "f5_spread",
+      "home_team": "MIA",
+      "away_team": "BOS",
+      "market": "f5_moneyline",
       "side": "home",
-      "pick_desc": "TOR F5 -0.5",
-      "decimal_odds": 2.14,
-      "implied_prob": 0.4673,
-      "model_prob": 0.5097,
-      "edge": 0.0424,
-      "ev": -0.442
+      "pick_desc": "MIA F5 ML",
+      "decimal_odds": 2.3449999999999998,
+      "implied_prob": 0.4264,
+      "model_prob": 0.4677,
+      "edge": 0.0413,
+      "ev": -0.4768
     },
     {
       "date": "2026-08-25",
@@ -214,16 +214,16 @@
     },
     {
       "date": "2026-08-25",
-      "home_team": "MIA",
-      "away_team": "BOS",
-      "market": "f5_moneyline",
+      "home_team": "TOR",
+      "away_team": "KC",
+      "market": "f5_spread",
       "side": "home",
-      "pick_desc": "MIA F5 ML",
-      "decimal_odds": 2.335,
-      "implied_prob": 0.4283,
-      "model_prob": 0.4677,
-      "edge": 0.0394,
-      "ev": -0.4797
+      "pick_desc": "TOR F5 -0.5",
+      "decimal_odds": 2.12,
+      "implied_prob": 0.4717,
+      "model_prob": 0.5097,
+      "edge": 0.038,
+      "ev": -0.4477
     },
     {
       "date": "2026-08-25",
@@ -237,19 +237,6 @@
       "model_prob": 0.538,
       "edge": 0.038,
       "ev": -0.424
-    },
-    {
-      "date": "2026-08-25",
-      "home_team": "MIA",
-      "away_team": "BOS",
-      "market": "f5_totals",
-      "side": "under",
-      "pick_desc": "F5 Under 3.5",
-      "decimal_odds": 2.16,
-      "implied_prob": 0.463,
-      "model_prob": 0.5006,
-      "edge": 0.0376,
-      "ev": -0.4557
     },
     {
       "date": "2026-08-25",
@@ -279,19 +266,6 @@
     },
     {
       "date": "2026-08-25",
-      "home_team": "MIA",
-      "away_team": "BOS",
-      "market": "spread",
-      "side": "home",
-      "pick_desc": "MIA +1.5",
-      "decimal_odds": 1.7966666666666666,
-      "implied_prob": 0.5566,
-      "model_prob": 0.5902,
-      "edge": 0.0336,
-      "ev": -0.383
-    },
-    {
-      "date": "2026-08-25",
       "home_team": "OAK",
       "away_team": "MIN",
       "market": "spread",
@@ -302,6 +276,32 @@
       "model_prob": 0.5236,
       "edge": 0.0326,
       "ev": -0.4426
+    },
+    {
+      "date": "2026-08-25",
+      "home_team": "MIA",
+      "away_team": "BOS",
+      "market": "spread",
+      "side": "home",
+      "pick_desc": "MIA +1.5",
+      "decimal_odds": 1.79,
+      "implied_prob": 0.5587,
+      "model_prob": 0.5902,
+      "edge": 0.0315,
+      "ev": -0.3849
+    },
+    {
+      "date": "2026-08-25",
+      "home_team": "CWS",
+      "away_team": "TEX",
+      "market": "f5_totals",
+      "side": "under",
+      "pick_desc": "F5 Under 3.5",
+      "decimal_odds": 2.04,
+      "implied_prob": 0.4902,
+      "model_prob": 0.5214,
+      "edge": 0.0312,
+      "ev": -0.4461
     },
     {
       "date": "2026-08-25",
@@ -318,29 +318,42 @@
     },
     {
       "date": "2026-08-25",
+      "home_team": "CWS",
+      "away_team": "TEX",
+      "market": "nrfi",
+      "side": "over",
+      "pick_desc": "YRFI",
+      "decimal_odds": 2.2,
+      "implied_prob": 0.4545,
+      "model_prob": 0.4835,
+      "edge": 0.029,
+      "ev": -0.4818
+    },
+    {
+      "date": "2026-08-25",
+      "home_team": "MIA",
+      "away_team": "BOS",
+      "market": "f5_totals",
+      "side": "under",
+      "pick_desc": "F5 Under 3.5",
+      "decimal_odds": 2.12,
+      "implied_prob": 0.4717,
+      "model_prob": 0.5006,
+      "edge": 0.0289,
+      "ev": -0.467
+    },
+    {
+      "date": "2026-08-25",
       "home_team": "TOR",
       "away_team": "KC",
       "market": "over_under",
       "side": "under",
       "pick_desc": "Under 8.5",
-      "decimal_odds": 1.9966666666666668,
-      "implied_prob": 0.5008,
+      "decimal_odds": 1.9866666666666666,
+      "implied_prob": 0.5034,
       "model_prob": 0.5292,
-      "edge": 0.0284,
-      "ev": -0.4425
-    },
-    {
-      "date": "2026-08-25",
-      "home_team": "WSH",
-      "away_team": "COL",
-      "market": "f5_moneyline",
-      "side": "away",
-      "pick_desc": "COL F5 ML",
-      "decimal_odds": 2.24,
-      "implied_prob": 0.4464,
-      "model_prob": 0.472,
-      "edge": 0.0256,
-      "ev": -0.4963
+      "edge": 0.0258,
+      "ev": -0.4453
     },
     {
       "date": "2026-08-25",
@@ -383,19 +396,6 @@
     },
     {
       "date": "2026-08-25",
-      "home_team": "TOR",
-      "away_team": "KC",
-      "market": "spread",
-      "side": "home",
-      "pick_desc": "TOR -1.5",
-      "decimal_odds": 2.64,
-      "implied_prob": 0.3788,
-      "model_prob": 0.402,
-      "edge": 0.0232,
-      "ev": -0.5599
-    },
-    {
-      "date": "2026-08-25",
       "home_team": "WSH",
       "away_team": "COL",
       "market": "moneyline",
@@ -406,6 +406,19 @@
       "model_prob": 0.4526,
       "edge": 0.0228,
       "ev": -0.5172
+    },
+    {
+      "date": "2026-08-25",
+      "home_team": "CWS",
+      "away_team": "TEX",
+      "market": "f5_spread",
+      "side": "away",
+      "pick_desc": "TEX F5 -0.5",
+      "decimal_odds": 2.06,
+      "implied_prob": 0.4854,
+      "model_prob": 0.5075,
+      "edge": 0.0221,
+      "ev": -0.4691
     },
     {
       "date": "2026-08-25",
@@ -422,6 +435,19 @@
     },
     {
       "date": "2026-08-25",
+      "home_team": "WSH",
+      "away_team": "COL",
+      "market": "f5_moneyline",
+      "side": "away",
+      "pick_desc": "COL F5 ML",
+      "decimal_odds": 2.22,
+      "implied_prob": 0.4505,
+      "model_prob": 0.472,
+      "edge": 0.0215,
+      "ev": -0.5017
+    },
+    {
+      "date": "2026-08-25",
       "home_team": "ARI",
       "away_team": "CHC",
       "market": "over_under",
@@ -435,32 +461,6 @@
     },
     {
       "date": "2026-08-25",
-      "home_team": "CWS",
-      "away_team": "TEX",
-      "market": "nrfi",
-      "side": "over",
-      "pick_desc": "YRFI",
-      "decimal_odds": 2.16,
-      "implied_prob": 0.463,
-      "model_prob": 0.4835,
-      "edge": 0.0205,
-      "ev": -0.4927
-    },
-    {
-      "date": "2026-08-25",
-      "home_team": "SEA",
-      "away_team": "PHI",
-      "market": "over_under",
-      "side": "under",
-      "pick_desc": "Under 7.5",
-      "decimal_odds": 1.9666666666666666,
-      "implied_prob": 0.5085,
-      "model_prob": 0.5286,
-      "edge": 0.0201,
-      "ev": -0.4519
-    },
-    {
-      "date": "2026-08-25",
       "home_team": "WSH",
       "away_team": "COL",
       "market": "spread",
@@ -471,6 +471,19 @@
       "model_prob": 0.6359,
       "edge": 0.0199,
       "ev": -0.3517
+    },
+    {
+      "date": "2026-08-25",
+      "home_team": "TOR",
+      "away_team": "KC",
+      "market": "spread",
+      "side": "home",
+      "pick_desc": "TOR -1.5",
+      "decimal_odds": 2.61,
+      "implied_prob": 0.3831,
+      "model_prob": 0.402,
+      "edge": 0.0189,
+      "ev": -0.5676
     },
     {
       "date": "2026-08-25",
@@ -513,32 +526,6 @@
     },
     {
       "date": "2026-08-25",
-      "home_team": "CWS",
-      "away_team": "TEX",
-      "market": "f5_spread",
-      "side": "away",
-      "pick_desc": "TEX F5 -0.5",
-      "decimal_odds": 2.04,
-      "implied_prob": 0.4902,
-      "model_prob": 0.5075,
-      "edge": 0.0173,
-      "ev": -0.4745
-    },
-    {
-      "date": "2026-08-25",
-      "home_team": "CWS",
-      "away_team": "TEX",
-      "market": "over_under",
-      "side": "under",
-      "pick_desc": "Under 7.5",
-      "decimal_odds": 1.9533333333333331,
-      "implied_prob": 0.5119,
-      "model_prob": 0.5278,
-      "edge": 0.0159,
-      "ev": -0.4571
-    },
-    {
-      "date": "2026-08-25",
       "home_team": "OAK",
       "away_team": "MIN",
       "market": "f5_moneyline",
@@ -549,6 +536,19 @@
       "model_prob": 0.4845,
       "edge": 0.015,
       "ev": -0.4985
+    },
+    {
+      "date": "2026-08-25",
+      "home_team": "SEA",
+      "away_team": "PHI",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 7.5",
+      "decimal_odds": 1.9433333333333334,
+      "implied_prob": 0.5146,
+      "model_prob": 0.5286,
+      "edge": 0.014,
+      "ev": -0.4582
     },
     {
       "date": "2026-08-25",
@@ -604,19 +604,6 @@
     },
     {
       "date": "2026-08-25",
-      "home_team": "CWS",
-      "away_team": "TEX",
-      "market": "f5_moneyline",
-      "side": "away",
-      "pick_desc": "TEX F5 ML",
-      "decimal_odds": 1.74,
-      "implied_prob": 0.5747,
-      "model_prob": 0.582,
-      "edge": 0.0073,
-      "ev": -0.4126
-    },
-    {
-      "date": "2026-08-25",
       "home_team": "SF",
       "away_team": "CIN",
       "market": "over_under",
@@ -630,16 +617,16 @@
     },
     {
       "date": "2026-08-25",
-      "home_team": "TOR",
-      "away_team": "KC",
-      "market": "moneyline",
-      "side": "home",
-      "pick_desc": "TOR ML",
-      "decimal_odds": 1.8233333333333335,
-      "implied_prob": 0.5484,
-      "model_prob": 0.5521,
-      "edge": 0.0037,
-      "ev": -0.4449
+      "home_team": "CWS",
+      "away_team": "TEX",
+      "market": "f5_moneyline",
+      "side": "away",
+      "pick_desc": "TEX F5 ML",
+      "decimal_odds": 1.73,
+      "implied_prob": 0.578,
+      "model_prob": 0.582,
+      "edge": 0.004,
+      "ev": -0.4151
     },
     {
       "date": "2026-08-25",
@@ -658,6 +645,19 @@
       "date": "2026-08-25",
       "home_team": "WSH",
       "away_team": "COL",
+      "market": "f5_totals",
+      "side": "under",
+      "pick_desc": "F5 Under 4.5",
+      "decimal_odds": 1.85,
+      "implied_prob": 0.5405,
+      "model_prob": 0.5435,
+      "edge": 0.003,
+      "ev": -0.454
+    },
+    {
+      "date": "2026-08-25",
+      "home_team": "ATL",
+      "away_team": "LAD",
       "market": "f5_totals",
       "side": "under",
       "pick_desc": "F5 Under 4.5",
