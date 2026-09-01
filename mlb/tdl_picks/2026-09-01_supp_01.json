@@ -1,0 +1,29 @@
+{
+  "game_date": "2026-09-01",
+  "generated_utc": "2026-09-01T20:13:52Z",
+  "note": "Supplemental pre-close stamp \u2014 recorded after the morning primary snapshot cutoff (17:30 UTC). See <date>.json for the pre-game primary.",
+  "num_picks": 1,
+  "picks": [
+    {
+      "actual_line": null,
+      "away_team": "TOR",
+      "decimal_odds": 2.6,
+      "edge": 0.10478461538461542,
+      "game_date": "2026-09-01",
+      "game_number": null,
+      "home_team": "CLE",
+      "implied_prob": 0.3846153846153846,
+      "market": "f5_moneyline",
+      "model_prob": 0.4894,
+      "notes": "365",
+      "pick_desc": "TOR F5 ML",
+      "recorded_at": "2026-09-01T19:38:40.109971",
+      "result": null,
+      "side": "away",
+      "sport": "mlb",
+      "stake": 50.0
+    }
+  ],
+  "supp_index": 1,
+  "system": "TDL Curated Picks \u00b7 SUPPLEMENTAL"
+}
