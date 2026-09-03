@@ -1,0 +1,46 @@
+{
+  "game_date": "2026-09-03",
+  "generated_utc": "2026-09-03T16:56:01Z",
+  "num_picks": 2,
+  "picks": [
+    {
+      "actual_line": null,
+      "away_team": "MIL",
+      "bankroll_before": null,
+      "decimal_odds": 2.25,
+      "edge": 0.06515555555555563,
+      "game_date": "2026-09-03",
+      "home_team": "CHC",
+      "implied_prob": 0.4444444444444444,
+      "market": "f5_spread",
+      "model_prob": 0.5096,
+      "notes": "FD",
+      "pick_desc": "MIL F5 -0.5",
+      "result": null,
+      "side": "away",
+      "sport": "mlb",
+      "stake": 42.5,
+      "taken_at": "2026-09-03T02:21:15.988971"
+    },
+    {
+      "actual_line": -1.5,
+      "away_team": "CWS",
+      "bankroll_before": null,
+      "decimal_odds": 2.35,
+      "edge": 0.09096808510638293,
+      "game_date": "2026-09-03",
+      "home_team": "HOU",
+      "implied_prob": 0.425531914893617,
+      "market": "spread",
+      "model_prob": 0.5165,
+      "notes": "DK",
+      "pick_desc": "HOU -1.5",
+      "result": null,
+      "side": "home",
+      "sport": "mlb",
+      "stake": 45.0,
+      "taken_at": "2026-09-03T02:21:42.606906"
+    }
+  ],
+  "system": "TDL Curated Picks"
+}
