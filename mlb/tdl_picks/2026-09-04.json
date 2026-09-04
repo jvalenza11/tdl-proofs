@@ -1,0 +1,46 @@
+{
+  "game_date": "2026-09-04",
+  "generated_utc": "2026-09-04T16:43:36Z",
+  "num_picks": 2,
+  "picks": [
+    {
+      "actual_line": -1.5,
+      "away_team": "TB",
+      "bankroll_before": null,
+      "decimal_odds": 2.5,
+      "edge": 0.06829999999999997,
+      "game_date": "2026-09-04",
+      "home_team": "TEX",
+      "implied_prob": 0.4,
+      "market": "spread",
+      "model_prob": 0.4683,
+      "notes": "FD",
+      "pick_desc": "TB -1.5",
+      "result": null,
+      "side": "away",
+      "sport": "mlb",
+      "stake": 45.0,
+      "taken_at": "2026-09-04T02:45:37.390045"
+    },
+    {
+      "actual_line": 5.0,
+      "away_team": "ATL",
+      "bankroll_before": null,
+      "decimal_odds": 2.26,
+      "edge": 0.06792212389380525,
+      "game_date": "2026-09-04",
+      "home_team": "PHI",
+      "implied_prob": 0.4424778761061947,
+      "market": "f5_spread",
+      "model_prob": 0.5104,
+      "notes": "FD",
+      "pick_desc": "ATL F5 -0.5",
+      "result": null,
+      "side": "away",
+      "sport": "mlb",
+      "stake": 45.0,
+      "taken_at": "2026-09-04T02:49:50.705833"
+    }
+  ],
+  "system": "TDL Curated Picks"
+}
