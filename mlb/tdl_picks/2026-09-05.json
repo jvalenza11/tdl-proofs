@@ -1,0 +1,27 @@
+{
+  "game_date": "2026-09-05",
+  "generated_utc": "2026-09-05T15:46:53Z",
+  "num_picks": 1,
+  "picks": [
+    {
+      "actual_line": 5.0,
+      "away_team": "NYY",
+      "bankroll_before": null,
+      "decimal_odds": 2.3,
+      "edge": 0.0610173913043478,
+      "game_date": "2026-09-05",
+      "home_team": "SD",
+      "implied_prob": 0.4347826086956522,
+      "market": "f5_spread",
+      "model_prob": 0.4958,
+      "notes": "DK",
+      "pick_desc": "NYY F5 -0.5",
+      "result": null,
+      "side": "away",
+      "sport": "mlb",
+      "stake": 45.0,
+      "taken_at": "2026-09-05T10:52:57.714457"
+    }
+  ],
+  "system": "TDL Curated Picks"
+}
