@@ -1,0 +1,46 @@
+{
+  "game_date": "2026-09-06",
+  "generated_utc": "2026-09-06T15:58:42Z",
+  "num_picks": 2,
+  "picks": [
+    {
+      "actual_line": -0.5,
+      "away_team": "ARI",
+      "bankroll_before": null,
+      "decimal_odds": 2.25,
+      "edge": 0.0523555555555556,
+      "game_date": "2026-09-06",
+      "home_team": "HOU",
+      "implied_prob": 0.4444444444444444,
+      "market": "f5_spread",
+      "model_prob": 0.4968,
+      "notes": "FD",
+      "pick_desc": "ARI F5 -0.5",
+      "result": null,
+      "side": "away",
+      "sport": "mlb",
+      "stake": 40.0,
+      "taken_at": "2026-09-06T12:45:40.965738"
+    },
+    {
+      "actual_line": 5.5,
+      "away_team": "STL",
+      "bankroll_before": null,
+      "decimal_odds": 2.04,
+      "edge": 0.04320392156862746,
+      "game_date": "2026-09-06",
+      "home_team": "COL",
+      "implied_prob": 0.49019607843137253,
+      "market": "f5_totals",
+      "model_prob": 0.5334,
+      "notes": "FD",
+      "pick_desc": "F5 Under 5.5",
+      "result": null,
+      "side": "under",
+      "sport": "mlb",
+      "stake": 40.0,
+      "taken_at": "2026-09-06T13:14:25.544077"
+    }
+  ],
+  "system": "TDL Curated Picks"
+}
