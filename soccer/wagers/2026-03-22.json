@@ -1,0 +1,60 @@
+{
+  "game_date": "2026-03-22",
+  "generated_utc": "2026-03-17T13:12:03Z",
+  "num_picks": 4,
+  "picks": [
+    {
+      "date_event": "2026-03-22",
+      "date_placed": "2026-03-16",
+      "edge": 0.048,
+      "ev": 0.72,
+      "market": "spread",
+      "match": "Sunderland @ Newcastle United",
+      "model_prob": 0.529,
+      "models_agree": "5/4",
+      "odds": 2.08,
+      "side": "AWAY",
+      "spread": "0.75"
+    },
+    {
+      "date_event": "2026-03-22",
+      "date_placed": "2026-03-16",
+      "edge": 0.055,
+      "ev": 0.94,
+      "market": "spread",
+      "match": "Nottingham Forest @ Tottenham Hotspur",
+      "model_prob": 0.542,
+      "models_agree": "5/4",
+      "odds": 2.05,
+      "side": "AWAY",
+      "spread": "0.0"
+    },
+    {
+      "date_event": "2026-03-22",
+      "date_placed": "2026-03-16",
+      "edge": 0.052,
+      "ev": 0.84,
+      "market": "spread",
+      "match": "Pisa @ Como",
+      "model_prob": 0.54,
+      "models_agree": "5/4",
+      "odds": 2.05,
+      "side": "AWAY",
+      "spread": "1.5"
+    },
+    {
+      "date_event": "2026-03-22",
+      "date_placed": "2026-03-17",
+      "edge": 0.022,
+      "ev": 0.22,
+      "market": "spread",
+      "match": "Hellas Verona @ Atalanta BC",
+      "model_prob": 0.541,
+      "models_agree": "5/4",
+      "odds": 1.93,
+      "side": "AWAY",
+      "spread": "1.25"
+    }
+  ],
+  "system": "FootyDaily Soccer Prediction Model"
+}

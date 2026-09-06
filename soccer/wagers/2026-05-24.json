@@ -1,0 +1,60 @@
+{
+  "game_date": "2026-05-24",
+  "generated_utc": "2026-05-24T14:17:07Z",
+  "num_picks": 4,
+  "picks": [
+    {
+      "date_event": "2026-05-24",
+      "date_placed": "2026-05-24",
+      "edge": 0.03,
+      "ev": 0.29,
+      "market": "spread",
+      "match": "Aston Villa @ Manchester City",
+      "model_prob": 0.542,
+      "models_agree": "5/4",
+      "odds": 1.95,
+      "side": "AWAY",
+      "spread": "1.25"
+    },
+    {
+      "date_event": "2026-05-24",
+      "date_placed": "2026-05-24",
+      "edge": 0.044,
+      "ev": 0.62,
+      "market": "spread",
+      "match": "Brentford @ Liverpool",
+      "model_prob": 0.539,
+      "models_agree": "5/4",
+      "odds": 2.02,
+      "side": "AWAY",
+      "spread": "0.5"
+    },
+    {
+      "date_event": "2026-05-24",
+      "date_placed": "2026-05-24",
+      "edge": 0.051,
+      "ev": 0.84,
+      "market": "spread",
+      "match": "Como @ Cremonese",
+      "model_prob": 0.539,
+      "models_agree": "5/4",
+      "odds": 2.05,
+      "side": "AWAY",
+      "spread": "-1.25"
+    },
+    {
+      "date_event": "2026-05-24",
+      "date_placed": "2026-05-24",
+      "edge": 0.023,
+      "ev": 0.23,
+      "market": "spread",
+      "match": "Genoa @ Lecce",
+      "model_prob": 0.523,
+      "models_agree": "5/4",
+      "odds": 2.0,
+      "side": "AWAY",
+      "spread": "0.5"
+    }
+  ],
+  "system": "FootyDaily Soccer Prediction Model"
+}

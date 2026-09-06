@@ -1,0 +1,50 @@
+{
+  "game_date": "2026-09-06",
+  "generated_utc": "2026-09-05T10:24:05Z",
+  "num_picks": 3,
+  "picks": [
+    {
+      "date_event": "2026-09-06",
+      "date_placed": "2026-09-04",
+      "edge": 0.025,
+      "ev": 0.24,
+      "kelly_wager": 20.03,
+      "market": "spread",
+      "match": "Chelsea @ Arsenal",
+      "model_prob": 0.538,
+      "models_agree": "5/4",
+      "odds": 1.95,
+      "side": "AWAY",
+      "spread": "0.75"
+    },
+    {
+      "date_event": "2026-09-06",
+      "date_placed": "2026-09-04",
+      "edge": 0.08,
+      "ev": 2.28,
+      "kelly_wager": 58.98,
+      "market": "spread",
+      "match": "Monza @ Parma",
+      "model_prob": 0.554,
+      "models_agree": "5/4",
+      "odds": 2.11,
+      "side": "AWAY",
+      "spread": "0.0"
+    },
+    {
+      "date_event": "2026-09-06",
+      "date_placed": "2026-09-05",
+      "edge": 0.035,
+      "ev": 1.91,
+      "kelly_wager": 26.54,
+      "market": "spread",
+      "match": "AC Milan @ Juventus",
+      "model_prob": 0.515,
+      "models_agree": "4/4",
+      "odds": 2.08,
+      "side": "AWAY",
+      "spread": "0.25"
+    }
+  ],
+  "system": "FootyDaily Soccer Prediction Model"
+}

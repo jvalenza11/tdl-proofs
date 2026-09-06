@@ -1,0 +1,21 @@
+{
+  "game_date": "2026-03-01",
+  "generated_utc": "2026-02-23T15:36:25Z",
+  "num_picks": 1,
+  "picks": [
+    {
+      "date_event": "2026-03-01",
+      "date_placed": "2026-02-23",
+      "edge": 0.021,
+      "ev": 0.13,
+      "market": "spread",
+      "match": "Chelsea @ Arsenal",
+      "model_prob": 0.509,
+      "models_agree": "3/4",
+      "odds": 2.05,
+      "side": "AWAY",
+      "spread": "0.8"
+    }
+  ],
+  "system": "FootyDaily Soccer Prediction Model"
+}

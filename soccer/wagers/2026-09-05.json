@@ -1,0 +1,92 @@
+{
+  "game_date": "2026-09-05",
+  "generated_utc": "2026-09-05T10:24:02Z",
+  "num_picks": 6,
+  "picks": [
+    {
+      "date_event": "2026-09-05",
+      "date_placed": "2026-09-04",
+      "edge": 0.036,
+      "ev": 0.45,
+      "kelly_wager": 27.9,
+      "market": "spread",
+      "match": "Bournemouth @ Newcastle United",
+      "model_prob": 0.536,
+      "models_agree": "5/4",
+      "odds": 2.0,
+      "side": "AWAY",
+      "spread": "0.25"
+    },
+    {
+      "date_event": "2026-09-05",
+      "date_placed": "2026-09-04",
+      "edge": 0.049,
+      "ev": 0.84,
+      "kelly_wager": 37.56,
+      "market": "spread",
+      "match": "Sunderland @ Brentford",
+      "model_prob": 0.544,
+      "models_agree": "5/4",
+      "odds": 2.02,
+      "side": "AWAY",
+      "spread": "0.75"
+    },
+    {
+      "date_event": "2026-09-05",
+      "date_placed": "2026-09-04",
+      "edge": 0.055,
+      "ev": 1.08,
+      "kelly_wager": 41.76,
+      "market": "spread",
+      "match": "Napoli @ Inter Milan",
+      "model_prob": 0.543,
+      "models_agree": "5/4",
+      "odds": 2.05,
+      "side": "AWAY",
+      "spread": "0.75"
+    },
+    {
+      "date_event": "2026-09-05",
+      "date_placed": "2026-09-05",
+      "edge": 0.038,
+      "ev": 2.35,
+      "kelly_wager": 30.6,
+      "market": "spread",
+      "match": "Crystal Palace @ Fulham",
+      "model_prob": 0.538,
+      "models_agree": "5/4",
+      "odds": 2.0,
+      "side": "AWAY",
+      "spread": "0.25"
+    },
+    {
+      "date_event": "2026-09-05",
+      "date_placed": "2026-09-05",
+      "edge": 0.06,
+      "ev": 5.7,
+      "kelly_wager": 46.54,
+      "market": "spread",
+      "match": "Tottenham Hotspur @ Nottingham Forest",
+      "model_prob": 0.548,
+      "models_agree": "5/4",
+      "odds": 2.05,
+      "side": "AWAY",
+      "spread": "0.0"
+    },
+    {
+      "date_event": "2026-09-05",
+      "date_placed": "2026-09-05",
+      "edge": 0.026,
+      "ev": 1.1,
+      "kelly_wager": 21.48,
+      "market": "spread",
+      "match": "Atalanta BC @ AS Roma",
+      "model_prob": 0.539,
+      "models_agree": "5/4",
+      "odds": 1.95,
+      "side": "AWAY",
+      "spread": "0.75"
+    }
+  ],
+  "system": "FootyDaily Soccer Prediction Model"
+}

@@ -1,0 +1,21 @@
+{
+  "game_date": "2026-04-17",
+  "generated_utc": "2026-04-13T11:26:31Z",
+  "num_picks": 1,
+  "picks": [
+    {
+      "date_event": "2026-04-17",
+      "date_placed": "2026-04-13",
+      "edge": 0.058,
+      "ev": 1.09,
+      "market": "spread",
+      "match": "Cagliari @ Inter Milan",
+      "model_prob": 0.55,
+      "models_agree": "5/4",
+      "odds": 2.03,
+      "side": "AWAY",
+      "spread": "1.75"
+    }
+  ],
+  "system": "FootyDaily Soccer Prediction Model"
+}

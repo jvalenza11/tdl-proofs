@@ -1,0 +1,21 @@
+{
+  "game_date": "2026-04-20",
+  "generated_utc": "2026-04-13T11:26:37Z",
+  "num_picks": 1,
+  "picks": [
+    {
+      "date_event": "2026-04-20",
+      "date_placed": "2026-04-13",
+      "edge": 0.101,
+      "ev": 3.45,
+      "market": "spread",
+      "match": "West Ham United @ Crystal Palace",
+      "model_prob": 0.507,
+      "models_agree": "4/4",
+      "odds": 2.46,
+      "side": "AWAY",
+      "spread": "0.0"
+    }
+  ],
+  "system": "FootyDaily Soccer Prediction Model"
+}

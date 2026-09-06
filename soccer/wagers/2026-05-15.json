@@ -1,0 +1,21 @@
+{
+  "game_date": "2026-05-15",
+  "generated_utc": "2026-05-11T13:48:56Z",
+  "num_picks": 1,
+  "picks": [
+    {
+      "date_event": "2026-05-15",
+      "date_placed": "2026-05-11",
+      "edge": 0.022,
+      "ev": 0.22,
+      "market": "spread",
+      "match": "Liverpool @ Aston Villa",
+      "model_prob": 0.535,
+      "models_agree": "5/4",
+      "odds": 1.95,
+      "side": "AWAY",
+      "spread": "-0.25"
+    }
+  ],
+  "system": "FootyDaily Soccer Prediction Model"
+}

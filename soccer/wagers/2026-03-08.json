@@ -1,0 +1,21 @@
+{
+  "game_date": "2026-03-08",
+  "generated_utc": "2026-03-02T19:54:46Z",
+  "num_picks": 1,
+  "picks": [
+    {
+      "date_event": "2026-03-08",
+      "date_placed": "2026-03-02",
+      "edge": 0.06,
+      "ev": 1.11,
+      "market": "spread",
+      "match": "Cremonese @ Lecce",
+      "model_prob": 0.548,
+      "models_agree": "4/4",
+      "odds": 2.05,
+      "side": "AWAY",
+      "spread": "0.25"
+    }
+  ],
+  "system": "FootyDaily Soccer Prediction Model"
+}

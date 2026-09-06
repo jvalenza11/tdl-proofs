@@ -1,0 +1,21 @@
+{
+  "game_date": "2026-04-11",
+  "generated_utc": "2026-04-11T12:37:31Z",
+  "num_picks": 1,
+  "picks": [
+    {
+      "date_event": "2026-04-11",
+      "date_placed": "2026-04-11",
+      "edge": 0.024,
+      "ev": 0.24,
+      "market": "spread",
+      "match": "Juventus @ Atalanta BC",
+      "model_prob": 0.532,
+      "models_agree": "5/4",
+      "odds": 1.97,
+      "side": "AWAY",
+      "spread": "-0.25"
+    }
+  ],
+  "system": "FootyDaily Soccer Prediction Model"
+}

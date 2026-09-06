@@ -1,0 +1,47 @@
+{
+  "game_date": "2026-02-22",
+  "generated_utc": "2026-02-21T02:11:39Z",
+  "num_picks": 3,
+  "picks": [
+    {
+      "date_event": "2026-02-22",
+      "date_placed": "2026-02-22",
+      "edge": 0.057,
+      "ev": 0.99,
+      "market": "spread",
+      "match": "Wolverhampton Wanderers @ Crystal Palace",
+      "model_prob": 0.544,
+      "models_agree": "4/4",
+      "odds": 2.05,
+      "side": "AWAY",
+      "spread": "0.8"
+    },
+    {
+      "date_event": "2026-02-22",
+      "date_placed": "2026-02-19",
+      "edge": 0.038,
+      "ev": 0.44,
+      "market": "spread",
+      "match": "Liverpool @ Nottingham Forest",
+      "model_prob": 0.533,
+      "models_agree": "4/4",
+      "odds": 2.02,
+      "side": "AWAY",
+      "spread": "-0.8"
+    },
+    {
+      "date_event": "2026-02-22",
+      "date_placed": "2026-02-19",
+      "edge": 0.021,
+      "ev": 0.13,
+      "market": "spread",
+      "match": "Lazio @ Cagliari",
+      "model_prob": 0.533,
+      "models_agree": "4/4",
+      "odds": 1.95,
+      "side": "AWAY",
+      "spread": "-0.2"
+    }
+  ],
+  "system": "FootyDaily Soccer Prediction Model"
+}

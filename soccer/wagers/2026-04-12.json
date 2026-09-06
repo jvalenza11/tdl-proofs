@@ -1,0 +1,60 @@
+{
+  "game_date": "2026-04-12",
+  "generated_utc": "2026-04-11T12:37:34Z",
+  "num_picks": 4,
+  "picks": [
+    {
+      "date_event": "2026-04-12",
+      "date_placed": "2026-04-11",
+      "edge": 0.026,
+      "ev": 0.26,
+      "market": "spread",
+      "match": "Tottenham Hotspur @ Sunderland",
+      "model_prob": 0.536,
+      "models_agree": "5/4",
+      "odds": 1.96,
+      "side": "AWAY",
+      "spread": "0.0"
+    },
+    {
+      "date_event": "2026-04-12",
+      "date_placed": "2026-04-11",
+      "edge": 0.072,
+      "ev": 1.68,
+      "market": "spread",
+      "match": "Manchester City @ Chelsea",
+      "model_prob": 0.531,
+      "models_agree": "5/4",
+      "odds": 2.18,
+      "side": "AWAY",
+      "spread": "-0.5"
+    },
+    {
+      "date_event": "2026-04-12",
+      "date_placed": "2026-04-11",
+      "edge": 0.032,
+      "ev": 0.33,
+      "market": "spread",
+      "match": "Lecce @ Bologna",
+      "model_prob": 0.527,
+      "models_agree": "5/4",
+      "odds": 2.02,
+      "side": "AWAY",
+      "spread": "0.5"
+    },
+    {
+      "date_event": "2026-04-12",
+      "date_placed": "2026-04-11",
+      "edge": 0.037,
+      "ev": 0.43,
+      "market": "spread",
+      "match": "Inter Milan @ Como",
+      "model_prob": 0.534,
+      "models_agree": "5/4",
+      "odds": 2.01,
+      "side": "AWAY",
+      "spread": "-0.25"
+    }
+  ],
+  "system": "FootyDaily Soccer Prediction Model"
+}

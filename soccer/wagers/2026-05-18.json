@@ -1,0 +1,21 @@
+{
+  "game_date": "2026-05-18",
+  "generated_utc": "2026-05-11T13:49:03Z",
+  "num_picks": 1,
+  "picks": [
+    {
+      "date_event": "2026-05-18",
+      "date_placed": "2026-05-11",
+      "edge": 0.039,
+      "ev": 0.48,
+      "market": "spread",
+      "match": "Burnley @ Arsenal",
+      "model_prob": 0.562,
+      "models_agree": "5/4",
+      "odds": 1.91,
+      "side": "AWAY",
+      "spread": "2.5"
+    }
+  ],
+  "system": "FootyDaily Soccer Prediction Model"
+}

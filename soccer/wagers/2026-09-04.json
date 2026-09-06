@@ -1,0 +1,21 @@
+{
+  "game_date": "2026-09-04",
+  "generated_utc": "2026-09-04T17:02:26Z",
+  "num_picks": 1,
+  "picks": [
+    {
+      "date_event": "2026-09-04",
+      "date_placed": "2026-09-04",
+      "edge": 0.05,
+      "ev": 0.9,
+      "market": "spread",
+      "match": "Liverpool @ Ipswich Town",
+      "model_prob": 0.545,
+      "models_agree": "5/4",
+      "odds": 2.02,
+      "side": "AWAY",
+      "spread": "-1.25"
+    }
+  ],
+  "system": "FootyDaily Soccer Prediction Model"
+}

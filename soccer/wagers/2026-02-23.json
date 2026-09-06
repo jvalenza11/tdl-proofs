@@ -1,0 +1,21 @@
+{
+  "game_date": "2026-02-23",
+  "generated_utc": "2026-02-23T18:20:49Z",
+  "num_picks": 1,
+  "picks": [
+    {
+      "date_event": "2026-02-23",
+      "date_placed": "2026-02-23",
+      "edge": 0.023,
+      "ev": 0.16,
+      "market": "spread",
+      "match": "Pisa @ Fiorentina",
+      "model_prob": 0.558,
+      "models_agree": "4/4",
+      "odds": 1.87,
+      "side": "AWAY",
+      "spread": "1.5"
+    }
+  ],
+  "system": "FootyDaily Soccer Prediction Model"
+}

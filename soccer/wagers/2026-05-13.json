@@ -1,0 +1,21 @@
+{
+  "game_date": "2026-05-13",
+  "generated_utc": "2026-05-11T13:48:53Z",
+  "num_picks": 1,
+  "picks": [
+    {
+      "date_event": "2026-05-13",
+      "date_placed": "2026-05-11",
+      "edge": 0.032,
+      "ev": 0.34,
+      "market": "spread",
+      "match": "Crystal Palace @ Manchester City",
+      "model_prob": 0.561,
+      "models_agree": "5/4",
+      "odds": 1.89,
+      "side": "AWAY",
+      "spread": "2.0"
+    }
+  ],
+  "system": "FootyDaily Soccer Prediction Model"
+}

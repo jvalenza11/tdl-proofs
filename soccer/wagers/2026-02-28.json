@@ -1,0 +1,34 @@
+{
+  "game_date": "2026-02-28",
+  "generated_utc": "2026-02-23T15:36:22Z",
+  "num_picks": 2,
+  "picks": [
+    {
+      "date_event": "2026-02-28",
+      "date_placed": "2026-02-23",
+      "edge": 0.026,
+      "ev": 0.21,
+      "market": "spread",
+      "match": "West Ham United @ Liverpool",
+      "model_prob": 0.521,
+      "models_agree": "4/4",
+      "odds": 2.02,
+      "side": "AWAY",
+      "spread": "1.2"
+    },
+    {
+      "date_event": "2026-02-28",
+      "date_placed": "2026-02-23",
+      "edge": 0.022,
+      "ev": 0.15,
+      "market": "spread",
+      "match": "Napoli @ Hellas Verona",
+      "model_prob": 0.54,
+      "models_agree": "4/4",
+      "odds": 1.93,
+      "side": "AWAY",
+      "spread": "-1.0"
+    }
+  ],
+  "system": "FootyDaily Soccer Prediction Model"
+}
