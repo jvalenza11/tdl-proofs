@@ -1,0 +1,27 @@
+{
+  "game_date": "2026-09-07",
+  "generated_utc": "2026-09-07T18:05:55Z",
+  "num_picks": 1,
+  "picks": [
+    {
+      "actual_line": -0.5,
+      "away_team": "CHC",
+      "bankroll_before": null,
+      "decimal_odds": 2.2,
+      "edge": 0.0572545454545455,
+      "game_date": "2026-09-07",
+      "home_team": "MIL",
+      "implied_prob": 0.45454545454545453,
+      "market": "f5_spread",
+      "model_prob": 0.5118,
+      "notes": "FD",
+      "pick_desc": "MIL F5 -0.5",
+      "result": null,
+      "side": "home",
+      "sport": "mlb",
+      "stake": 45.0,
+      "taken_at": "2026-09-07T16:37:48.940593"
+    }
+  ],
+  "system": "TDL Curated Picks"
+}
