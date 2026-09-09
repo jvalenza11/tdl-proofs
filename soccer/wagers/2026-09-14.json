@@ -1,7 +1,7 @@
 {
   "game_date": "2026-09-14",
-  "generated_utc": "2026-09-06T12:41:29Z",
-  "num_picks": 1,
+  "generated_utc": "2026-09-08T18:12:13Z",
+  "num_picks": 3,
   "picks": [
     {
       "date_event": "2026-09-14",
@@ -9,11 +9,42 @@
       "edge": 0.027,
       "ev": 1.15,
       "kelly_wager": 21.77,
+      "league": "Serie A",
       "market": "spread",
       "match": "Parma @ Como",
       "model_prob": 0.54,
       "models_agree": "5/4",
       "odds": 1.95,
+      "side": "AWAY",
+      "spread": "1.5"
+    },
+    {
+      "date_event": "2026-09-14",
+      "date_placed": "2026-09-08",
+      "edge": 0.026,
+      "ev": 1.07,
+      "kelly_wager": 20.68,
+      "league": "Serie A",
+      "market": "spread",
+      "match": "AS Roma @ Torino",
+      "model_prob": 0.526,
+      "models_agree": "5/4",
+      "odds": 2.0,
+      "side": "AWAY",
+      "spread": "-1.0"
+    },
+    {
+      "date_event": "2026-09-14",
+      "date_placed": "2026-09-08",
+      "edge": 0.069,
+      "ev": 7.52,
+      "kelly_wager": 54.21,
+      "league": "Serie A",
+      "market": "spread",
+      "match": "Udinese @ Inter Milan",
+      "model_prob": 0.564,
+      "models_agree": "5/4",
+      "odds": 2.02,
       "side": "AWAY",
       "spread": "1.5"
     }
