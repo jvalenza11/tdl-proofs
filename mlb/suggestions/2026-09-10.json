@@ -1,8 +1,8 @@
 {
   "system": "seemsRight MLB Prediction Model",
-  "generated_utc": "2026-09-10T00:08:46.771061+00:00",
+  "generated_utc": "2026-09-10T12:07:10.164654+00:00",
   "game_date": "2026-09-10",
-  "num_picks": 15,
+  "num_picks": 18,
   "picks": [
     {
       "date": "2026-09-10",
@@ -13,9 +13,9 @@
       "pick_desc": "COL F5 ML",
       "decimal_odds": 3.45,
       "implied_prob": 0.2899,
-      "model_prob": 0.3673,
-      "edge": 0.0774,
-      "ev": -0.443
+      "model_prob": 0.3667,
+      "edge": 0.0768,
+      "ev": -0.445
     },
     {
       "date": "2026-09-10",
@@ -23,25 +23,38 @@
       "away_team": "COL",
       "market": "over_under",
       "side": "under",
-      "pick_desc": "Under 8.5",
-      "decimal_odds": 2.0033333333333334,
-      "implied_prob": 0.4992,
-      "model_prob": 0.5713,
-      "edge": 0.0721,
-      "ev": -0.3563
+      "pick_desc": "Under 9.0",
+      "decimal_odds": 1.9033333333333333,
+      "implied_prob": 0.5254,
+      "model_prob": 0.5751,
+      "edge": 0.0497,
+      "ev": -0.38
     },
     {
       "date": "2026-09-10",
-      "home_team": "CWS",
-      "away_team": "PIT",
-      "market": "spread",
-      "side": "away",
-      "pick_desc": "PIT -1.5",
-      "decimal_odds": 2.5533333333333332,
-      "implied_prob": 0.3916,
-      "model_prob": 0.4502,
-      "edge": 0.0586,
-      "ev": -0.4588
+      "home_team": "ATL",
+      "away_team": "TB",
+      "market": "f5_spread",
+      "side": "home",
+      "pick_desc": "ATL F5 -0.5",
+      "decimal_odds": 2.16,
+      "implied_prob": 0.463,
+      "model_prob": 0.5091,
+      "edge": 0.0461,
+      "ev": -0.4374
+    },
+    {
+      "date": "2026-09-10",
+      "home_team": "SEA",
+      "away_team": "TEX",
+      "market": "nrfi",
+      "side": "over",
+      "pick_desc": "YRFI",
+      "decimal_odds": 2.42,
+      "implied_prob": 0.4132,
+      "model_prob": 0.4481,
+      "edge": 0.0349,
+      "ev": -0.5024
     },
     {
       "date": "2026-09-10",
@@ -50,11 +63,11 @@
       "market": "moneyline",
       "side": "away",
       "pick_desc": "COL ML",
-      "decimal_odds": 3.7466666666666666,
-      "implied_prob": 0.2669,
-      "model_prob": 0.3098,
-      "edge": 0.0429,
-      "ev": -0.5724
+      "decimal_odds": 3.6533333333333338,
+      "implied_prob": 0.2737,
+      "model_prob": 0.3083,
+      "edge": 0.0346,
+      "ev": -0.6
     },
     {
       "date": "2026-09-10",
@@ -63,24 +76,11 @@
       "market": "f5_spread",
       "side": "home",
       "pick_desc": "SEA F5 -0.5",
-      "decimal_odds": 2.26,
-      "implied_prob": 0.4425,
+      "decimal_odds": 2.22,
+      "implied_prob": 0.4505,
       "model_prob": 0.4789,
-      "edge": 0.0364,
-      "ev": -0.4752
-    },
-    {
-      "date": "2026-09-10",
-      "home_team": "CWS",
-      "away_team": "PIT",
-      "market": "over_under",
-      "side": "under",
-      "pick_desc": "Under 7.5",
-      "decimal_odds": 1.9433333333333334,
-      "implied_prob": 0.5146,
-      "model_prob": 0.549,
-      "edge": 0.0344,
-      "ev": -0.4185
+      "edge": 0.0284,
+      "ev": -0.4864
     },
     {
       "date": "2026-09-10",
@@ -89,11 +89,37 @@
       "market": "spread",
       "side": "away",
       "pick_desc": "COL +1.5",
-      "decimal_odds": 2.2333333333333334,
-      "implied_prob": 0.4478,
-      "model_prob": 0.4782,
-      "edge": 0.0304,
-      "ev": -0.4843
+      "decimal_odds": 2.205,
+      "implied_prob": 0.4535,
+      "model_prob": 0.4797,
+      "edge": 0.0262,
+      "ev": -0.4887
+    },
+    {
+      "date": "2026-09-10",
+      "home_team": "SEA",
+      "away_team": "TEX",
+      "market": "moneyline",
+      "side": "home",
+      "pick_desc": "SEA ML",
+      "decimal_odds": 1.7866666666666664,
+      "implied_prob": 0.5597,
+      "model_prob": 0.5823,
+      "edge": 0.0226,
+      "ev": -0.3999
+    },
+    {
+      "date": "2026-09-10",
+      "home_team": "ATL",
+      "away_team": "TB",
+      "market": "moneyline",
+      "side": "home",
+      "pick_desc": "ATL ML",
+      "decimal_odds": 1.8466666666666667,
+      "implied_prob": 0.5415,
+      "model_prob": 0.5608,
+      "edge": 0.0193,
+      "ev": -0.4229
     },
     {
       "date": "2026-09-10",
@@ -102,11 +128,63 @@
       "market": "over_under",
       "side": "under",
       "pick_desc": "Under 8.5",
-      "decimal_odds": 1.9233333333333331,
-      "implied_prob": 0.5199,
-      "model_prob": 0.5421,
-      "edge": 0.0222,
-      "ev": -0.4374
+      "decimal_odds": 1.9166666666666667,
+      "implied_prob": 0.5217,
+      "model_prob": 0.5406,
+      "edge": 0.0189,
+      "ev": -0.4421
+    },
+    {
+      "date": "2026-09-10",
+      "home_team": "PHI",
+      "away_team": "HOU",
+      "market": "nrfi",
+      "side": "under",
+      "pick_desc": "NRFI",
+      "decimal_odds": 1.98,
+      "implied_prob": 0.5051,
+      "model_prob": 0.5205,
+      "edge": 0.0154,
+      "ev": -0.4644
+    },
+    {
+      "date": "2026-09-10",
+      "home_team": "PHI",
+      "away_team": "HOU",
+      "market": "f5_moneyline",
+      "side": "away",
+      "pick_desc": "HOU F5 ML",
+      "decimal_odds": 2.49,
+      "implied_prob": 0.4016,
+      "model_prob": 0.4135,
+      "edge": 0.0119,
+      "ev": -0.5688
+    },
+    {
+      "date": "2026-09-10",
+      "home_team": "SEA",
+      "away_team": "TEX",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 6.5",
+      "decimal_odds": 1.99,
+      "implied_prob": 0.5025,
+      "model_prob": 0.5128,
+      "edge": 0.0103,
+      "ev": -0.477
+    },
+    {
+      "date": "2026-09-10",
+      "home_team": "PHI",
+      "away_team": "HOU",
+      "market": "spread",
+      "side": "away",
+      "pick_desc": "HOU +1.5",
+      "decimal_odds": 1.7633333333333334,
+      "implied_prob": 0.5671,
+      "model_prob": 0.5753,
+      "edge": 0.0082,
+      "ev": -0.4184
     },
     {
       "date": "2026-09-10",
@@ -117,48 +195,22 @@
       "pick_desc": "F5 Under 4.5",
       "decimal_odds": 1.98,
       "implied_prob": 0.5051,
-      "model_prob": 0.5267,
-      "edge": 0.0216,
-      "ev": -0.4521
+      "model_prob": 0.5129,
+      "edge": 0.0078,
+      "ev": -0.4794
     },
     {
       "date": "2026-09-10",
-      "home_team": "ATL",
-      "away_team": "TB",
-      "market": "f5_spread",
-      "side": "away",
-      "pick_desc": "TB F5 -0.5",
-      "decimal_odds": 2.14,
-      "implied_prob": 0.4673,
-      "model_prob": 0.4822,
-      "edge": 0.0149,
-      "ev": -0.5008
-    },
-    {
-      "date": "2026-09-10",
-      "home_team": "SEA",
-      "away_team": "TEX",
+      "home_team": "PHI",
+      "away_team": "HOU",
       "market": "moneyline",
-      "side": "home",
-      "pick_desc": "SEA ML",
-      "decimal_odds": 1.7566666666666666,
-      "implied_prob": 0.5693,
-      "model_prob": 0.5823,
-      "edge": 0.013,
-      "ev": -0.4078
-    },
-    {
-      "date": "2026-09-10",
-      "home_team": "SEA",
-      "away_team": "TEX",
-      "market": "f5_moneyline",
-      "side": "home",
-      "pick_desc": "SEA F5 ML",
-      "decimal_odds": 1.86,
-      "implied_prob": 0.5376,
-      "model_prob": 0.5476,
-      "edge": 0.01,
-      "ev": -0.4438
+      "side": "away",
+      "pick_desc": "HOU ML",
+      "decimal_odds": 2.6133333333333333,
+      "implied_prob": 0.3827,
+      "model_prob": 0.3894,
+      "edge": 0.0067,
+      "ev": -0.5997
     },
     {
       "date": "2026-09-10",
@@ -167,37 +219,24 @@
       "market": "f5_totals",
       "side": "under",
       "pick_desc": "F5 Under 3.5",
-      "decimal_odds": 1.87,
-      "implied_prob": 0.5348,
+      "decimal_odds": 1.88,
+      "implied_prob": 0.5319,
       "model_prob": 0.5371,
-      "edge": 0.0023,
-      "ev": -0.4609
+      "edge": 0.0052,
+      "ev": -0.4583
     },
     {
       "date": "2026-09-10",
       "home_team": "ATL",
       "away_team": "TB",
-      "market": "nrfi",
-      "side": "under",
-      "pick_desc": "NRFI",
-      "decimal_odds": 1.94,
-      "implied_prob": 0.5155,
-      "model_prob": 0.5164,
-      "edge": 0.0009,
-      "ev": -0.4827
-    },
-    {
-      "date": "2026-09-10",
-      "home_team": "CWS",
-      "away_team": "PIT",
-      "market": "moneyline",
-      "side": "away",
-      "pick_desc": "PIT ML",
-      "decimal_odds": 1.9166666666666667,
-      "implied_prob": 0.5217,
-      "model_prob": 0.522,
-      "edge": 0.0003,
-      "ev": -0.4778
+      "market": "f5_moneyline",
+      "side": "home",
+      "pick_desc": "ATL F5 ML",
+      "decimal_odds": 1.8250000000000002,
+      "implied_prob": 0.5479,
+      "model_prob": 0.549,
+      "edge": 0.0011,
+      "ev": -0.4501
     }
   ]
 }
