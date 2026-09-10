@@ -1,8 +1,8 @@
 {
   "system": "seemsRight MLB Prediction Model",
-  "generated_utc": "2026-09-10T12:07:10.164654+00:00",
+  "generated_utc": "2026-09-10T13:15:48.322797+00:00",
   "game_date": "2026-09-10",
-  "num_picks": 18,
+  "num_picks": 14,
   "picks": [
     {
       "date": "2026-09-10",
@@ -11,11 +11,11 @@
       "market": "f5_moneyline",
       "side": "away",
       "pick_desc": "COL F5 ML",
-      "decimal_odds": 3.45,
-      "implied_prob": 0.2899,
-      "model_prob": 0.3667,
-      "edge": 0.0768,
-      "ev": -0.445
+      "decimal_odds": 3.4,
+      "implied_prob": 0.2941,
+      "model_prob": 0.358,
+      "edge": 0.0639,
+      "ev": -0.4887
     },
     {
       "date": "2026-09-10",
@@ -24,11 +24,11 @@
       "market": "over_under",
       "side": "under",
       "pick_desc": "Under 9.0",
-      "decimal_odds": 1.9033333333333333,
-      "implied_prob": 0.5254,
-      "model_prob": 0.5751,
-      "edge": 0.0497,
-      "ev": -0.38
+      "decimal_odds": 1.8800000000000001,
+      "implied_prob": 0.5319,
+      "model_prob": 0.5872,
+      "edge": 0.0553,
+      "ev": -0.3641
     },
     {
       "date": "2026-09-10",
@@ -37,63 +37,11 @@
       "market": "f5_spread",
       "side": "home",
       "pick_desc": "ATL F5 -0.5",
-      "decimal_odds": 2.16,
-      "implied_prob": 0.463,
-      "model_prob": 0.5091,
-      "edge": 0.0461,
-      "ev": -0.4374
-    },
-    {
-      "date": "2026-09-10",
-      "home_team": "SEA",
-      "away_team": "TEX",
-      "market": "nrfi",
-      "side": "over",
-      "pick_desc": "YRFI",
-      "decimal_odds": 2.42,
-      "implied_prob": 0.4132,
-      "model_prob": 0.4481,
-      "edge": 0.0349,
-      "ev": -0.5024
-    },
-    {
-      "date": "2026-09-10",
-      "home_team": "NYY",
-      "away_team": "COL",
-      "market": "moneyline",
-      "side": "away",
-      "pick_desc": "COL ML",
-      "decimal_odds": 3.6533333333333338,
-      "implied_prob": 0.2737,
-      "model_prob": 0.3083,
-      "edge": 0.0346,
-      "ev": -0.6
-    },
-    {
-      "date": "2026-09-10",
-      "home_team": "SEA",
-      "away_team": "TEX",
-      "market": "f5_spread",
-      "side": "home",
-      "pick_desc": "SEA F5 -0.5",
-      "decimal_odds": 2.22,
-      "implied_prob": 0.4505,
-      "model_prob": 0.4789,
-      "edge": 0.0284,
-      "ev": -0.4864
-    },
-    {
-      "date": "2026-09-10",
-      "home_team": "NYY",
-      "away_team": "COL",
-      "market": "spread",
-      "side": "away",
-      "pick_desc": "COL +1.5",
-      "decimal_odds": 2.205,
-      "implied_prob": 0.4535,
-      "model_prob": 0.4797,
-      "edge": 0.0262,
-      "ev": -0.4887
+      "decimal_odds": 2.14,
+      "implied_prob": 0.4673,
+      "model_prob": 0.5121,
+      "edge": 0.0448,
+      "ev": -0.4368
     },
     {
       "date": "2026-09-10",
@@ -102,11 +50,11 @@
       "market": "moneyline",
       "side": "home",
       "pick_desc": "SEA ML",
-      "decimal_odds": 1.7866666666666664,
+      "decimal_odds": 1.7866666666666668,
       "implied_prob": 0.5597,
-      "model_prob": 0.5823,
-      "edge": 0.0226,
-      "ev": -0.3999
+      "model_prob": 0.5875,
+      "edge": 0.0278,
+      "ev": -0.3906
     },
     {
       "date": "2026-09-10",
@@ -117,9 +65,9 @@
       "pick_desc": "ATL ML",
       "decimal_odds": 1.8466666666666667,
       "implied_prob": 0.5415,
-      "model_prob": 0.5608,
-      "edge": 0.0193,
-      "ev": -0.4229
+      "model_prob": 0.564,
+      "edge": 0.0225,
+      "ev": -0.417
     },
     {
       "date": "2026-09-10",
@@ -130,22 +78,22 @@
       "pick_desc": "Under 8.5",
       "decimal_odds": 1.9166666666666667,
       "implied_prob": 0.5217,
-      "model_prob": 0.5406,
-      "edge": 0.0189,
-      "ev": -0.4421
+      "model_prob": 0.543,
+      "edge": 0.0213,
+      "ev": -0.4375
     },
     {
       "date": "2026-09-10",
-      "home_team": "PHI",
-      "away_team": "HOU",
+      "home_team": "SEA",
+      "away_team": "TEX",
       "market": "nrfi",
-      "side": "under",
-      "pick_desc": "NRFI",
-      "decimal_odds": 1.98,
-      "implied_prob": 0.5051,
-      "model_prob": 0.5205,
-      "edge": 0.0154,
-      "ev": -0.4644
+      "side": "over",
+      "pick_desc": "YRFI",
+      "decimal_odds": 2.3899999999999997,
+      "implied_prob": 0.4184,
+      "model_prob": 0.4378,
+      "edge": 0.0194,
+      "ev": -0.5352
     },
     {
       "date": "2026-09-10",
@@ -154,76 +102,63 @@
       "market": "f5_moneyline",
       "side": "away",
       "pick_desc": "HOU F5 ML",
-      "decimal_odds": 2.49,
-      "implied_prob": 0.4016,
-      "model_prob": 0.4135,
-      "edge": 0.0119,
-      "ev": -0.5688
-    },
-    {
-      "date": "2026-09-10",
-      "home_team": "SEA",
-      "away_team": "TEX",
-      "market": "over_under",
-      "side": "under",
-      "pick_desc": "Under 6.5",
-      "decimal_odds": 1.99,
-      "implied_prob": 0.5025,
-      "model_prob": 0.5128,
-      "edge": 0.0103,
-      "ev": -0.477
-    },
-    {
-      "date": "2026-09-10",
-      "home_team": "PHI",
-      "away_team": "HOU",
-      "market": "spread",
-      "side": "away",
-      "pick_desc": "HOU +1.5",
-      "decimal_odds": 1.7633333333333334,
-      "implied_prob": 0.5671,
-      "model_prob": 0.5753,
-      "edge": 0.0082,
-      "ev": -0.4184
+      "decimal_odds": 2.566666666666667,
+      "implied_prob": 0.3896,
+      "model_prob": 0.4085,
+      "edge": 0.0189,
+      "ev": -0.5619
     },
     {
       "date": "2026-09-10",
       "home_team": "NYY",
       "away_team": "COL",
-      "market": "f5_totals",
-      "side": "under",
-      "pick_desc": "F5 Under 4.5",
-      "decimal_odds": 1.98,
-      "implied_prob": 0.5051,
-      "model_prob": 0.5129,
-      "edge": 0.0078,
-      "ev": -0.4794
-    },
-    {
-      "date": "2026-09-10",
-      "home_team": "PHI",
-      "away_team": "HOU",
       "market": "moneyline",
       "side": "away",
-      "pick_desc": "HOU ML",
-      "decimal_odds": 2.6133333333333333,
-      "implied_prob": 0.3827,
-      "model_prob": 0.3894,
-      "edge": 0.0067,
-      "ev": -0.5997
+      "pick_desc": "COL ML",
+      "decimal_odds": 3.6,
+      "implied_prob": 0.2778,
+      "model_prob": 0.2945,
+      "edge": 0.0167,
+      "ev": -0.662
     },
     {
       "date": "2026-09-10",
       "home_team": "SEA",
       "away_team": "TEX",
-      "market": "f5_totals",
-      "side": "under",
-      "pick_desc": "F5 Under 3.5",
-      "decimal_odds": 1.88,
-      "implied_prob": 0.5319,
-      "model_prob": 0.5371,
-      "edge": 0.0052,
-      "ev": -0.4583
+      "market": "f5_spread",
+      "side": "home",
+      "pick_desc": "SEA F5 -0.5",
+      "decimal_odds": 2.16,
+      "implied_prob": 0.463,
+      "model_prob": 0.4758,
+      "edge": 0.0128,
+      "ev": -0.5093
+    },
+    {
+      "date": "2026-09-10",
+      "home_team": "NYY",
+      "away_team": "COL",
+      "market": "spread",
+      "side": "away",
+      "pick_desc": "COL +1.5",
+      "decimal_odds": 2.175,
+      "implied_prob": 0.4598,
+      "model_prob": 0.4713,
+      "edge": 0.0115,
+      "ev": -0.5152
+    },
+    {
+      "date": "2026-09-10",
+      "home_team": "PHI",
+      "away_team": "HOU",
+      "market": "f5_spread",
+      "side": "away",
+      "pick_desc": "HOU F5 +0.5",
+      "decimal_odds": 2.045,
+      "implied_prob": 0.489,
+      "model_prob": 0.4956,
+      "edge": 0.0066,
+      "ev": -0.4975
     },
     {
       "date": "2026-09-10",
@@ -232,11 +167,24 @@
       "market": "f5_moneyline",
       "side": "home",
       "pick_desc": "ATL F5 ML",
-      "decimal_odds": 1.8250000000000002,
-      "implied_prob": 0.5479,
-      "model_prob": 0.549,
-      "edge": 0.0011,
-      "ev": -0.4501
+      "decimal_odds": 1.8366666666666667,
+      "implied_prob": 0.5445,
+      "model_prob": 0.5508,
+      "edge": 0.0063,
+      "ev": -0.4439
+    },
+    {
+      "date": "2026-09-10",
+      "home_team": "PHI",
+      "away_team": "HOU",
+      "market": "spread",
+      "side": "away",
+      "pick_desc": "HOU +1.5",
+      "decimal_odds": 1.7366666666666666,
+      "implied_prob": 0.5758,
+      "model_prob": 0.5779,
+      "edge": 0.0021,
+      "ev": -0.4206
     }
   ]
 }
