@@ -1,0 +1,29 @@
+{
+  "game_date": "2026-09-11",
+  "generated_utc": "2026-09-11T18:38:55Z",
+  "note": "Supplemental pre-close stamp \u2014 recorded after the morning primary snapshot cutoff (17:30 UTC). See <date>.json for the pre-game primary.",
+  "num_picks": 1,
+  "picks": [
+    {
+      "actual_line": 3.5,
+      "away_team": "PHI",
+      "decimal_odds": 2.05,
+      "edge": 0.056295,
+      "game_date": "2026-09-11",
+      "game_number": null,
+      "home_team": "ATL",
+      "implied_prob": 0.487805,
+      "market": "f5_totals",
+      "model_prob": 0.5441,
+      "notes": "365 | off-board: no published model row for this fixture; model_prob is operator-supplied",
+      "pick_desc": "F5 Under 3.5",
+      "recorded_at": "2026-09-11T18:37:57.835992",
+      "result": null,
+      "side": "under",
+      "sport": "mlb",
+      "stake": 40.0
+    }
+  ],
+  "supp_index": 1,
+  "system": "TDL Curated Picks \u00b7 SUPPLEMENTAL"
+}
