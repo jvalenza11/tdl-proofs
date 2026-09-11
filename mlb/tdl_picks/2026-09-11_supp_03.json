@@ -1,0 +1,29 @@
+{
+  "game_date": "2026-09-11",
+  "generated_utc": "2026-09-11T18:42:12Z",
+  "note": "Supplemental pre-close stamp \u2014 recorded after the morning primary snapshot cutoff (17:30 UTC). See <date>.json for the pre-game primary.",
+  "num_picks": 1,
+  "picks": [
+    {
+      "actual_line": 8.5,
+      "away_team": "TEX",
+      "decimal_odds": 2.02,
+      "edge": 0.05425,
+      "game_date": "2026-09-11",
+      "game_number": null,
+      "home_team": "ARI",
+      "implied_prob": 0.49505,
+      "market": "over_under",
+      "model_prob": 0.5493,
+      "notes": "FD | off-board: no published model row for this fixture; model_prob is operator-supplied",
+      "pick_desc": "Under 8.5",
+      "recorded_at": "2026-09-11T18:40:54.662020",
+      "result": null,
+      "side": "under",
+      "sport": "mlb",
+      "stake": 40.0
+    }
+  ],
+  "supp_index": 3,
+  "system": "TDL Curated Picks \u00b7 SUPPLEMENTAL"
+}
