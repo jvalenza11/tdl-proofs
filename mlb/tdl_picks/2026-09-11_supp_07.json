@@ -1,0 +1,29 @@
+{
+  "game_date": "2026-09-11",
+  "generated_utc": "2026-09-11T18:46:48Z",
+  "note": "Supplemental pre-close stamp \u2014 recorded after the morning primary snapshot cutoff (17:30 UTC). See <date>.json for the pre-game primary.",
+  "num_picks": 1,
+  "picks": [
+    {
+      "actual_line": -1.5,
+      "away_team": "SD",
+      "decimal_odds": 2.18,
+      "edge": 0.089284,
+      "game_date": "2026-09-11",
+      "game_number": null,
+      "home_team": "SF",
+      "implied_prob": 0.458716,
+      "market": "spread",
+      "model_prob": 0.548,
+      "notes": "DK",
+      "pick_desc": "SD -1.5",
+      "recorded_at": "2026-09-11T18:45:51.246130",
+      "result": null,
+      "side": "away",
+      "sport": "mlb",
+      "stake": 45.0
+    }
+  ],
+  "supp_index": 7,
+  "system": "TDL Curated Picks \u00b7 SUPPLEMENTAL"
+}
