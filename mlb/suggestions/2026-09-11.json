@@ -411,7 +411,7 @@
       "date": "2026-09-11",
       "home_team": "ATL",
       "away_team": "PHI",
-      "market": "over_under",
+      "market": "f5_totals",
       "side": "under",
       "pick_desc": "Under 7.0",
       "decimal_odds": 1.9366666666666665,
