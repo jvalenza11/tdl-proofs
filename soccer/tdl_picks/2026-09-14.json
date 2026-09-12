@@ -1,0 +1,27 @@
+{
+  "game_date": "2026-09-14",
+  "generated_utc": "2026-09-12T05:32:52Z",
+  "num_picks": 1,
+  "picks": [
+    {
+      "actual_line": 1.5,
+      "away_team": "Udinese",
+      "decimal_odds": 2.025,
+      "edge": 0.070173,
+      "game_date": "2026-09-14",
+      "home_team": "Inter Milan",
+      "implied_prob": 0.493827,
+      "market": "spread",
+      "model_prob": 0.564,
+      "notes": "365",
+      "pick_desc": "Udinese +1.50",
+      "pick_id": 302,
+      "side": "away",
+      "sport": "soccer",
+      "stake": 35.0,
+      "taken_at": "2026-09-09T17:54:29.029114"
+    }
+  ],
+  "sport": "soccer",
+  "system": "TDL Curated Picks"
+}

@@ -1,0 +1,45 @@
+{
+  "game_date": "2026-09-12",
+  "generated_utc": "2026-09-12T05:32:52Z",
+  "num_picks": 2,
+  "picks": [
+    {
+      "actual_line": 0.0,
+      "away_team": "Brentford",
+      "decimal_odds": 2.0,
+      "edge": 0.06000000000000005,
+      "game_date": "2026-09-12",
+      "home_team": "Bournemouth",
+      "implied_prob": 0.5,
+      "market": "spread",
+      "model_prob": 0.56,
+      "notes": "FD",
+      "pick_desc": "Brentford +0.00",
+      "pick_id": 296,
+      "side": "away",
+      "sport": "soccer",
+      "stake": 35.0,
+      "taken_at": "2026-09-09T03:27:50.445320"
+    },
+    {
+      "actual_line": -0.25,
+      "away_team": "AC Milan",
+      "decimal_odds": 1.975,
+      "edge": 0.04567088607594949,
+      "game_date": "2026-09-12",
+      "home_team": "Lazio",
+      "implied_prob": 0.5063291139240506,
+      "market": "spread",
+      "model_prob": 0.552,
+      "notes": "365",
+      "pick_desc": "AC Milan -0.25",
+      "pick_id": 297,
+      "side": "away",
+      "sport": "soccer",
+      "stake": 35.0,
+      "taken_at": "2026-09-09T03:31:18.545529"
+    }
+  ],
+  "sport": "soccer",
+  "system": "TDL Curated Picks"
+}
