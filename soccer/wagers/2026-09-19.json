@@ -1,0 +1,68 @@
+{
+  "game_date": "2026-09-19",
+  "generated_utc": "2026-09-13T14:54:27Z",
+  "num_picks": 4,
+  "picks": [
+    {
+      "date_event": "2026-09-19",
+      "date_placed": "2026-09-13",
+      "edge": 0.058,
+      "ev": 5.37,
+      "kelly_wager": 48.5,
+      "league": "Premier League",
+      "market": "spread",
+      "match": "Arsenal @ Brighton and Hove Albion",
+      "model_prob": 0.582,
+      "models_agree": "5/4",
+      "odds": 1.91,
+      "side": "AWAY",
+      "spread": "-0.75"
+    },
+    {
+      "date_event": "2026-09-19",
+      "date_placed": "2026-09-13",
+      "edge": 0.043,
+      "ev": 2.95,
+      "kelly_wager": 33.49,
+      "league": "Premier League",
+      "market": "spread",
+      "match": "Hull City @ Newcastle United",
+      "model_prob": 0.531,
+      "models_agree": "5/4",
+      "odds": 2.05,
+      "side": "AWAY",
+      "spread": "1.0"
+    },
+    {
+      "date_event": "2026-09-19",
+      "date_placed": "2026-09-13",
+      "edge": 0.024,
+      "ev": 0.95,
+      "kelly_wager": 18.72,
+      "league": "Serie A",
+      "market": "spread",
+      "match": "Cagliari @ Udinese",
+      "model_prob": 0.505,
+      "models_agree": "4/4",
+      "odds": 2.08,
+      "side": "AWAY",
+      "spread": "0.25"
+    },
+    {
+      "date_event": "2026-09-19",
+      "date_placed": "2026-09-13",
+      "edge": 0.029,
+      "ev": 1.31,
+      "kelly_wager": 24.2,
+      "league": "Serie A",
+      "market": "spread",
+      "match": "Inter Milan @ AS Roma",
+      "model_prob": 0.558,
+      "models_agree": "5/4",
+      "odds": 1.89,
+      "side": "AWAY",
+      "spread": "0.0"
+    }
+  ],
+  "system": "FootyDaily Soccer Prediction Model"
+}
