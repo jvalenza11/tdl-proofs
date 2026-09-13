@@ -1,0 +1,28 @@
+{
+  "game_date": "2026-09-13",
+  "generated_utc": "2026-09-13T13:43:45Z",
+  "num_picks": 1,
+  "picks": [
+    {
+      "actual_line": null,
+      "away_team": "BUF",
+      "decimal_odds": 2.0,
+      "edge": 0.1276,
+      "game_date": "2026-09-13",
+      "home_team": "HOU",
+      "implied_prob": 0.5,
+      "market": "moneyline",
+      "model_prob": 0.6276,
+      "notes": "FD | off-board: no published model row for this fixture; model_prob is operator-supplied",
+      "pick_desc": "HOU ML",
+      "pick_id": 309,
+      "side": "home",
+      "sport": "nfl",
+      "stake": 40.0,
+      "taken_at": "2026-09-13T13:29:02.148137"
+    }
+  ],
+  "sport": "nfl",
+  "supplemental": true,
+  "system": "TDL Curated Picks"
+}
