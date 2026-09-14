@@ -1,0 +1,46 @@
+{
+  "game_date": "2026-09-14",
+  "generated_utc": "2026-09-14T18:20:45Z",
+  "num_picks": 2,
+  "picks": [
+    {
+      "actual_line": 1.5,
+      "away_team": "Udinese",
+      "bankroll_before": null,
+      "decimal_odds": 2.025,
+      "edge": 0.070173,
+      "game_date": "2026-09-14",
+      "home_team": "Inter Milan",
+      "implied_prob": 0.493827,
+      "market": "spread",
+      "model_prob": 0.564,
+      "notes": "365",
+      "pick_desc": "Udinese +1.50",
+      "result": null,
+      "side": "away",
+      "sport": "soccer",
+      "stake": 35.0,
+      "taken_at": "2026-09-09T17:54:29.029114"
+    },
+    {
+      "actual_line": 2.5,
+      "away_team": "DEN",
+      "bankroll_before": null,
+      "decimal_odds": 2.0,
+      "edge": 0.0056,
+      "game_date": "2026-09-14",
+      "home_team": "KC",
+      "implied_prob": 0.5,
+      "market": "spread",
+      "model_prob": 0.5056,
+      "notes": "365 | off-board: no published model row for this fixture; model_prob is operator-supplied",
+      "pick_desc": "DEN +2.5",
+      "result": null,
+      "side": "away",
+      "sport": "nfl",
+      "stake": 40.0,
+      "taken_at": "2026-09-09T19:20:35.805692"
+    }
+  ],
+  "system": "TDL Curated Picks"
+}
