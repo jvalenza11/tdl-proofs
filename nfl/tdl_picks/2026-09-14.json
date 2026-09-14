@@ -1,7 +1,27 @@
 {
   "game_date": "2026-09-14",
-  "generated_utc": "2026-08-22T20:15:22Z",
-  "num_picks": 0,
-  "picks": [],
+  "generated_utc": "2026-09-14T04:15:02Z",
+  "num_picks": 1,
+  "picks": [
+    {
+      "actual_line": 2.5,
+      "away_team": "DEN",
+      "bankroll_before": null,
+      "decimal_odds": 2.0,
+      "edge": 0.0056,
+      "game_date": "2026-09-14",
+      "home_team": "KC",
+      "implied_prob": 0.5,
+      "market": "spread",
+      "model_prob": 0.5056,
+      "notes": "365 | off-board: no published model row for this fixture; model_prob is operator-supplied",
+      "pick_desc": "DEN +2.5",
+      "result": null,
+      "side": "away",
+      "sport": "nfl",
+      "stake": 40.0,
+      "taken_at": "2026-09-09T19:20:35.805692"
+    }
+  ],
   "system": "TDL Curated Picks"
 }
