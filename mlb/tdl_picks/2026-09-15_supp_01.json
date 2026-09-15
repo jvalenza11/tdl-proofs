@@ -1,0 +1,29 @@
+{
+  "game_date": "2026-09-15",
+  "generated_utc": "2026-09-15T20:28:27Z",
+  "note": "Supplemental pre-close stamp \u2014 recorded after the morning primary snapshot cutoff (17:30 UTC). See <date>.json for the pre-game primary.",
+  "num_picks": 1,
+  "picks": [
+    {
+      "actual_line": 4.5,
+      "away_team": "SF",
+      "decimal_odds": 1.91,
+      "edge": 0.03184,
+      "game_date": "2026-09-15",
+      "game_number": null,
+      "home_team": "STL",
+      "implied_prob": 0.52356,
+      "market": "f5_totals",
+      "model_prob": 0.5554,
+      "notes": "FD | off-board: no published model row for this fixture; model_prob is operator-supplied",
+      "pick_desc": "F5 Under 4.5",
+      "recorded_at": "2026-09-15T20:27:26.969886",
+      "result": null,
+      "side": "under",
+      "sport": "mlb",
+      "stake": 40.0
+    }
+  ],
+  "supp_index": 1,
+  "system": "TDL Curated Picks \u00b7 SUPPLEMENTAL"
+}
