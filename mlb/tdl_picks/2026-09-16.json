@@ -1,0 +1,46 @@
+{
+  "game_date": "2026-09-16",
+  "generated_utc": "2026-09-16T17:28:00Z",
+  "num_picks": 2,
+  "picks": [
+    {
+      "actual_line": null,
+      "away_team": "BOS",
+      "bankroll_before": null,
+      "decimal_odds": 1.93,
+      "edge": 0.082865,
+      "game_date": "2026-09-16",
+      "home_team": "TEX",
+      "implied_prob": 0.518135,
+      "market": "moneyline",
+      "model_prob": 0.601,
+      "notes": "FD",
+      "pick_desc": "BOS ML",
+      "result": null,
+      "side": "away",
+      "sport": "mlb",
+      "stake": 45.0,
+      "taken_at": "2026-09-16T13:00:00.636965"
+    },
+    {
+      "actual_line": null,
+      "away_team": "BAL",
+      "bankroll_before": null,
+      "decimal_odds": 2.2,
+      "edge": 0.056055,
+      "game_date": "2026-09-16",
+      "home_team": "NYM",
+      "implied_prob": 0.454545,
+      "market": "moneyline",
+      "model_prob": 0.5106,
+      "notes": "365",
+      "pick_desc": "BAL ML",
+      "result": null,
+      "side": "away",
+      "sport": "mlb",
+      "stake": 40.0,
+      "taken_at": "2026-09-16T13:08:31.413267"
+    }
+  ],
+  "system": "TDL Curated Picks"
+}
