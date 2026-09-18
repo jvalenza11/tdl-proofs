@@ -1,0 +1,45 @@
+{
+  "game_date": "2026-09-19",
+  "generated_utc": "2026-09-18T22:04:17Z",
+  "num_picks": 2,
+  "picks": [
+    {
+      "actual_line": -0.75,
+      "away_team": "Arsenal",
+      "decimal_odds": 1.875,
+      "edge": 0.048667,
+      "game_date": "2026-09-19",
+      "home_team": "Brighton and Hove Albion",
+      "implied_prob": 0.533333,
+      "market": "spread",
+      "model_prob": 0.582,
+      "notes": "365",
+      "pick_desc": "Arsenal -0.75",
+      "pick_id": 321,
+      "side": "away",
+      "sport": "soccer",
+      "stake": 30.0,
+      "taken_at": "2026-09-18T21:04:08.441291"
+    },
+    {
+      "actual_line": -0.5,
+      "away_team": "Lazio",
+      "decimal_odds": 1.925,
+      "edge": 0.017519,
+      "game_date": "2026-09-19",
+      "home_team": "Venezia",
+      "implied_prob": 0.519481,
+      "market": "spread",
+      "model_prob": 0.537,
+      "notes": "365",
+      "pick_desc": "Lazio -0.50",
+      "pick_id": 322,
+      "side": "away",
+      "sport": "soccer",
+      "stake": 25.0,
+      "taken_at": "2026-09-18T21:05:42.077253"
+    }
+  ],
+  "sport": "soccer",
+  "system": "TDL Curated Picks"
+}

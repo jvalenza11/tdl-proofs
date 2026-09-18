@@ -1,0 +1,45 @@
+{
+  "game_date": "2026-09-20",
+  "generated_utc": "2026-09-18T22:04:17Z",
+  "num_picks": 2,
+  "picks": [
+    {
+      "actual_line": -0.25,
+      "away_team": "Genoa",
+      "decimal_odds": 2.1,
+      "edge": 0.04981,
+      "game_date": "2026-09-20",
+      "home_team": "Parma",
+      "implied_prob": 0.47619,
+      "market": "spread",
+      "model_prob": 0.526,
+      "notes": "DK",
+      "pick_desc": "Genoa -0.25",
+      "pick_id": 323,
+      "side": "away",
+      "sport": "soccer",
+      "stake": 30.0,
+      "taken_at": "2026-09-18T21:06:56.233028"
+    },
+    {
+      "actual_line": -0.5,
+      "away_team": "Manchester United",
+      "decimal_odds": 2.0,
+      "edge": 0.043,
+      "game_date": "2026-09-20",
+      "home_team": "Fulham",
+      "implied_prob": 0.5,
+      "market": "spread",
+      "model_prob": 0.543,
+      "notes": "365",
+      "pick_desc": "Manchester United -0.50",
+      "pick_id": 324,
+      "side": "away",
+      "sport": "soccer",
+      "stake": 25.0,
+      "taken_at": "2026-09-18T21:08:38.469835"
+    }
+  ],
+  "sport": "soccer",
+  "system": "TDL Curated Picks"
+}
