@@ -1,0 +1,23 @@
+{
+  "game_date": "2026-09-18",
+  "generated_utc": "2026-09-17T15:31:13Z",
+  "num_picks": 1,
+  "picks": [
+    {
+      "date_event": "2026-09-18",
+      "date_placed": "2026-09-17",
+      "edge": 0.024,
+      "ev": 0.95,
+      "kelly_wager": 18.98,
+      "league": "Premier League",
+      "market": "spread",
+      "match": "Chelsea @ Brentford",
+      "model_prob": 0.512,
+      "models_agree": "4/4",
+      "odds": 2.05,
+      "side": "AWAY",
+      "spread": "-0.25"
+    }
+  ],
+  "system": "FootyDaily Soccer Prediction Model"
+}
