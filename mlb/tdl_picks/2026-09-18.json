@@ -1,0 +1,46 @@
+{
+  "game_date": "2026-09-18",
+  "generated_utc": "2026-09-18T19:26:19Z",
+  "num_picks": 2,
+  "picks": [
+    {
+      "actual_line": -1.5,
+      "away_team": "TOR",
+      "bankroll_before": null,
+      "decimal_odds": 2.25,
+      "edge": 0.095956,
+      "game_date": "2026-09-18",
+      "home_team": "TEX",
+      "implied_prob": 0.444444,
+      "market": "spread",
+      "model_prob": 0.5404,
+      "notes": "365",
+      "pick_desc": "TOR -1.5",
+      "result": null,
+      "side": "away",
+      "sport": "mlb",
+      "stake": 45.0,
+      "taken_at": "2026-09-18T11:45:14.976912"
+    },
+    {
+      "actual_line": 3.5,
+      "away_team": "WSH",
+      "bankroll_before": null,
+      "decimal_odds": 2.24,
+      "edge": 0.070771,
+      "game_date": "2026-09-18",
+      "home_team": "STL",
+      "implied_prob": 0.446429,
+      "market": "f5_totals",
+      "model_prob": 0.5172,
+      "notes": "FD | off-board: no published model row for this fixture; model_prob is operator-supplied",
+      "pick_desc": "F5 Under 3.5",
+      "result": null,
+      "side": "under",
+      "sport": "mlb",
+      "stake": 40.0,
+      "taken_at": "2026-09-18T11:53:49.283807"
+    }
+  ],
+  "system": "TDL Curated Picks"
+}
