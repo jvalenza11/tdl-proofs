@@ -1,0 +1,48 @@
+{
+  "game_date": "2026-09-18",
+  "generated_utc": "2026-09-18T20:59:00Z",
+  "note": "Supplemental pre-close stamp \u2014 recorded after the morning primary snapshot cutoff (17:30 UTC). See <date>.json for the pre-game primary.",
+  "num_picks": 2,
+  "picks": [
+    {
+      "actual_line": 8.5,
+      "away_team": "CHC",
+      "decimal_odds": 1.95,
+      "edge": 0.044779,
+      "game_date": "2026-09-18",
+      "game_number": null,
+      "home_team": "CIN",
+      "implied_prob": 0.512821,
+      "market": "over_under",
+      "model_prob": 0.5576,
+      "notes": "FD | off-board: no published model row for this fixture; model_prob is operator-supplied",
+      "pick_desc": "Under 8.5",
+      "recorded_at": "2026-09-18T20:58:02.890877",
+      "result": null,
+      "side": "under",
+      "sport": "mlb",
+      "stake": 35.0
+    },
+    {
+      "actual_line": 8.5,
+      "away_team": "PHI",
+      "decimal_odds": 1.95,
+      "edge": 0.039879,
+      "game_date": "2026-09-18",
+      "game_number": null,
+      "home_team": "NYM",
+      "implied_prob": 0.512821,
+      "market": "over_under",
+      "model_prob": 0.5527,
+      "notes": "DK | off-board: no published model row for this fixture; model_prob is operator-supplied",
+      "pick_desc": "Under 8.5",
+      "recorded_at": "2026-09-18T20:58:52.080925",
+      "result": null,
+      "side": "under",
+      "sport": "mlb",
+      "stake": 35.0
+    }
+  ],
+  "supp_index": 1,
+  "system": "TDL Curated Picks \u00b7 SUPPLEMENTAL"
+}
