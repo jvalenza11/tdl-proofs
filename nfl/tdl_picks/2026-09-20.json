@@ -1,7 +1,7 @@
 {
   "game_date": "2026-09-20",
-  "generated_utc": "2026-09-20T09:40:29Z",
-  "num_picks": 2,
+  "generated_utc": "2026-09-20T15:53:39Z",
+  "num_picks": 4,
   "picks": [
     {
       "actual_line": -4.5,
@@ -40,6 +40,44 @@
       "sport": "nfl",
       "stake": 40.0,
       "taken_at": "2026-09-19T16:35:15.474988"
+    },
+    {
+      "actual_line": null,
+      "away_team": "CAR",
+      "bankroll_before": null,
+      "decimal_odds": 1.8333333333333335,
+      "edge": 0.044369,
+      "game_date": "2026-09-20",
+      "home_team": "ATL",
+      "implied_prob": 0.545455,
+      "market": "teaser",
+      "model_prob": 0.589824,
+      "notes": "{\"type\":\"teaser\",\"tease_points\":6,\"leg_rate\":0.768,\"legs\":[{\"away_team\":\"CAR\",\"home_team\":\"ATL\",\"original\":\"ATL +2.5\",\"teased\":\"ATL +8.5\",\"commence_time\":\"2026-09-20T17:00:00Z\"},{\"away_team\":\"JAX\",\"home_team\":\"DEN\",\"original\":\"JAX +2.5\",\"teased\":\"JAX +8.5\",\"commence_time\":\"2026-09-20T20:05:00Z\"}]} | off-board: no published model row for this fixture; model_prob is operator-supplied",
+      "pick_desc": "TEASER 6pt 2-leg: ATL +8.5 / JAX +8.5",
+      "result": null,
+      "side": "multi",
+      "sport": "nfl",
+      "stake": 40.0,
+      "taken_at": "2026-09-20T14:17:00.172593"
+    },
+    {
+      "actual_line": null,
+      "away_team": "PHI",
+      "bankroll_before": null,
+      "decimal_odds": 1.8333333333333335,
+      "edge": -0.058251,
+      "game_date": "2026-09-20",
+      "home_team": "TEN",
+      "implied_prob": 0.545455,
+      "market": "teaser",
+      "model_prob": 0.4872039999999999,
+      "notes": "{\"type\":\"teaser\",\"tease_points\":6,\"leg_rates\":[0.698,0.698],\"legs\":[{\"away_team\":\"PHI\",\"home_team\":\"TEN\",\"original\":\"PHI -7\",\"teased\":\"PHI -1\",\"commence_time\":\"2026-09-20T17:00:00Z\"},{\"away_team\":\"CLE\",\"home_team\":\"TB\",\"original\":\"TB -8.5\",\"teased\":\"TB -2.5\",\"commence_time\":\"2026-09-20T17:00:00Z\"}]} | off-board: no published model row for this fixture; model_prob is operator-supplied",
+      "pick_desc": "TEASER 6pt 2-leg: PHI -1 / TB -2.5",
+      "result": null,
+      "side": "multi",
+      "sport": "nfl",
+      "stake": 20.0,
+      "taken_at": "2026-09-20T15:52:57.069344"
     }
   ],
   "system": "TDL Curated Picks"
