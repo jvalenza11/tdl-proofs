@@ -1,0 +1,60 @@
+{
+  "system": "seemsRight MLB Prediction Model",
+  "generated_utc": "2026-09-29T22:24:23.357027+00:00",
+  "game_date": "2026-09-30",
+  "num_picks": 4,
+  "picks": [
+    {
+      "date": "2026-09-30",
+      "home_team": "ATL",
+      "away_team": "PHI",
+      "market": "spread",
+      "side": "away",
+      "pick_desc": "PHI -1.5",
+      "decimal_odds": 2.5149999999999997,
+      "implied_prob": 0.3976,
+      "model_prob": 0.4778,
+      "edge": 0.0802,
+      "ev": -0.4007
+    },
+    {
+      "date": "2026-09-30",
+      "home_team": "ATL",
+      "away_team": "PHI",
+      "market": "f5_moneyline",
+      "side": "home",
+      "pick_desc": "ATL F5 ML",
+      "decimal_odds": 2.18,
+      "implied_prob": 0.4587,
+      "model_prob": 0.5103,
+      "edge": 0.0516,
+      "ev": -0.4288
+    },
+    {
+      "date": "2026-09-30",
+      "home_team": "ATL",
+      "away_team": "PHI",
+      "market": "f5_totals",
+      "side": "under",
+      "pick_desc": "F5 Under 3.5",
+      "decimal_odds": 1.91,
+      "implied_prob": 0.5236,
+      "model_prob": 0.5335,
+      "edge": 0.0099,
+      "ev": -0.4575
+    },
+    {
+      "date": "2026-09-30",
+      "home_team": "ATL",
+      "away_team": "PHI",
+      "market": "f5_spread",
+      "side": "away",
+      "pick_desc": "PHI F5 -0.5",
+      "decimal_odds": 2.04,
+      "implied_prob": 0.4902,
+      "model_prob": 0.4972,
+      "edge": 0.007,
+      "ev": -0.4955
+    }
+  ]
+}
