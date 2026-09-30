@@ -1,0 +1,27 @@
+{
+  "game_date": "2026-09-30",
+  "generated_utc": "2026-09-30T13:15:07Z",
+  "num_picks": 1,
+  "picks": [
+    {
+      "actual_line": 3.5,
+      "away_team": "CWS",
+      "bankroll_before": null,
+      "decimal_odds": 2.15,
+      "edge": 0.086284,
+      "game_date": "2026-09-30",
+      "home_team": "HOU",
+      "implied_prob": 0.465116,
+      "market": "f5_totals",
+      "model_prob": 0.5514,
+      "notes": "365",
+      "pick_desc": "F5 Under 3.5",
+      "result": null,
+      "side": "under",
+      "sport": "mlb",
+      "stake": 35.0,
+      "taken_at": "2026-09-30T02:32:46.368216"
+    }
+  ],
+  "system": "TDL Curated Picks"
+}
