@@ -1,8 +1,8 @@
 {
   "system": "seemsRight MLB Prediction Model",
-  "generated_utc": "2026-09-30T22:26:26.184757+00:00",
+  "generated_utc": "2026-10-01T12:34:41.746999+00:00",
   "game_date": "2026-10-01",
-  "num_picks": 4,
+  "num_picks": 6,
   "picks": [
     {
       "date": "2026-10-01",
@@ -11,11 +11,11 @@
       "market": "spread",
       "side": "away",
       "pick_desc": "PHI -1.5",
-      "decimal_odds": 2.5149999999999997,
-      "implied_prob": 0.3976,
+      "decimal_odds": 2.45,
+      "implied_prob": 0.4082,
       "model_prob": 0.4778,
-      "edge": 0.0802,
-      "ev": -0.4007
+      "edge": 0.0696,
+      "ev": -0.4212
     },
     {
       "date": "2026-10-01",
@@ -24,11 +24,24 @@
       "market": "f5_moneyline",
       "side": "home",
       "pick_desc": "ATL F5 ML",
-      "decimal_odds": 2.28,
-      "implied_prob": 0.4386,
+      "decimal_odds": 2.0949999999999998,
+      "implied_prob": 0.4773,
       "model_prob": 0.5103,
-      "edge": 0.0717,
-      "ev": -0.3979
+      "edge": 0.033,
+      "ev": -0.4536
+    },
+    {
+      "date": "2026-10-01",
+      "home_team": "ATL",
+      "away_team": "PHI",
+      "market": "f5_totals",
+      "side": "under",
+      "pick_desc": "F5 Under 4.5",
+      "decimal_odds": 1.795,
+      "implied_prob": 0.5571,
+      "model_prob": 0.5806,
+      "edge": 0.0235,
+      "ev": -0.4007
     },
     {
       "date": "2026-10-01",
@@ -37,11 +50,24 @@
       "market": "over_under",
       "side": "under",
       "pick_desc": "Under 7.5",
-      "decimal_odds": 1.8800000000000001,
-      "implied_prob": 0.5319,
+      "decimal_odds": 1.8366666666666667,
+      "implied_prob": 0.5445,
       "model_prob": 0.5558,
-      "edge": 0.0239,
-      "ev": -0.4232
+      "edge": 0.0113,
+      "ev": -0.4347
+    },
+    {
+      "date": "2026-10-01",
+      "home_team": "ATL",
+      "away_team": "PHI",
+      "market": "f5_spread",
+      "side": "away",
+      "pick_desc": "PHI F5 -0.5",
+      "decimal_odds": 2.025,
+      "implied_prob": 0.4938,
+      "model_prob": 0.4972,
+      "edge": 0.0034,
+      "ev": -0.4993
     },
     {
       "date": "2026-10-01",
