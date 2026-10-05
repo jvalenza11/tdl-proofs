@@ -1,0 +1,38 @@
+{
+  "game_date": "2026-10-11",
+  "generated_utc": "2026-10-04T15:44:43Z",
+  "num_picks": 2,
+  "picks": [
+    {
+      "date_event": "2026-10-11",
+      "date_placed": "2026-10-04",
+      "edge": 0.045,
+      "ev": 3.28,
+      "kelly_wager": 38.31,
+      "league": "Premier League",
+      "market": "spread",
+      "match": "Manchester City @ Liverpool",
+      "model_prob": 0.574,
+      "models_agree": "5/4",
+      "odds": 1.89,
+      "side": "AWAY",
+      "spread": "0.0"
+    },
+    {
+      "date_event": "2026-10-11",
+      "date_placed": "2026-10-04",
+      "edge": 0.044,
+      "ev": 3.1,
+      "kelly_wager": 36.07,
+      "league": "Serie A",
+      "market": "spread",
+      "match": "AS Roma @ Como",
+      "model_prob": 0.557,
+      "models_agree": "5/4",
+      "odds": 1.95,
+      "side": "AWAY",
+      "spread": "0.0"
+    }
+  ],
+  "system": "FootyDaily Soccer Prediction Model"
+}
