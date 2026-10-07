@@ -1,0 +1,99 @@
+{
+  "system": "seemsRight MLB Prediction Model",
+  "generated_utc": "2026-10-07T01:25:05.190596+00:00",
+  "game_date": "2026-10-07",
+  "num_picks": 7,
+  "picks": [
+    {
+      "date": "2026-10-07",
+      "home_team": "ATL",
+      "away_team": "LAD",
+      "market": "f5_totals",
+      "side": "under",
+      "pick_desc": "F5 Under 3.5",
+      "decimal_odds": 2.12,
+      "implied_prob": 0.4717,
+      "model_prob": 0.5421,
+      "edge": 0.0704,
+      "ev": -0.379
+    },
+    {
+      "date": "2026-10-07",
+      "home_team": "ATL",
+      "away_team": "LAD",
+      "market": "f5_spread",
+      "side": "away",
+      "pick_desc": "LAD F5 -0.5",
+      "decimal_odds": 1.96,
+      "implied_prob": 0.5102,
+      "model_prob": 0.572,
+      "edge": 0.0618,
+      "ev": -0.3687
+    },
+    {
+      "date": "2026-10-07",
+      "home_team": "ATL",
+      "away_team": "LAD",
+      "market": "spread",
+      "side": "away",
+      "pick_desc": "LAD -1.5",
+      "decimal_odds": 2.315,
+      "implied_prob": 0.432,
+      "model_prob": 0.475,
+      "edge": 0.043,
+      "ev": -0.4684
+    },
+    {
+      "date": "2026-10-07",
+      "home_team": "ATL",
+      "away_team": "LAD",
+      "market": "moneyline",
+      "side": "home",
+      "pick_desc": "ATL ML",
+      "decimal_odds": 2.1599999999999997,
+      "implied_prob": 0.463,
+      "model_prob": 0.4927,
+      "edge": 0.0297,
+      "ev": -0.4728
+    },
+    {
+      "date": "2026-10-07",
+      "home_team": "NYY",
+      "away_team": "TB",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 7.0",
+      "decimal_odds": 1.9366666666666665,
+      "implied_prob": 0.5164,
+      "model_prob": 0.5305,
+      "edge": 0.0141,
+      "ev": -0.4562
+    },
+    {
+      "date": "2026-10-07",
+      "home_team": "NYY",
+      "away_team": "TB",
+      "market": "nrfi",
+      "side": "over",
+      "pick_desc": "YRFI",
+      "decimal_odds": 2.1,
+      "implied_prob": 0.4762,
+      "model_prob": 0.4833,
+      "edge": 0.0071,
+      "ev": -0.5089
+    },
+    {
+      "date": "2026-10-07",
+      "home_team": "ATL",
+      "away_team": "LAD",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 7.5",
+      "decimal_odds": 1.9000000000000001,
+      "implied_prob": 0.5263,
+      "model_prob": 0.5305,
+      "edge": 0.0042,
+      "ev": -0.4657
+    }
+  ]
+}
