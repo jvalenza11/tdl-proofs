@@ -1,7 +1,7 @@
 {
   "game_date": "2026-10-10",
-  "generated_utc": "2026-10-06T09:39:57Z",
-  "num_picks": 5,
+  "generated_utc": "2026-10-07T17:45:52Z",
+  "num_picks": 6,
   "picks": [
     {
       "date_event": "2026-10-10",
@@ -77,6 +77,21 @@
       "odds": 1.98,
       "side": "AWAY",
       "spread": "-0.25"
+    },
+    {
+      "date_event": "2026-10-10",
+      "date_placed": "2026-10-07",
+      "edge": 0.027,
+      "ev": 1.17,
+      "kelly_wager": 21.82,
+      "league": "Premier League",
+      "market": "spread",
+      "match": "Bournemouth @ Chelsea",
+      "model_prob": 0.532,
+      "models_agree": "5/4",
+      "odds": 1.98,
+      "side": "AWAY",
+      "spread": "0.75"
     }
   ],
   "system": "FootyDaily Soccer Prediction Model"
