@@ -1,0 +1,45 @@
+{
+  "game_date": "2026-10-11",
+  "generated_utc": "2026-10-09T12:17:41Z",
+  "num_picks": 2,
+  "picks": [
+    {
+      "actual_line": 0.0,
+      "away_team": "Manchester City",
+      "decimal_odds": 1.925,
+      "edge": 0.054519,
+      "game_date": "2026-10-11",
+      "home_team": "Liverpool",
+      "implied_prob": 0.519481,
+      "market": "spread",
+      "model_prob": 0.574,
+      "notes": "365",
+      "pick_desc": "Manchester City +0.00",
+      "pick_id": 367,
+      "side": "away",
+      "sport": "soccer",
+      "stake": 25.0,
+      "taken_at": "2026-10-06T03:08:05.434082"
+    },
+    {
+      "actual_line": 0.0,
+      "away_team": "AS Roma",
+      "decimal_odds": 1.975,
+      "edge": 0.050671,
+      "game_date": "2026-10-11",
+      "home_team": "Como",
+      "implied_prob": 0.506329,
+      "market": "spread",
+      "model_prob": 0.557,
+      "notes": "365",
+      "pick_desc": "AS Roma +0.00",
+      "pick_id": 368,
+      "side": "away",
+      "sport": "soccer",
+      "stake": 25.0,
+      "taken_at": "2026-10-06T03:09:52.878650"
+    }
+  ],
+  "sport": "soccer",
+  "system": "TDL Curated Picks"
+}

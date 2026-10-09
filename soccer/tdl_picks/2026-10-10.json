@@ -1,0 +1,45 @@
+{
+  "game_date": "2026-10-10",
+  "generated_utc": "2026-10-09T12:17:41Z",
+  "num_picks": 2,
+  "picks": [
+    {
+      "actual_line": 2.25,
+      "away_team": "Parma",
+      "decimal_odds": 1.925,
+      "edge": 0.062519,
+      "game_date": "2026-10-10",
+      "home_team": "Inter Milan",
+      "implied_prob": 0.519481,
+      "market": "spread",
+      "model_prob": 0.582,
+      "notes": "365",
+      "pick_desc": "Parma +2.25",
+      "pick_id": 365,
+      "side": "away",
+      "sport": "soccer",
+      "stake": 30.0,
+      "taken_at": "2026-10-06T03:03:13.193009"
+    },
+    {
+      "actual_line": 1.25,
+      "away_team": "Leeds United",
+      "decimal_odds": 2.0,
+      "edge": 0.066,
+      "game_date": "2026-10-10",
+      "home_team": "Arsenal",
+      "implied_prob": 0.5,
+      "market": "spread",
+      "model_prob": 0.566,
+      "notes": "365",
+      "pick_desc": "Leeds United +1.25",
+      "pick_id": 366,
+      "side": "away",
+      "sport": "soccer",
+      "stake": 30.0,
+      "taken_at": "2026-10-06T03:05:34.940460"
+    }
+  ],
+  "sport": "soccer",
+  "system": "TDL Curated Picks"
+}
