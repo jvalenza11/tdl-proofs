@@ -1,0 +1,86 @@
+{
+  "system": "seemsRight MLB Prediction Model",
+  "generated_utc": "2026-10-10T01:42:59.081612+00:00",
+  "game_date": "2026-10-10",
+  "num_picks": 6,
+  "picks": [
+    {
+      "date": "2026-10-10",
+      "home_team": "CLE",
+      "away_team": "CWS",
+      "market": "f5_totals",
+      "side": "under",
+      "pick_desc": "F5 Under 3.5",
+      "decimal_odds": 2.02,
+      "implied_prob": 0.495,
+      "model_prob": 0.5825,
+      "edge": 0.0875,
+      "ev": -0.3283
+    },
+    {
+      "date": "2026-10-10",
+      "home_team": "CLE",
+      "away_team": "CWS",
+      "market": "f5_spread",
+      "side": "home",
+      "pick_desc": "CLE F5 -0.5",
+      "decimal_odds": 2.09,
+      "implied_prob": 0.4785,
+      "model_prob": 0.5026,
+      "edge": 0.0241,
+      "ev": -0.4711
+    },
+    {
+      "date": "2026-10-10",
+      "home_team": "CLE",
+      "away_team": "CWS",
+      "market": "f5_moneyline",
+      "side": "home",
+      "pick_desc": "CLE F5 ML",
+      "decimal_odds": 1.7233333333333334,
+      "implied_prob": 0.5803,
+      "model_prob": 0.5926,
+      "edge": 0.0123,
+      "ev": -0.3985
+    },
+    {
+      "date": "2026-10-10",
+      "home_team": "CLE",
+      "away_team": "CWS",
+      "market": "moneyline",
+      "side": "away",
+      "pick_desc": "CWS ML",
+      "decimal_odds": 2.1566666666666667,
+      "implied_prob": 0.4637,
+      "model_prob": 0.4726,
+      "edge": 0.0089,
+      "ev": -0.5171
+    },
+    {
+      "date": "2026-10-10",
+      "home_team": "CLE",
+      "away_team": "CWS",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 7.0",
+      "decimal_odds": 1.9166666666666667,
+      "implied_prob": 0.5217,
+      "model_prob": 0.5305,
+      "edge": 0.0088,
+      "ev": -0.4615
+    },
+    {
+      "date": "2026-10-10",
+      "home_team": "CLE",
+      "away_team": "CWS",
+      "market": "spread",
+      "side": "home",
+      "pick_desc": "CLE -1.5",
+      "decimal_odds": 2.5833333333333335,
+      "implied_prob": 0.3871,
+      "model_prob": 0.3875,
+      "edge": 0.0004,
+      "ev": -0.6119
+    }
+  ]
+}
