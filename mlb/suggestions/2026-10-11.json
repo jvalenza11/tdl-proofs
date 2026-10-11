@@ -1,0 +1,34 @@
+{
+  "system": "seemsRight MLB Prediction Model",
+  "generated_utc": "2026-10-11T00:56:02.381741+00:00",
+  "game_date": "2026-10-11",
+  "num_picks": 2,
+  "picks": [
+    {
+      "date": "2026-10-11",
+      "home_team": "MIL",
+      "away_team": "LAD",
+      "market": "nrfi",
+      "side": "over",
+      "pick_desc": "YRFI",
+      "decimal_odds": 2.535,
+      "implied_prob": 0.3945,
+      "model_prob": 0.4452,
+      "edge": 0.0507,
+      "ev": -0.4769
+    },
+    {
+      "date": "2026-10-11",
+      "home_team": "MIL",
+      "away_team": "LAD",
+      "market": "over_under",
+      "side": "over",
+      "pick_desc": "Over 6.0",
+      "decimal_odds": 1.9799999999999998,
+      "implied_prob": 0.5051,
+      "model_prob": 0.5387,
+      "edge": 0.0336,
+      "ev": -0.4283
+    }
+  ]
+}
