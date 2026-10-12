@@ -1,0 +1,60 @@
+{
+  "system": "seemsRight MLB Prediction Model",
+  "generated_utc": "2026-10-12T02:36:51.083315+00:00",
+  "game_date": "2026-10-12",
+  "num_picks": 4,
+  "picks": [
+    {
+      "date": "2026-10-12",
+      "home_team": "TB",
+      "away_team": "CLE",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 6.5",
+      "decimal_odds": 2.04,
+      "implied_prob": 0.4902,
+      "model_prob": 0.5443,
+      "edge": 0.0541,
+      "ev": -0.3994
+    },
+    {
+      "date": "2026-10-12",
+      "home_team": "TB",
+      "away_team": "CLE",
+      "market": "moneyline",
+      "side": "away",
+      "pick_desc": "CLE ML",
+      "decimal_odds": 2.396666666666667,
+      "implied_prob": 0.4172,
+      "model_prob": 0.4595,
+      "edge": 0.0423,
+      "ev": -0.4815
+    },
+    {
+      "date": "2026-10-12",
+      "home_team": "TB",
+      "away_team": "CLE",
+      "market": "nrfi",
+      "side": "over",
+      "pick_desc": "YRFI",
+      "decimal_odds": 2.23,
+      "implied_prob": 0.4484,
+      "model_prob": 0.4681,
+      "edge": 0.0197,
+      "ev": -0.5077
+    },
+    {
+      "date": "2026-10-12",
+      "home_team": "TB",
+      "away_team": "CLE",
+      "market": "spread",
+      "side": "away",
+      "pick_desc": "CLE +1.5",
+      "decimal_odds": 1.62,
+      "implied_prob": 0.6173,
+      "model_prob": 0.6228,
+      "edge": 0.0055,
+      "ev": -0.3738
+    }
+  ]
+}

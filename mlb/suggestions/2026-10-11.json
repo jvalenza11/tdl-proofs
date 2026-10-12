@@ -1,8 +1,8 @@
 {
   "system": "seemsRight MLB Prediction Model",
-  "generated_utc": "2026-10-11T00:56:02.381741+00:00",
+  "generated_utc": "2026-10-11T17:36:52.159137+00:00",
   "game_date": "2026-10-11",
-  "num_picks": 2,
+  "num_picks": 3,
   "picks": [
     {
       "date": "2026-10-11",
@@ -11,11 +11,11 @@
       "market": "nrfi",
       "side": "over",
       "pick_desc": "YRFI",
-      "decimal_odds": 2.535,
-      "implied_prob": 0.3945,
+      "decimal_odds": 2.435,
+      "implied_prob": 0.4107,
       "model_prob": 0.4452,
-      "edge": 0.0507,
-      "ev": -0.4769
+      "edge": 0.0345,
+      "ev": -0.5053
     },
     {
       "date": "2026-10-11",
@@ -24,11 +24,24 @@
       "market": "over_under",
       "side": "over",
       "pick_desc": "Over 6.0",
-      "decimal_odds": 1.9799999999999998,
-      "implied_prob": 0.5051,
+      "decimal_odds": 1.9733333333333334,
+      "implied_prob": 0.5068,
       "model_prob": 0.5387,
-      "edge": 0.0336,
-      "ev": -0.4283
+      "edge": 0.0319,
+      "ev": -0.4302
+    },
+    {
+      "date": "2026-10-11",
+      "home_team": "MIL",
+      "away_team": "LAD",
+      "market": "f5_moneyline",
+      "side": "away",
+      "pick_desc": "LAD F5 ML",
+      "decimal_odds": 1.97,
+      "implied_prob": 0.5076,
+      "model_prob": 0.5096,
+      "edge": 0.002,
+      "ev": -0.4885
     }
   ]
 }

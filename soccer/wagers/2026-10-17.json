@@ -1,0 +1,53 @@
+{
+  "game_date": "2026-10-17",
+  "generated_utc": "2026-10-11T16:38:14Z",
+  "num_picks": 3,
+  "picks": [
+    {
+      "date_event": "2026-10-17",
+      "date_placed": "2026-10-11",
+      "edge": 0.052,
+      "ev": 4.32,
+      "kelly_wager": 41.93,
+      "league": "Premier League",
+      "market": "spread",
+      "match": "Hull City @ Fulham",
+      "model_prob": 0.557,
+      "models_agree": "5/4",
+      "odds": 1.98,
+      "side": "AWAY",
+      "spread": "0.75"
+    },
+    {
+      "date_event": "2026-10-17",
+      "date_placed": "2026-10-11",
+      "edge": 0.041,
+      "ev": 2.7,
+      "kelly_wager": 33.12,
+      "league": "Premier League",
+      "market": "spread",
+      "match": "Ipswich Town @ Manchester City",
+      "model_prob": 0.546,
+      "models_agree": "5/4",
+      "odds": 1.98,
+      "side": "AWAY",
+      "spread": "1.75"
+    },
+    {
+      "date_event": "2026-10-17",
+      "date_placed": "2026-10-11",
+      "edge": 0.029,
+      "ev": 1.37,
+      "kelly_wager": 23.63,
+      "league": "Premier League",
+      "market": "spread",
+      "match": "Aston Villa @ Newcastle United",
+      "model_prob": 0.534,
+      "models_agree": "5/4",
+      "odds": 1.98,
+      "side": "AWAY",
+      "spread": "0.25"
+    }
+  ],
+  "system": "FootyDaily Soccer Prediction Model"
+}
