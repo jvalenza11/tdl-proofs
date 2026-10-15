@@ -1,22 +1,9 @@
 {
   "system": "seemsRight MLB Prediction Model",
-  "generated_utc": "2026-10-14T01:08:31.380707+00:00",
+  "generated_utc": "2026-10-14T16:53:15.195951+00:00",
   "game_date": "2026-10-14",
-  "num_picks": 6,
+  "num_picks": 5,
   "picks": [
-    {
-      "date": "2026-10-14",
-      "home_team": "LAD",
-      "away_team": "MIL",
-      "market": "moneyline",
-      "side": "away",
-      "pick_desc": "MIL ML",
-      "decimal_odds": 2.5066666666666664,
-      "implied_prob": 0.3989,
-      "model_prob": 0.4595,
-      "edge": 0.0606,
-      "ev": -0.4493
-    },
     {
       "date": "2026-10-14",
       "home_team": "LAD",
@@ -24,11 +11,24 @@
       "market": "f5_moneyline",
       "side": "away",
       "pick_desc": "MIL F5 ML",
-      "decimal_odds": 2.436666666666667,
-      "implied_prob": 0.4104,
+      "decimal_odds": 2.43,
+      "implied_prob": 0.4115,
       "model_prob": 0.4661,
-      "edge": 0.0557,
-      "ev": -0.4539
+      "edge": 0.0546,
+      "ev": -0.4559
+    },
+    {
+      "date": "2026-10-14",
+      "home_team": "LAD",
+      "away_team": "MIL",
+      "market": "moneyline",
+      "side": "away",
+      "pick_desc": "MIL ML",
+      "decimal_odds": 2.4533333333333336,
+      "implied_prob": 0.4076,
+      "model_prob": 0.4595,
+      "edge": 0.0519,
+      "ev": -0.4651
     },
     {
       "date": "2026-10-14",
@@ -37,11 +37,11 @@
       "market": "spread",
       "side": "away",
       "pick_desc": "MIL +1.5",
-      "decimal_odds": 1.6633333333333333,
-      "implied_prob": 0.6012,
+      "decimal_odds": 1.67,
+      "implied_prob": 0.5988,
       "model_prob": 0.6228,
-      "edge": 0.0216,
-      "ev": -0.3629
+      "edge": 0.024,
+      "ev": -0.3611
     },
     {
       "date": "2026-10-14",
@@ -50,11 +50,11 @@
       "market": "over_under",
       "side": "under",
       "pick_desc": "Under 7.5",
-      "decimal_odds": 1.8666666666666665,
-      "implied_prob": 0.5357,
+      "decimal_odds": 1.8733333333333333,
+      "implied_prob": 0.5338,
       "model_prob": 0.5481,
-      "edge": 0.0124,
-      "ev": -0.4412
+      "edge": 0.0143,
+      "ev": -0.4394
     },
     {
       "date": "2026-10-14",
@@ -62,25 +62,12 @@
       "away_team": "MIL",
       "market": "f5_totals",
       "side": "under",
-      "pick_desc": "F5 Under 4.5",
-      "decimal_odds": 1.8399999999999999,
-      "implied_prob": 0.5435,
-      "model_prob": 0.5493,
-      "edge": 0.0058,
-      "ev": -0.4458
-    },
-    {
-      "date": "2026-10-14",
-      "home_team": "LAD",
-      "away_team": "MIL",
-      "market": "f5_spread",
-      "side": "away",
-      "pick_desc": "MIL F5 +0.5",
-      "decimal_odds": 1.955,
-      "implied_prob": 0.5115,
-      "model_prob": 0.512,
-      "edge": 0.0005,
-      "ev": -0.4875
+      "pick_desc": "F5 Under 3.5",
+      "decimal_odds": 2.005,
+      "implied_prob": 0.4988,
+      "model_prob": 0.5027,
+      "edge": 0.0039,
+      "ev": -0.4933
     }
   ]
 }
