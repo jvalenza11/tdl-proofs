@@ -1,7 +1,27 @@
 {
   "game_date": "2026-10-15",
-  "generated_utc": "2026-10-15T20:15:42Z",
-  "num_picks": 0,
-  "picks": [],
+  "generated_utc": "2026-10-15T23:38:30Z",
+  "num_picks": 1,
+  "picks": [
+    {
+      "actual_line": null,
+      "away_team": "SEA",
+      "bankroll_before": null,
+      "decimal_odds": 1.8333333333333335,
+      "edge": 0.053621,
+      "game_date": "2026-10-15",
+      "home_team": "DEN",
+      "implied_prob": 0.545455,
+      "market": "teaser",
+      "model_prob": 0.599076,
+      "notes": "{\"type\":\"teaser\",\"tease_points\":6,\"leg_rates\":[0.774,0.774],\"copies\":1,\"stake_per_ticket\":35,\"legs\":[{\"away_team\":\"SEA\",\"home_team\":\"DEN\",\"original\":\"DEN +2.5\",\"teased\":\"DEN +8.5\",\"commence_time\":\"2026-10-16T00:15:00Z\"},{\"away_team\":\"NO\",\"home_team\":\"NYG\",\"original\":\"NYG +1.5\",\"teased\":\"NYG +7.5\",\"commence_time\":\"2026-10-18T17:00:00Z\"}]} | off-board: no published model row for this fixture; model_prob is operator-supplied",
+      "pick_desc": "TEASER 6pt 2-leg: DEN +8.5 / NYG +7.5",
+      "result": null,
+      "side": "multi:den+2.5|nyg+1.5",
+      "sport": "nfl",
+      "stake": 35.0,
+      "taken_at": "2026-10-15T20:35:16.700539"
+    }
+  ],
   "system": "TDL Curated Picks"
 }
