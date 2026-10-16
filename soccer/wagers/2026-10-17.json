@@ -1,7 +1,7 @@
 {
   "game_date": "2026-10-17",
-  "generated_utc": "2026-10-12T20:13:29Z",
-  "num_picks": 6,
+  "generated_utc": "2026-10-15T15:34:56Z",
+  "num_picks": 7,
   "picks": [
     {
       "date_event": "2026-10-17",
@@ -92,6 +92,21 @@
       "odds": 1.98,
       "side": "AWAY",
       "spread": "1.25"
+    },
+    {
+      "date_event": "2026-10-17",
+      "date_placed": "2026-10-15",
+      "edge": 0.025,
+      "ev": 0.98,
+      "kelly_wager": 20.95,
+      "league": "Serie A",
+      "market": "spread",
+      "match": "Napoli @ Venezia",
+      "model_prob": 0.554,
+      "models_agree": "5/4",
+      "odds": 1.89,
+      "side": "AWAY",
+      "spread": "-0.75"
     }
   ],
   "system": "FootyDaily Soccer Prediction Model"
