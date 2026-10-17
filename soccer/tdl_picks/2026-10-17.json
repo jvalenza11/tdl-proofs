@@ -1,0 +1,27 @@
+{
+  "game_date": "2026-10-17",
+  "generated_utc": "2026-10-17T13:22:09Z",
+  "num_picks": 1,
+  "picks": [
+    {
+      "actual_line": 0.0,
+      "away_team": "Liverpool",
+      "decimal_odds": 2.05,
+      "edge": 0.048195,
+      "game_date": "2026-10-17",
+      "home_team": "Brentford",
+      "implied_prob": 0.487805,
+      "market": "spread",
+      "model_prob": 0.536,
+      "notes": "365",
+      "pick_desc": "Liverpool +0.00",
+      "pick_id": 379,
+      "side": "away",
+      "sport": "soccer",
+      "stake": 25.0,
+      "taken_at": "2026-10-17T11:45:42.962360"
+    }
+  ],
+  "sport": "soccer",
+  "system": "TDL Curated Picks"
+}
