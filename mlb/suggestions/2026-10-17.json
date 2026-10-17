@@ -1,0 +1,86 @@
+{
+  "system": "seemsRight MLB Prediction Model",
+  "generated_utc": "2026-10-17T10:36:24.557907+00:00",
+  "game_date": "2026-10-17",
+  "num_picks": 6,
+  "picks": [
+    {
+      "date": "2026-10-17",
+      "home_team": "CLE",
+      "away_team": "TB",
+      "market": "spread",
+      "side": "away",
+      "pick_desc": "TB -1.5",
+      "decimal_odds": 2.56,
+      "implied_prob": 0.3906,
+      "model_prob": 0.4747,
+      "edge": 0.0841,
+      "ev": -0.3941
+    },
+    {
+      "date": "2026-10-17",
+      "home_team": "CLE",
+      "away_team": "TB",
+      "market": "f5_spread",
+      "side": "away",
+      "pick_desc": "TB F5 -0.5",
+      "decimal_odds": 2.26,
+      "implied_prob": 0.4425,
+      "model_prob": 0.5056,
+      "edge": 0.0631,
+      "ev": -0.4149
+    },
+    {
+      "date": "2026-10-17",
+      "home_team": "CLE",
+      "away_team": "TB",
+      "market": "f5_totals",
+      "side": "over",
+      "pick_desc": "F5 Over 3.5",
+      "decimal_odds": 2.06,
+      "implied_prob": 0.4854,
+      "model_prob": 0.5357,
+      "edge": 0.0503,
+      "ev": -0.411
+    },
+    {
+      "date": "2026-10-17",
+      "home_team": "CLE",
+      "away_team": "TB",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 6.5",
+      "decimal_odds": 1.9033333333333333,
+      "implied_prob": 0.5254,
+      "model_prob": 0.5481,
+      "edge": 0.0227,
+      "ev": -0.4314
+    },
+    {
+      "date": "2026-10-17",
+      "home_team": "CLE",
+      "away_team": "TB",
+      "market": "f5_moneyline",
+      "side": "home",
+      "pick_desc": "CLE F5 ML",
+      "decimal_odds": 1.99,
+      "implied_prob": 0.5025,
+      "model_prob": 0.5145,
+      "edge": 0.012,
+      "ev": -0.4736
+    },
+    {
+      "date": "2026-10-17",
+      "home_team": "CLE",
+      "away_team": "TB",
+      "market": "nrfi",
+      "side": "over",
+      "pick_desc": "YRFI",
+      "decimal_odds": 2.16,
+      "implied_prob": 0.463,
+      "model_prob": 0.469,
+      "edge": 0.006,
+      "ev": -0.524
+    }
+  ]
+}
