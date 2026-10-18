@@ -1,6 +1,6 @@
 {
   "system": "seemsRight MLB Prediction Model",
-  "generated_utc": "2026-10-17T10:36:24.557907+00:00",
+  "generated_utc": "2026-10-17T15:16:46.977114+00:00",
   "game_date": "2026-10-17",
   "num_picks": 6,
   "picks": [
@@ -11,11 +11,11 @@
       "market": "spread",
       "side": "away",
       "pick_desc": "TB -1.5",
-      "decimal_odds": 2.56,
-      "implied_prob": 0.3906,
+      "decimal_odds": 2.5833333333333335,
+      "implied_prob": 0.3871,
       "model_prob": 0.4747,
-      "edge": 0.0841,
-      "ev": -0.3941
+      "edge": 0.0876,
+      "ev": -0.3866
     },
     {
       "date": "2026-10-17",
@@ -24,24 +24,11 @@
       "market": "f5_spread",
       "side": "away",
       "pick_desc": "TB F5 -0.5",
-      "decimal_odds": 2.26,
-      "implied_prob": 0.4425,
+      "decimal_odds": 2.2199999999999998,
+      "implied_prob": 0.4505,
       "model_prob": 0.5056,
-      "edge": 0.0631,
-      "ev": -0.4149
-    },
-    {
-      "date": "2026-10-17",
-      "home_team": "CLE",
-      "away_team": "TB",
-      "market": "f5_totals",
-      "side": "over",
-      "pick_desc": "F5 Over 3.5",
-      "decimal_odds": 2.06,
-      "implied_prob": 0.4854,
-      "model_prob": 0.5357,
-      "edge": 0.0503,
-      "ev": -0.411
+      "edge": 0.0551,
+      "ev": -0.4271
     },
     {
       "date": "2026-10-17",
@@ -50,24 +37,24 @@
       "market": "over_under",
       "side": "under",
       "pick_desc": "Under 6.5",
-      "decimal_odds": 1.9033333333333333,
-      "implied_prob": 0.5254,
+      "decimal_odds": 1.9233333333333331,
+      "implied_prob": 0.5199,
       "model_prob": 0.5481,
-      "edge": 0.0227,
-      "ev": -0.4314
+      "edge": 0.0282,
+      "ev": -0.4259
     },
     {
       "date": "2026-10-17",
       "home_team": "CLE",
       "away_team": "TB",
-      "market": "f5_moneyline",
-      "side": "home",
-      "pick_desc": "CLE F5 ML",
-      "decimal_odds": 1.99,
-      "implied_prob": 0.5025,
-      "model_prob": 0.5145,
-      "edge": 0.012,
-      "ev": -0.4736
+      "market": "f5_totals",
+      "side": "over",
+      "pick_desc": "F5 Over 3.5",
+      "decimal_odds": 1.9449999999999998,
+      "implied_prob": 0.5141,
+      "model_prob": 0.5357,
+      "edge": 0.0216,
+      "ev": -0.4439
     },
     {
       "date": "2026-10-17",
@@ -76,11 +63,24 @@
       "market": "nrfi",
       "side": "over",
       "pick_desc": "YRFI",
-      "decimal_odds": 2.16,
-      "implied_prob": 0.463,
+      "decimal_odds": 2.2350000000000003,
+      "implied_prob": 0.4474,
       "model_prob": 0.469,
-      "edge": 0.006,
-      "ev": -0.524
+      "edge": 0.0216,
+      "ev": -0.5044
+    },
+    {
+      "date": "2026-10-17",
+      "home_team": "CLE",
+      "away_team": "TB",
+      "market": "f5_moneyline",
+      "side": "home",
+      "pick_desc": "CLE F5 ML",
+      "decimal_odds": 1.9866666666666666,
+      "implied_prob": 0.5034,
+      "model_prob": 0.5145,
+      "edge": 0.0111,
+      "ev": -0.4745
     }
   ]
 }
