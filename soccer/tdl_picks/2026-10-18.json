@@ -1,0 +1,63 @@
+{
+  "game_date": "2026-10-18",
+  "generated_utc": "2026-10-18T10:06:28Z",
+  "num_picks": 3,
+  "picks": [
+    {
+      "actual_line": 0.75,
+      "away_team": "Lazio",
+      "decimal_odds": 1.975,
+      "edge": 0.029671,
+      "game_date": "2026-10-18",
+      "home_team": "Juventus",
+      "implied_prob": 0.506329,
+      "market": "spread",
+      "model_prob": 0.536,
+      "notes": "365",
+      "pick_desc": "Lazio +0.75",
+      "pick_id": 383,
+      "side": "away",
+      "sport": "soccer",
+      "stake": 27.5,
+      "taken_at": "2026-10-18T02:21:46.542019"
+    },
+    {
+      "actual_line": 0.0,
+      "away_team": "Manchester United",
+      "decimal_odds": 2.075,
+      "edge": 0.061072,
+      "game_date": "2026-10-18",
+      "home_team": "Leeds United",
+      "implied_prob": 0.481928,
+      "market": "spread",
+      "model_prob": 0.543,
+      "notes": "365",
+      "pick_desc": "Manchester United +0.00",
+      "pick_id": 384,
+      "side": "away",
+      "sport": "soccer",
+      "stake": 27.5,
+      "taken_at": "2026-10-18T02:22:22.934092"
+    },
+    {
+      "actual_line": -1.0,
+      "away_team": "Arsenal",
+      "decimal_odds": 1.975,
+      "edge": 0.006671,
+      "game_date": "2026-10-18",
+      "home_team": "Nottingham Forest",
+      "implied_prob": 0.506329,
+      "market": "spread",
+      "model_prob": 0.513,
+      "notes": "365",
+      "pick_desc": "Arsenal -1.00",
+      "pick_id": 385,
+      "side": "away",
+      "sport": "soccer",
+      "stake": 27.5,
+      "taken_at": "2026-10-18T02:22:53.044836"
+    }
+  ],
+  "sport": "soccer",
+  "system": "TDL Curated Picks"
+}
