@@ -1,7 +1,27 @@
 {
   "game_date": "2026-10-19",
-  "generated_utc": "2026-10-19T18:38:38Z",
-  "num_picks": 0,
-  "picks": [],
+  "generated_utc": "2026-10-19T21:50:19Z",
+  "num_picks": 1,
+  "picks": [
+    {
+      "actual_line": 7.5,
+      "away_team": "WAS",
+      "bankroll_before": null,
+      "decimal_odds": 1.89,
+      "edge": -0.050001,
+      "game_date": "2026-10-19",
+      "home_team": "SF",
+      "implied_prob": 0.529101,
+      "market": "spread",
+      "model_prob": 0.4791,
+      "notes": "365 - hedge/middle on teaser SF & NE 6 pt teaser",
+      "pick_desc": "WAS +7.5",
+      "result": null,
+      "side": "away",
+      "sport": "nfl",
+      "stake": 20.0,
+      "taken_at": "2026-10-19T21:47:14.478248"
+    }
+  ],
   "system": "TDL Curated Picks"
 }
