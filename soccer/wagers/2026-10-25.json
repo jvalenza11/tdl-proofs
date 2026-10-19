@@ -1,7 +1,7 @@
 {
   "game_date": "2026-10-25",
-  "generated_utc": "2026-10-18T14:25:09Z",
-  "num_picks": 4,
+  "generated_utc": "2026-10-19T17:25:35Z",
+  "num_picks": 5,
   "picks": [
     {
       "date_event": "2026-10-25",
@@ -62,6 +62,21 @@
       "odds": 2.08,
       "side": "AWAY",
       "spread": "0.25"
+    },
+    {
+      "date_event": "2026-10-25",
+      "date_placed": "2026-10-19",
+      "edge": 0.023,
+      "ev": 0.86,
+      "kelly_wager": 20.08,
+      "league": "Serie A",
+      "market": "spread",
+      "match": "Fiorentina @ Inter Milan",
+      "model_prob": 0.564,
+      "models_agree": "5/4",
+      "odds": 1.85,
+      "side": "AWAY",
+      "spread": "1.5"
     }
   ],
   "system": "FootyDaily Soccer Prediction Model"
