@@ -1,0 +1,38 @@
+{
+  "game_date": "2026-10-23",
+  "generated_utc": "2026-10-18T14:25:09Z",
+  "num_picks": 2,
+  "picks": [
+    {
+      "date_event": "2026-10-23",
+      "date_placed": "2026-10-18",
+      "edge": 0.021,
+      "ev": 0.74,
+      "kelly_wager": 17.29,
+      "league": "Premier League",
+      "market": "spread",
+      "match": "Nottingham Forest @ Ipswich Town",
+      "model_prob": 0.527,
+      "models_agree": "4/4",
+      "odds": 1.98,
+      "side": "AWAY",
+      "spread": "-0.25"
+    },
+    {
+      "date_event": "2026-10-23",
+      "date_placed": "2026-10-18",
+      "edge": 0.041,
+      "ev": 2.65,
+      "kelly_wager": 31.71,
+      "league": "Serie A",
+      "market": "spread",
+      "match": "Monza @ Torino",
+      "model_prob": 0.529,
+      "models_agree": "5/4",
+      "odds": 2.05,
+      "side": "AWAY",
+      "spread": "0.25"
+    }
+  ],
+  "system": "FootyDaily Soccer Prediction Model"
+}

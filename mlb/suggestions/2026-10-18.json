@@ -1,8 +1,8 @@
 {
   "system": "seemsRight MLB Prediction Model",
-  "generated_utc": "2026-10-18T10:56:41.964732+00:00",
+  "generated_utc": "2026-10-18T15:37:47.810664+00:00",
   "game_date": "2026-10-18",
-  "num_picks": 6,
+  "num_picks": 5,
   "picks": [
     {
       "date": "2026-10-18",
@@ -21,27 +21,27 @@
       "date": "2026-10-18",
       "home_team": "CLE",
       "away_team": "TB",
-      "market": "nrfi",
-      "side": "over",
-      "pick_desc": "YRFI",
-      "decimal_odds": 2.38,
-      "implied_prob": 0.4202,
-      "model_prob": 0.4681,
-      "edge": 0.0479,
-      "ev": -0.4658
+      "market": "f5_spread",
+      "side": "away",
+      "pick_desc": "TB F5 -0.5",
+      "decimal_odds": 2.1550000000000002,
+      "implied_prob": 0.464,
+      "model_prob": 0.512,
+      "edge": 0.048,
+      "ev": -0.4326
     },
     {
       "date": "2026-10-18",
       "home_team": "CLE",
       "away_team": "TB",
-      "market": "f5_spread",
-      "side": "away",
-      "pick_desc": "TB F5 -0.5",
-      "decimal_odds": 2.14,
-      "implied_prob": 0.4673,
-      "model_prob": 0.512,
-      "edge": 0.0447,
-      "ev": -0.437
+      "market": "nrfi",
+      "side": "over",
+      "pick_desc": "YRFI",
+      "decimal_odds": 2.315,
+      "implied_prob": 0.432,
+      "model_prob": 0.4681,
+      "edge": 0.0361,
+      "ev": -0.4844
     },
     {
       "date": "2026-10-18",
@@ -50,24 +50,11 @@
       "market": "moneyline",
       "side": "home",
       "pick_desc": "CLE ML",
-      "decimal_odds": 2.14,
-      "implied_prob": 0.4673,
+      "decimal_odds": 2.106666666666667,
+      "implied_prob": 0.4747,
       "model_prob": 0.4988,
-      "edge": 0.0315,
-      "ev": -0.4653
-    },
-    {
-      "date": "2026-10-18",
-      "home_team": "CLE",
-      "away_team": "TB",
-      "market": "f5_totals",
-      "side": "over",
-      "pick_desc": "F5 Over 3.5",
-      "decimal_odds": 2.06,
-      "implied_prob": 0.4854,
-      "model_prob": 0.4973,
-      "edge": 0.0119,
-      "ev": -0.4901
+      "edge": 0.0241,
+      "ev": -0.4745
     },
     {
       "date": "2026-10-18",
@@ -76,11 +63,11 @@
       "market": "over_under",
       "side": "under",
       "pick_desc": "Under 6.5",
-      "decimal_odds": 1.8433333333333335,
-      "implied_prob": 0.5425,
+      "decimal_odds": 1.8500000000000003,
+      "implied_prob": 0.5405,
       "model_prob": 0.5481,
-      "edge": 0.0056,
-      "ev": -0.4472
+      "edge": 0.0076,
+      "ev": -0.4455
     }
   ]
 }
