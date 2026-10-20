@@ -1,7 +1,7 @@
 {
   "game_date": "2026-10-25",
-  "generated_utc": "2026-10-19T17:25:35Z",
-  "num_picks": 5,
+  "generated_utc": "2026-10-20T02:55:31Z",
+  "num_picks": 8,
   "picks": [
     {
       "date_event": "2026-10-25",
@@ -77,6 +77,51 @@
       "odds": 1.85,
       "side": "AWAY",
       "spread": "1.5"
+    },
+    {
+      "date_event": "2026-10-25",
+      "date_placed": "2026-10-19",
+      "edge": 0.037,
+      "ev": 2.19,
+      "kelly_wager": 30.3,
+      "league": "Premier League",
+      "market": "spread",
+      "match": "Brentford @ Hull City",
+      "model_prob": 0.55,
+      "models_agree": "5/4",
+      "odds": 1.95,
+      "side": "AWAY",
+      "spread": "-0.75"
+    },
+    {
+      "date_event": "2026-10-25",
+      "date_placed": "2026-10-19",
+      "edge": 0.05,
+      "ev": 4.02,
+      "kelly_wager": 39.08,
+      "league": "Premier League",
+      "market": "spread",
+      "match": "Newcastle United @ Crystal Palace",
+      "model_prob": 0.538,
+      "models_agree": "4/4",
+      "odds": 2.05,
+      "side": "AWAY",
+      "spread": "-0.25"
+    },
+    {
+      "date_event": "2026-10-25",
+      "date_placed": "2026-10-19",
+      "edge": 0.061,
+      "ev": 5.95,
+      "kelly_wager": 48.68,
+      "league": "Serie A",
+      "market": "spread",
+      "match": "Juventus @ Lecce",
+      "model_prob": 0.561,
+      "models_agree": "5/4",
+      "odds": 2.0,
+      "side": "AWAY",
+      "spread": "-1.25"
     }
   ],
   "system": "FootyDaily Soccer Prediction Model"
