@@ -1,7 +1,7 @@
 {
   "game_date": "2026-10-25",
-  "generated_utc": "2026-10-20T02:55:31Z",
-  "num_picks": 8,
+  "generated_utc": "2026-10-21T15:55:19Z",
+  "num_picks": 9,
   "picks": [
     {
       "date_event": "2026-10-25",
@@ -122,6 +122,21 @@
       "odds": 2.0,
       "side": "AWAY",
       "spread": "-1.25"
+    },
+    {
+      "date_event": "2026-10-25",
+      "date_placed": "2026-10-21",
+      "edge": 0.055,
+      "ev": 4.87,
+      "kelly_wager": 42.4,
+      "league": "Premier League",
+      "market": "spread",
+      "match": "Leeds United @ Sunderland",
+      "model_prob": 0.536,
+      "models_agree": "5/4",
+      "odds": 2.08,
+      "side": "AWAY",
+      "spread": "-0.25"
     }
   ],
   "system": "FootyDaily Soccer Prediction Model"
