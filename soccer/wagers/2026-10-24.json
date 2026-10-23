@@ -1,7 +1,7 @@
 {
   "game_date": "2026-10-24",
-  "generated_utc": "2026-10-22T11:17:07Z",
-  "num_picks": 6,
+  "generated_utc": "2026-10-23T11:17:14Z",
+  "num_picks": 7,
   "picks": [
     {
       "date_event": "2026-10-24",
@@ -92,6 +92,21 @@
       "odds": 1.98,
       "side": "AWAY",
       "spread": "0.75"
+    },
+    {
+      "date_event": "2026-10-24",
+      "date_placed": "2026-10-23",
+      "edge": 0.027,
+      "ev": 1.14,
+      "kelly_wager": 21.35,
+      "league": "Premier League",
+      "market": "spread",
+      "match": "Manchester City @ Aston Villa",
+      "model_prob": 0.527,
+      "models_agree": "4/4",
+      "odds": 2.0,
+      "side": "AWAY",
+      "spread": "-1.0"
     }
   ],
   "system": "FootyDaily Soccer Prediction Model"
