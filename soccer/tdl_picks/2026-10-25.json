@@ -1,0 +1,63 @@
+{
+  "game_date": "2026-10-25",
+  "generated_utc": "2026-10-24T16:04:39Z",
+  "num_picks": 3,
+  "picks": [
+    {
+      "actual_line": 0.25,
+      "away_team": "Brighton and Hove Albion",
+      "decimal_odds": 2.0,
+      "edge": 0.066,
+      "game_date": "2026-10-25",
+      "home_team": "Liverpool",
+      "implied_prob": 0.5,
+      "market": "spread",
+      "model_prob": 0.566,
+      "notes": "365",
+      "pick_desc": "Brighton and Hove Albion +0.25",
+      "pick_id": 394,
+      "side": "away",
+      "sport": "soccer",
+      "stake": 25.0,
+      "taken_at": "2026-10-24T16:00:56.786882"
+    },
+    {
+      "actual_line": -1.25,
+      "away_team": "Juventus",
+      "decimal_odds": 2.05,
+      "edge": 0.073195,
+      "game_date": "2026-10-25",
+      "home_team": "Lecce",
+      "implied_prob": 0.487805,
+      "market": "spread",
+      "model_prob": 0.561,
+      "notes": "365",
+      "pick_desc": "Juventus -1.25",
+      "pick_id": 395,
+      "side": "away",
+      "sport": "soccer",
+      "stake": 25.0,
+      "taken_at": "2026-10-24T16:01:14.697389"
+    },
+    {
+      "actual_line": -0.25,
+      "away_team": "Leeds United",
+      "decimal_odds": 2.1,
+      "edge": 0.05981,
+      "game_date": "2026-10-25",
+      "home_team": "Sunderland",
+      "implied_prob": 0.47619,
+      "market": "spread",
+      "model_prob": 0.536,
+      "notes": "365",
+      "pick_desc": "Leeds United -0.25",
+      "pick_id": 396,
+      "side": "away",
+      "sport": "soccer",
+      "stake": 25.0,
+      "taken_at": "2026-10-24T16:01:35.265078"
+    }
+  ],
+  "sport": "soccer",
+  "system": "TDL Curated Picks"
+}
