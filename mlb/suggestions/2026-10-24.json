@@ -1,6 +1,6 @@
 {
   "system": "seemsRight MLB Prediction Model",
-  "generated_utc": "2026-10-24T06:36:24.548173+00:00",
+  "generated_utc": "2026-10-24T12:30:44.819245+00:00",
   "game_date": "2026-10-24",
   "num_picks": 5,
   "picks": [
@@ -9,26 +9,13 @@
       "home_team": "MIL",
       "away_team": "TB",
       "market": "f5_spread",
-      "side": "away",
-      "pick_desc": "TB F5 -0.5",
-      "decimal_odds": 2.26,
-      "implied_prob": 0.4425,
-      "model_prob": 0.512,
-      "edge": 0.0695,
-      "ev": -0.4004
-    },
-    {
-      "date": "2026-10-24",
-      "home_team": "MIL",
-      "away_team": "TB",
-      "market": "over_under",
-      "side": "under",
-      "pick_desc": "Under 6.5",
-      "decimal_odds": 1.9400000000000002,
-      "implied_prob": 0.5155,
-      "model_prob": 0.5481,
-      "edge": 0.0326,
-      "ev": -0.4212
+      "side": "home",
+      "pick_desc": "MIL F5 -0.5",
+      "decimal_odds": 2.25,
+      "implied_prob": 0.4444,
+      "model_prob": 0.488,
+      "edge": 0.0436,
+      "ev": -0.4576
     },
     {
       "date": "2026-10-24",
@@ -37,11 +24,24 @@
       "market": "nrfi",
       "side": "over",
       "pick_desc": "YRFI",
-      "decimal_odds": 2.26,
-      "implied_prob": 0.4425,
+      "decimal_odds": 2.3,
+      "implied_prob": 0.4348,
       "model_prob": 0.4681,
-      "edge": 0.0256,
-      "ev": -0.4996
+      "edge": 0.0333,
+      "ev": -0.4886
+    },
+    {
+      "date": "2026-10-24",
+      "home_team": "MIL",
+      "away_team": "TB",
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 6.5",
+      "decimal_odds": 1.9166666666666667,
+      "implied_prob": 0.5217,
+      "model_prob": 0.5481,
+      "edge": 0.0264,
+      "ev": -0.4277
     },
     {
       "date": "2026-10-24",
@@ -50,11 +50,11 @@
       "market": "spread",
       "side": "home",
       "pick_desc": "MIL -1.5",
-      "decimal_odds": 2.8200000000000003,
-      "implied_prob": 0.3546,
+      "decimal_odds": 2.795,
+      "implied_prob": 0.3578,
       "model_prob": 0.3772,
-      "edge": 0.0226,
-      "ev": -0.5817
+      "edge": 0.0194,
+      "ev": -0.5879
     },
     {
       "date": "2026-10-24",
@@ -63,11 +63,11 @@
       "market": "f5_moneyline",
       "side": "away",
       "pick_desc": "TB F5 ML",
-      "decimal_odds": 1.94,
-      "implied_prob": 0.5155,
+      "decimal_odds": 1.9449999999999998,
+      "implied_prob": 0.5141,
       "model_prob": 0.5169,
-      "edge": 0.0014,
-      "ev": -0.4818
+      "edge": 0.0028,
+      "ev": -0.4805
     }
   ]
 }
