@@ -1,0 +1,23 @@
+{
+  "game_date": "2026-11-01",
+  "generated_utc": "2026-10-25T11:14:57Z",
+  "num_picks": 1,
+  "picks": [
+    {
+      "date_event": "2026-11-01",
+      "date_placed": "2026-10-25",
+      "edge": 0.043,
+      "ev": 2.92,
+      "kelly_wager": 35.38,
+      "league": "Premier League",
+      "market": "spread",
+      "match": "Arsenal @ Liverpool",
+      "model_prob": 0.561,
+      "models_agree": "5/4",
+      "odds": 1.93,
+      "side": "AWAY",
+      "spread": "-0.25"
+    }
+  ],
+  "system": "FootyDaily Soccer Prediction Model"
+}
