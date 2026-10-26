@@ -1,0 +1,45 @@
+{
+  "game_date": "2026-10-27",
+  "generated_utc": "2026-10-26T06:09:23Z",
+  "num_picks": 2,
+  "picks": [
+    {
+      "actual_line": 1.25,
+      "away_team": "Cagliari",
+      "decimal_odds": 2.075,
+      "edge": 0.074072,
+      "game_date": "2026-10-27",
+      "home_team": "AS Roma",
+      "implied_prob": 0.481928,
+      "market": "spread",
+      "model_prob": 0.556,
+      "notes": "365",
+      "pick_desc": "Cagliari +1.25",
+      "pick_id": 404,
+      "side": "away",
+      "sport": "soccer",
+      "stake": 25.0,
+      "taken_at": "2026-10-25T23:50:59.228471"
+    },
+    {
+      "actual_line": -0.75,
+      "away_team": "Como",
+      "decimal_odds": 1.975,
+      "edge": 0.010671,
+      "game_date": "2026-10-27",
+      "home_team": "Torino",
+      "implied_prob": 0.506329,
+      "market": "spread",
+      "model_prob": 0.517,
+      "notes": "365",
+      "pick_desc": "Como -0.75",
+      "pick_id": 405,
+      "side": "away",
+      "sport": "soccer",
+      "stake": 25.0,
+      "taken_at": "2026-10-25T23:51:16.245481"
+    }
+  ],
+  "sport": "soccer",
+  "system": "TDL Curated Picks"
+}
