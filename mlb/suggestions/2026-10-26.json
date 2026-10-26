@@ -1,6 +1,6 @@
 {
   "system": "seemsRight MLB Prediction Model",
-  "generated_utc": "2026-10-25T22:22:48.875524+00:00",
+  "generated_utc": "2026-10-26T13:52:24.352164+00:00",
   "game_date": "2026-10-26",
   "num_picks": 3,
   "picks": [
@@ -11,11 +11,11 @@
       "market": "f5_totals",
       "side": "under",
       "pick_desc": "F5 Under 3.5",
-      "decimal_odds": 2.065,
-      "implied_prob": 0.4843,
+      "decimal_odds": 2.045,
+      "implied_prob": 0.489,
       "model_prob": 0.5324,
-      "edge": 0.0481,
-      "ev": -0.4163
+      "edge": 0.0434,
+      "ev": -0.4222
     },
     {
       "date": "2026-10-26",
@@ -24,11 +24,11 @@
       "market": "over_under",
       "side": "under",
       "pick_desc": "Under 7.0",
-      "decimal_odds": 2.0633333333333335,
-      "implied_prob": 0.4847,
+      "decimal_odds": 2.0566666666666666,
+      "implied_prob": 0.4862,
       "model_prob": 0.5161,
-      "edge": 0.0314,
-      "ev": -0.4505
+      "edge": 0.0299,
+      "ev": -0.4523
     },
     {
       "date": "2026-10-26",
@@ -37,11 +37,11 @@
       "market": "f5_moneyline",
       "side": "away",
       "pick_desc": "MIL F5 ML",
-      "decimal_odds": 2.143333333333333,
-      "implied_prob": 0.4666,
+      "decimal_odds": 2.1500000000000004,
+      "implied_prob": 0.4651,
       "model_prob": 0.491,
-      "edge": 0.0244,
-      "ev": -0.4811
+      "edge": 0.0259,
+      "ev": -0.4792
     }
   ]
 }

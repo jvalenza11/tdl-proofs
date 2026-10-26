@@ -1,7 +1,7 @@
 {
   "game_date": "2026-11-01",
-  "generated_utc": "2026-10-25T11:14:57Z",
-  "num_picks": 1,
+  "generated_utc": "2026-10-26T11:18:18Z",
+  "num_picks": 2,
   "picks": [
     {
       "date_event": "2026-11-01",
@@ -17,6 +17,21 @@
       "odds": 1.93,
       "side": "AWAY",
       "spread": "-0.25"
+    },
+    {
+      "date_event": "2026-11-01",
+      "date_placed": "2026-10-26",
+      "edge": 0.037,
+      "ev": 2.2,
+      "kelly_wager": 31.42,
+      "league": "Serie A",
+      "market": "spread",
+      "match": "Venezia @ Como",
+      "model_prob": 0.566,
+      "models_agree": "5/4",
+      "odds": 1.89,
+      "side": "AWAY",
+      "spread": "1.5"
     }
   ],
   "system": "FootyDaily Soccer Prediction Model"
