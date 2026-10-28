@@ -1,6 +1,6 @@
 {
   "system": "seemsRight MLB Prediction Model",
-  "generated_utc": "2026-10-27T07:33:55.523796+00:00",
+  "generated_utc": "2026-10-27T12:33:27.416909+00:00",
   "game_date": "2026-10-27",
   "num_picks": 6,
   "picks": [
@@ -11,11 +11,11 @@
       "market": "f5_spread",
       "side": "away",
       "pick_desc": "MIL F5 -0.5",
-      "decimal_odds": 2.22,
-      "implied_prob": 0.4505,
+      "decimal_odds": 2.215,
+      "implied_prob": 0.4515,
       "model_prob": 0.5056,
-      "edge": 0.0551,
-      "ev": -0.4271
+      "edge": 0.0541,
+      "ev": -0.4286
     },
     {
       "date": "2026-10-27",
@@ -24,11 +24,11 @@
       "market": "spread",
       "side": "away",
       "pick_desc": "MIL -1.5",
-      "decimal_odds": 2.3433333333333333,
-      "implied_prob": 0.4267,
+      "decimal_odds": 2.34,
+      "implied_prob": 0.4274,
       "model_prob": 0.4747,
-      "edge": 0.048,
-      "ev": -0.4609
+      "edge": 0.0473,
+      "ev": -0.4619
     },
     {
       "date": "2026-10-27",
@@ -37,11 +37,11 @@
       "market": "moneyline",
       "side": "home",
       "pick_desc": "TB ML",
-      "decimal_odds": 2.16,
-      "implied_prob": 0.463,
+      "decimal_odds": 2.1633333333333336,
+      "implied_prob": 0.4622,
       "model_prob": 0.4988,
-      "edge": 0.0358,
-      "ev": -0.4596
+      "edge": 0.0366,
+      "ev": -0.4587
     },
     {
       "date": "2026-10-27",
@@ -60,27 +60,27 @@
       "date": "2026-10-27",
       "home_team": "TB",
       "away_team": "MIL",
-      "market": "nrfi",
-      "side": "over",
-      "pick_desc": "YRFI",
-      "decimal_odds": 2.24,
-      "implied_prob": 0.4464,
-      "model_prob": 0.4681,
-      "edge": 0.0217,
-      "ev": -0.505
+      "market": "over_under",
+      "side": "under",
+      "pick_desc": "Under 7.0",
+      "decimal_odds": 1.8766666666666667,
+      "implied_prob": 0.5329,
+      "model_prob": 0.5481,
+      "edge": 0.0152,
+      "ev": -0.4385
     },
     {
       "date": "2026-10-27",
       "home_team": "TB",
       "away_team": "MIL",
-      "market": "over_under",
-      "side": "under",
-      "pick_desc": "Under 7.0",
-      "decimal_odds": 1.87,
-      "implied_prob": 0.5348,
-      "model_prob": 0.5481,
-      "edge": 0.0133,
-      "ev": -0.4403
+      "market": "nrfi",
+      "side": "over",
+      "pick_desc": "YRFI",
+      "decimal_odds": 2.1950000000000003,
+      "implied_prob": 0.4556,
+      "model_prob": 0.4681,
+      "edge": 0.0125,
+      "ev": -0.5169
     }
   ]
 }

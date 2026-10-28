@@ -1,7 +1,7 @@
 {
   "game_date": "2026-11-02",
-  "generated_utc": "2026-10-26T11:18:18Z",
-  "num_picks": 1,
+  "generated_utc": "2026-10-27T11:17:22Z",
+  "num_picks": 2,
   "picks": [
     {
       "date_event": "2026-11-02",
@@ -17,6 +17,21 @@
       "odds": 2.0,
       "side": "AWAY",
       "spread": "1.0"
+    },
+    {
+      "date_event": "2026-11-02",
+      "date_placed": "2026-10-27",
+      "edge": 0.022,
+      "ev": 0.75,
+      "kelly_wager": 17.11,
+      "league": "Serie A",
+      "market": "spread",
+      "match": "Fiorentina @ Sassuolo",
+      "model_prob": 0.517,
+      "models_agree": "5/4",
+      "odds": 2.02,
+      "side": "AWAY",
+      "spread": "0.0"
     }
   ],
   "system": "FootyDaily Soccer Prediction Model"
