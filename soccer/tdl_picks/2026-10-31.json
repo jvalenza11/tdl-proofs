@@ -1,0 +1,45 @@
+{
+  "game_date": "2026-10-31",
+  "generated_utc": "2026-10-30T06:06:14Z",
+  "num_picks": 2,
+  "picks": [
+    {
+      "actual_line": -0.5,
+      "away_team": "Inter Milan",
+      "decimal_odds": 2.0,
+      "edge": 0.07,
+      "game_date": "2026-10-31",
+      "home_team": "AC Milan",
+      "implied_prob": 0.5,
+      "market": "spread",
+      "model_prob": 0.57,
+      "notes": "DK",
+      "pick_desc": "Inter Milan -0.50",
+      "pick_id": 412,
+      "side": "away",
+      "sport": "soccer",
+      "stake": 25.0,
+      "taken_at": "2026-10-29T22:43:16.690061"
+    },
+    {
+      "actual_line": 0.0,
+      "away_team": "Ipswich Town",
+      "decimal_odds": 1.975,
+      "edge": 0.049671,
+      "game_date": "2026-10-31",
+      "home_team": "Hull City",
+      "implied_prob": 0.506329,
+      "market": "spread",
+      "model_prob": 0.556,
+      "notes": "365",
+      "pick_desc": "Ipswich Town +0.00",
+      "pick_id": 413,
+      "side": "away",
+      "sport": "soccer",
+      "stake": 25.0,
+      "taken_at": "2026-10-29T22:43:41.575581"
+    }
+  ],
+  "sport": "soccer",
+  "system": "TDL Curated Picks"
+}

@@ -1,0 +1,45 @@
+{
+  "game_date": "2026-11-01",
+  "generated_utc": "2026-10-30T06:06:14Z",
+  "num_picks": 2,
+  "picks": [
+    {
+      "actual_line": -0.25,
+      "away_team": "Arsenal",
+      "decimal_odds": 2.05,
+      "edge": 0.073195,
+      "game_date": "2026-11-01",
+      "home_team": "Liverpool",
+      "implied_prob": 0.487805,
+      "market": "spread",
+      "model_prob": 0.561,
+      "notes": "365",
+      "pick_desc": "Arsenal -0.25",
+      "pick_id": 414,
+      "side": "away",
+      "sport": "soccer",
+      "stake": 25.0,
+      "taken_at": "2026-10-29T22:49:26.197046"
+    },
+    {
+      "actual_line": -0.25,
+      "away_team": "Genoa",
+      "decimal_odds": 2.025,
+      "edge": 0.064173,
+      "game_date": "2026-11-01",
+      "home_team": "Lecce",
+      "implied_prob": 0.493827,
+      "market": "spread",
+      "model_prob": 0.558,
+      "notes": "365",
+      "pick_desc": "Genoa -0.25",
+      "pick_id": 415,
+      "side": "away",
+      "sport": "soccer",
+      "stake": 25.0,
+      "taken_at": "2026-10-29T22:50:51.514836"
+    }
+  ],
+  "sport": "soccer",
+  "system": "TDL Curated Picks"
+}
