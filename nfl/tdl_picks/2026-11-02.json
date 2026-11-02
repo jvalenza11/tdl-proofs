@@ -1,0 +1,27 @@
+{
+  "game_date": "2026-11-02",
+  "generated_utc": "2026-11-02T04:13:53Z",
+  "num_picks": 1,
+  "picks": [
+    {
+      "actual_line": -3.0,
+      "away_team": "CHI",
+      "bankroll_before": null,
+      "decimal_odds": 1.87,
+      "edge": -0.019459,
+      "game_date": "2026-11-02",
+      "home_team": "SEA",
+      "implied_prob": 0.534759,
+      "market": "spread",
+      "model_prob": 0.5153,
+      "notes": "DK",
+      "pick_desc": "SEA -3",
+      "result": null,
+      "side": "home",
+      "sport": "nfl",
+      "stake": 35.0,
+      "taken_at": "2026-11-01T02:03:05.531379"
+    }
+  ],
+  "system": "TDL Curated Picks"
+}
