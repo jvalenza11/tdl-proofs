@@ -1,0 +1,45 @@
+{
+  "game_date": "2026-11-08",
+  "generated_utc": "2026-11-07T16:03:56Z",
+  "num_picks": 2,
+  "picks": [
+    {
+      "actual_line": 0.25,
+      "away_team": "Lazio",
+      "decimal_odds": 2.0,
+      "edge": 0.061,
+      "game_date": "2026-11-08",
+      "home_team": "Napoli",
+      "implied_prob": 0.5,
+      "market": "spread",
+      "model_prob": 0.561,
+      "notes": "365",
+      "pick_desc": "Lazio +0.25",
+      "pick_id": 428,
+      "side": "away",
+      "sport": "soccer",
+      "stake": 25.0,
+      "taken_at": "2026-11-07T14:35:56.618263"
+    },
+    {
+      "actual_line": -0.5,
+      "away_team": "Chelsea",
+      "decimal_odds": 1.95,
+      "edge": 0.033179,
+      "game_date": "2026-11-08",
+      "home_team": "Sunderland",
+      "implied_prob": 0.512821,
+      "market": "spread",
+      "model_prob": 0.546,
+      "notes": "365",
+      "pick_desc": "Chelsea -0.50",
+      "pick_id": 429,
+      "side": "away",
+      "sport": "soccer",
+      "stake": 25.0,
+      "taken_at": "2026-11-07T14:36:14.676355"
+    }
+  ],
+  "sport": "soccer",
+  "system": "TDL Curated Picks"
+}
