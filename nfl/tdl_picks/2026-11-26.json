@@ -1,7 +1,7 @@
 {
   "game_date": "2026-11-26",
-  "generated_utc": "2026-11-26T20:12:22Z",
-  "num_picks": 2,
+  "generated_utc": "2026-11-26T21:11:43Z",
+  "num_picks": 3,
   "picks": [
     {
       "actual_line": null,
@@ -40,6 +40,25 @@
       "sport": "nfl",
       "stake": 35.0,
       "taken_at": "2026-11-26T15:06:51.088825"
+    },
+    {
+      "actual_line": 8.5,
+      "away_team": "PHI",
+      "bankroll_before": null,
+      "decimal_odds": 1.93,
+      "edge": -0.012435,
+      "game_date": "2026-11-26",
+      "home_team": "DAL",
+      "implied_prob": 0.518135,
+      "market": "spread",
+      "model_prob": 0.5057,
+      "notes": "FD",
+      "pick_desc": "PHI +8.5",
+      "result": null,
+      "side": "away",
+      "sport": "nfl",
+      "stake": 35.0,
+      "taken_at": "2026-11-26T20:36:28.027090"
     }
   ],
   "system": "TDL Curated Picks"
